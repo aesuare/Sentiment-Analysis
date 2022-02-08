@@ -6,3 +6,6 @@ https://www.kaggle.com/sameersmahajan/reviews-of-amazon-baby-products
 
 # New Model type suggestion?
 Multi-Output Regression
+
+# Good article about Multi-Output Regression with Sklearn
+https://machinelearningmastery.com/multi-output-regression-models-with-python/
