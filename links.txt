@@ -1,0 +1,6 @@
+# TensorFlow Sentiment Analysis Tutorial
+https://towardsdatascience.com/a-complete-step-by-step-tutorial-on-sentiment-analysis-in-keras-and-tensorflow-ea420cc8913f
+
+# The above article's dataset
+https://www.kaggle.com/sameersmahajan/reviews-of-amazon-baby-products
+
