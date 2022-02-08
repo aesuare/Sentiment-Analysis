@@ -1,15 +1,19 @@
-from lib2to3.pgen2 import token
-from tokenize import Token
 import pandas as pd
 import numpy as np
-from sklearn import metrics
 import tensorflow as tf
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 # Read in and store in dataframe
-messages_df = pd.read_csv('Datasets/Messages.csv')
-scores_df = pd.read_csv('Datasets/Scores.csv')
+raw_messages_df = pd.read_csv('../Datasets/Messages.csv')
+raw_scores_df = pd.read_csv('../Datasets/Scores.csv')
+split = round(len(raw_messages_df)*0.8)
+
+messages_df = raw_messages_df[:split]
+scores_df = raw_scores_df[:split]
+
+test_messages = raw_messages_df[split:]
+test_scores = raw_scores_df[split:]
 
 # Create dictionaries containing message contents and scores
 file_text = {}
@@ -61,3 +65,7 @@ model = tf.keras.Sequential([
 ])
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
 model.fit(padded, np_scores, epochs=NUM_EPOCHS)
+
+prediction_seeds = np.array(raw_messages_df)
+prediction = model.predict(prediction_seeds)
+print(f"prediction: {prediction}")
