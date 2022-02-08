@@ -4,3 +4,5 @@ https://towardsdatascience.com/a-complete-step-by-step-tutorial-on-sentiment-ana
 # The above article's dataset
 https://www.kaggle.com/sameersmahajan/reviews-of-amazon-baby-products
 
+# New Model type suggestion?
+Multi-Output Regression
