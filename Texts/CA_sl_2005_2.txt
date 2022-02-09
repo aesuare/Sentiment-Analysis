@@ -1,0 +1,41 @@
+Letter from Chief Operating Officer Jeff Clarke
+ COO Jeff Clarke explains to CA employees the importance of return on invested capital.
+ CA 2005 PAGE 09
+TO MY FELLOW SHAREHOLDERS,
+In his letter, John Swainson articulated our technology strategy and growth vision. He also discussed how fiscal 2005 was a year of transition and investment at CA, with senior management taking
+a fresh look at every aspect of our business -- from the markets where we want to compete to the solutions we want to sell to the way we allocate our investment dollars. I’d like to take this opportunity to explain how we are executing to make CA a more efficient, effective and, ultimately, more successful company.
+Chief Information Officers use “return on invested capital” or ROIC as a key metric in deciding whether to make technology investments. At CA, we use the same metric to determine how
+we allocate operational and financial resources.
+ROIC represents the return that CA delivers to our shareholders and bondholders on the money they have invested in our company. It is calculated as cash flow from operations divided by invested capital (equity and debt). At a minimum, the return we generate on the capital we put to use (our ROIC) must exceed the amount we pay to get the capital (known as weighted average cost of capital, or WACC) in order to justify making those investments. Our ROIC is approximately 19 percent versus a WACC of approximately 13 percent. We think this is a very good return, but we believe we can increase it.
+MAKING THE RIGHT INVESTMENTS
+I will take you through some specific examples of how we are doing that.
+The lifeblood of any software company is its ability to provide innovative, reliable solutions to its
+customers. The challenge is to determine whether to develop those solutions in-house, partner
+or acquire. The technology industry is littered with companies that made costly, wrong calls.
+CA invests over $650 million per year in R&D to develop products in-house. With a growth strategy and vision in place, we are now following a clear rationale for ensuring that this large R&D
+investment drives future success. We are allocating the largest investments in systems and security management for the enterprise -- the company’s strongest growth areas. That said, we also will
+make appropriate investments in our mature products that -- while not having explosive growth rates – have large, loyal customer bases and are highly profitable.
+We also are looking at the most efficient places to locate our development activities. While the bulk of our software design will continue to be done in the United States, we will seize opportunities to grow in lower cost areas of the world and in areas where particular skills and expertise are
+readily available. For example, locating some development efforts associated with maintenance and upgrades of current products in countries like India provides us with access to a large talent pool
+at a much lower cost. The savings we realize can mean the difference between continuing a product or sunsetting it. We have opened a center in the Czech Republic devoted entirely to mainframe
+ 
+Letter from Chief Operating Officer Jeff Clarke
+development. The mainframe is a very important and profitable part of our business, but mainframe developers in the United States are scarce. In Prague we have tapped into a development workforce at a very competitive price point.
+Over the past year, we at CA have made a concentrated effort to identify and invest in technologies that fit into our product vision and are able to generate solid returns in a reasonable period of time through a combination of revenue synergies and expense efficiencies. For instance, when CA identified the market opportunities in the rapidly growing anti-spyware arena, we considered the cost and time involved in building a product in-house. Ultimately, we concluded that immediate entry into the market was the best course of action, and in August 2004 we purchased PestPatrol for $40 million in cash.
+In November 2004 CA made a second acquisition -- Netegrity, Inc., a leader in identity and access management (IAM) in the distributed environment -- for net $340 million in cash. Prior to the acquisition, CA had a strong portfolio of mainframe IAM products; the acquisition of Netegrity gave us the leading position across both platforms. Netegrity had 26 direct salespeople who generated approximately $90 million in sales; CA is able to leverage the might of 2,500 direct salespeople and 250 security specialist salespeople to truly drive sales of the Netegrity products.
+In June 2005 we purchased Concord Communications for $350 million. Concord’s products complement and strengthen our network management capabilities, shore up one of our most important products (our $1.3 billion Unicenter business) and at the same time open up opportunities in
+verticals and new technologies (such as telecommunications and wireless), in which we previously had little presence. We expect Concord to deliver an outstanding ROIC.
+In June 2005 we also announced our intent to acquire Niku, a leader in IT management and governance, for net $285 million. Niku will expand CA’s offerings in one of our fastest growing businesses, Business Service Optimization. While the acquisition of Niku is pending at the time of this writing,
+we believe it too will yield strong returns.
+A MORE DISCIPLINED CA
+A well-integrated internal IT infrastructure is critical to a well functioning enterprise. CA is implementing a $100 million ERP and CRM system that will enhance financial accountability and transparency,
+enable the company to better serve its customers and help ensure the controls and checks and balances that are crucial in a culture based on the highest standards of integrity and business ethics.
+In the second quarter of fiscal 2005, we looked at what the company needed to achieve and the resources we had available to meet those goals. We concluded that we were doing too many tasks internally that could be readily outsourced to outside vendors at a fraction of the cost. Over the years an unwieldy infrastructure had emerged. Neither cost efficient nor effective, this infrastructure did
+not reflect an ROIC mentality. Consequently, we made some difficult decisions to reduce costs and the number of employees, which have produced about $70 million in savings on an annualized basis.
+For other employees, we changed some of the internal metrics and compensation systems in order to drive changed behavior in fiscal 2006. As a result, sales commissions have been restructured to reward sales of new products and sales to new customers versus renewals of existing customers. In addition to revenue growth and net profit, the senior executive team is being measured on several new metrics: customer satisfaction, ROIC, billings growth and cash flow from operations growth.
+Finally, I’d like to briefly touch on CA’s fiscal 2006 budget planning process, in which we employed a rigorous procedure that challenged department heads to identify efficiencies, avenues for growth and investment initiatives with clear ROIC metrics. Department heads who could not say how they were going to be more efficient and articulate a plan for growth were sent back to the drawing board. Those who could not demonstrate a clear ROIC for a new investment went away empty-handed.
+Clearly, this is a new, more disciplined, focused and strategic CA -- driven by an uncompromising dedication to achieving growth, outstanding ROIC and superior shareholder value. I am excited to
+be part of CA’s new management team, which is committed to building a company in which its owners, employees and customers can take pride.
+Jeff Clarke
+Chief Operating Officer
+ 

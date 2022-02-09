@@ -1,0 +1,179 @@
+2007 Annual Report to Shareholders
+To Our Shareholders:
+Over the past two years, the employees of Unisys have been undertaking an extensive makeover of a 100-plus year old company that pioneered the information age. Today, the profile of a different Unisys is emerging from the hard work of thousands of employees around the world. · · · · · Our operations are profitable and our profit margins have been steadily improving. We have significantly reduced our cost structure, sharpening our competitiveness in the highly competitive information technology (IT) market. We are strategically positioned in some of the industry's largest, most dynamic growth markets such as enterprise security, outsourcing and open source solutions. We have a refreshed portfolio of services and solutions that are providing significant priceperformance improvements for clients in our targeted industries. We are winning large, exciting projects with some of the largest organizations around the world, including many new clients.
+
+Our transformation is not complete. We have more work to do ­ indeed, in an industry as dynamic as this one, we will never be done changing ­ but our progress is tangible and it is significant. Consider how far Unisys has come financially over the past several years.
+
+Financial Progress
+In 2007, our profitability was the highest it's been since 2003. We reported operating income of $85.9 million in 2007 compared with a 2006 operating loss of $326.8 million, a year-over-year improvement of $413 million. These figures include cost-reduction charges and retirement-related expense as detailed later in this report. If you exclude these items, our operating profit in 2007 increased by $130 million, or 91 percent year-over-year. Our target coming into the repositioning initiative was to achieve an 8 to 10 percent operating profit margin, excluding retirement-related expense. Considering where we started, this would represent a huge leap in profitability and would make us competitive among our peers in the IT services industry. Figure 1 shows how far we have come ­ from basically breaking even in 2005 to a 4.8 percent operating profit margin, excluding cost-reduction charges and retirement-related expense, in 2007.
+Figure 1: Operating Profit Margin
+
+Total Company
+$M
+
+$400
+
+GAAP
+
+Non-GAAP*
+$273
+
+% of Revenue
+
+8%
+
+$200
+$86 $38
+
+$143 2.5%
+
+4.8%
+
+4%
+
+$0
+-2.8%
+
+1.5% 0.7%
+
+0%
+
+-$200
+
+-$162
+
+-5.7%
+
+-4%
+
+-$327
+
+-$400 2005 2006 2007 2005 2006 2007
+
+-8%
+
+*Excludes cost-reduction charges and retirement-related expense. See Schedule A.
+
+1
+
+This profit improvement has been driven by progress in our services business. We have placed a great deal of our focus in this area given that services is now a $4.8 billion business for Unisys, representing about 86 percent of our revenue. Over the past two years, we have rebuilt the business from the ground up, refreshing our strategy, our portfolio and our delivery structure. You can see the result in Figure 2. Excluding retirementrelated expense, we have transformed our services business from a money-losing operation in 2005, to one with a 4 percent operating profit margin in 2007. Cash flow has similarly improved. Unisys generated $173.1 million of cash from operating activities in 2007, up from $28.7 million in 2006.
+
+Figure 2: Operating Profit Margin
+
+Services
+$M
+
+$300 $200
+
+GAAP
+
+Non-GAAP*
+$195 $121 $113 2.3% 4.0%
+
+% of Revenue
+
+6% 4% 2%
+
+$100
+2.5%
+
+$0 -$100 -$200 -$300
+-4.3% -$207 -0.5% -$23 -0.9% -$41
+
+0% -2% -4% -6% 2006 2007 2005 2006 2007
+*Excludes retirement-related expense. See Schedule B.
+
+2005
+
+Transformed Cost Structure and Work Force
+By far the biggest challenge we had to address as a company was our cost structure. Given that Unisys is a services-led company, our single biggest cost is labor. In 2005, our labor costs were much too high compared to our services competitors. We were fundamentally behind our competitors in taking advantage of lower-cost, highly skilled work forces available in emerging countries such as India and China.
+Figure 3:
+
+We have moved aggressively to fill these gaps. This has involved making some hard decisions. We took actions over the past two years to eliminate about 7,400 positions worldwide, approaching 20 percent of our work force. At the same time, we established leading-edge centers in India, China and Eastern Europe and have rapidly built out our resources in those regions. As shown in Figure 3, in 2005, we had about 1,500 offshore workers, including partner resources, in these countries. From that base, we have built out our offshore workers to about 4,200 Unisys and partner resources as of the end of 2007. We expect to add about 1,800 resources in offshore regions in 2008. That would put us at our target of about 6,000 total resources in low-cost countries by the end of 2008.
+
+Total Offshore Resources
+10,000
+
+7,500
+
+TARGET
+5,000
+
+2,500
+
+0
+
+Year End 2005
+
+Year End 2006
+
+Year End 2007
+
+Year End 2008
+
+We have also streamlined our research and development (R&D) expenditures by refocusing the way we invest. In our technology business, we have shifted our R&D investments toward higher, value-added software and services-based offerings, while leveraging the R&D investments of our Figure 4: Operating Expenses outside partners for hardware design and development. This Total Company has allowed us to reduce our overall R&D expenditures while effectively securing the value of a much larger investment $M Non-GAAP* GAAP pool through our partners. $1,500
+$1,324 $1,336 $1,201 $1,261 $1,186 $1,092
+
+% of Revenue
+
+40%
+
+As a result of all this work, we are steadily bringing down our costs and making the company more competitive. As you can see in Figure 4, excluding cost-reduction charges and retirement-related expense, our operating expenses (SG&A and R&D) now represent 19.3 percent of revenue, compared with 21.9 percent of revenue in 2005.
+
+30%
+
+$1,000
+23.0% 23.2% 21.2% 21.9%
+
+20.6%
+
+20%
+19.3%
+
+$500 10%
+
+$0 2005 2006 2007 2005 2006 2007
+
+0%
+
+Operating expense represents selling, general and administrative expense plus research and development expense. * Excludes cost-reduction charges and retirement-related expense. See Schedule C.
+
+2
+
+A New Foundation for Growth
+While our primary objective over the past two years has been rebuilding our profitability, we have also been doing a great deal of work to lay the foundation for future revenue growth. Organizations today are facing tremendous pressures to use information in more sophisticated ways. Free trade and increasingly global competition mean that businesses must vie against firms not only in their backyard but halfway around the world. They need to secure their operations, assets and data against a growing raft of risks such as credit card fraud and hackers. At the same time, they must relentlessly control and reduce costs if they are to stay competitive. These are challenges perfectly suited for Unisys. We have decades of experience in designing and implementing large, reliable, secure information systems that organizations can depend on to run their most critical business processes. We are putting these heritage skills together with a deep understanding of emerging technologies such as biometrics and facial recognition, powerful and low-cost open source software, and real-time virtualized servers. The combination is allowing us to offer our clients next-generation solutions and services that take them to a new level of security and priceperformance in their operations. As part of the repositioning effort, we have focused our resources in a select few large, growing areas of the market such as enterprise security, open source solutions, Microsoft solutions and infrastructure virtualization technology. We are also targeting the growing market for outsourcing services, where we assume responsibility for managing a client's IT operations and/or specific business processes.
+Figure 5:
+
+Strategic Program Revenue
+$4.0
+
+$3.0
+
+$2.8B
+$0.9
+
+$3.1B
+$1.1
+
+$2.0
+
+Grew Revenue 10% Y/Y
+
+$1.0
+
+$1.9
+
+$2.0 Other Outsourcing
+
+$0.0 2006 2007
+
+In the past two years, we have made a great deal of progress in establishing these new growth businesses. We are winning major, breakthrough contracts with some of the largest, most progressive organizations in the world. We are seeing good success in growing our new strategic businesses. While our overall revenue was down slightly in 2007, Figure 5 shows our strategic businesses grew about 10 percent during the year and now represent the majority of our revenue.
+
+Focused on Shareholder Value
+Our biggest disappointment is that not all of this progress has been reflected in our stock price. After peaking at a 2 1/ 2-year high in July 2007, our stock price has since declined despite continued progress in our profitability in 2007. Let me assure you that the Unisys Board of Directors and management team are absolutely committed to enhancing shareholder value. This is our number one focus and priority, and will remain so. While we cannot control the markets, we can control what we do. Our goal in 2008 is to continue our financial and operational progress. We are focused on further enhancing our profitability and cash flow, while continuing to build our foundation for revenue growth. As we do this ­ as we continue the makeover of Unisys into a force to be reckoned within the IT industry ­ we are confident that our clients, our employees and our stockholders will be rewarded.
+
+Joseph W. McGrath President and Chief Executive Officer
+
+3
+
+

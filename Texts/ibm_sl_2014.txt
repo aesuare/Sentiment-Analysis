@@ -1,0 +1,123 @@
+Dear IBM Investor:
+The cover of our report to you last year asked: “What will we make of this moment?”
+This was the critical and urgent decision that we — and our clients — faced. Would we seize upon the major shifts that are reordering our industry and opening up vast new applications of information technology?
+In my letter, I described our answer:
+• IBM would help transform industries and professions with data.
+• We would remake enterprise IT for the era of cloud.
+• We would reimagine work by helping clients build systems of engagement, underpinned by the imperative of security.
+At the same time, we would address significant challenges in some of our businesses, principally hardware.
+We knew we faced a critical year of transformation. It proved to be just that. The work of transforming IBM continues, and much remains to be done. But I am pleased to report that we made significant progress and built momentum in 2014.
+In this letter I will describe what we have done, and continue to do,
+to transform and differentiate your company and to position ourselves for leadership in the new era now taking shape.
+A Letter from the Chairman 1
+
+2
+ VIRGINIA M. ROMETTY
+Chairman, President
+and Chief Executive Officer
+
+Continuing to move to higher value
+Information technology is one of the most dynamic, fast- changing and fiercely competitive industries in the world, characterized by relentless cycles of innovation and commoditization. Our choice is clear: We pursue a model
+of high-value innovation, rather than commodity technology, products and services. Our commitment to this model compels us to reinvent businesses continually; grow new ones organically and through acquisitions; and occasionally divest businesses that do not fit our profile.
+You see all of this reflected in our 2014 results — a dynamic shift of our portfolio underneath our $92.8 billion in revenue, $21 billion in operating pre-tax income and operating earnings per share of $16.53 from continuing operations.
+Consider that we completed or announced the divestiture of three businesses in 2014 that a year earlier drove
+$7 billion in revenue, but lost about $500 million in profit— what I call “empty calories.” At the same time, we are making significant investments in line with the strategy
+I described to you last year.
+Throughout the year you saw the bold moves we made:
+• $1 billion to accelerate the commercialization of IBM Watson, bringing cognitive computing to more clients and partners in more industries.
+• $1.2 billion to expand our SoftLayer cloud centers around the world. We expect to have 46 locations by the end
+of 2015.
+• $1 billion to create IBM Bluemix, our cloud platform-as- a-service for software developers.
+• Further scaling our global IBM Cloud business through partnerships with SAP and Tencent.
+2014
+$92.8 billion Revenue
+$21 billon
+Operating pre-tax income
+$16.53
+Operating EPS
+A Letter from the Chairman 3
+ 
+4
+• IBM Watson Analytics, offering powerful cognitive and visually intuitive analytics in the palm of your hand.
+• A landmark partnership with Apple to bring mobility to the enterprise and reimagine the work of professionals.
+• A strategic alliance with Twitter to bring an entire new category of Big Data to business.
+These investments will contribute to the strong growth we are seeing in our strategic imperatives, which deliver high value and now represent a significant part of IBM. Together, cloud, analytics, mobile, social and security generated
+$25 billion of revenue in 2014, growing by 16 percent. Five years ago, these businesses represented just 13 percent of our revenue. Today, that has risen to 27 percent of IBM’s revenue.
+Big Data and analytics. Our analytics business grew
+7 percent to $17 billion in 2014. We are driving growth by helping our clients integrate all data sources — structured and unstructured — and apply a range of analytics — descriptive, predictive and prescriptive. We combine
+this capability with deep knowledge of industries and professions. Our analytics portfolio draws upon more than 30 acquisitions and includes nine Analytics Solutions Centers with an ecosystem of more than 6,000 business partners. Further, we are creating the next stage of Big Data and analytics with cognitive computing.
+Cloud. Our cloud business is growing rapidly — up 60 percent to $7 billion in 2014, with “as-a-service” at $3 billion, up nearly 80 percent and exiting the year with a run rate of $3.5 billion. IBM Cloud is set apart by focusing on hybrid environments optimized for data and security, shaped by our knowledge of the requirements of enterprise clients.
+For example, the planetwide footprint of cloud centers that we are building will provide clients the combination of global and localized data access and security that they need. This is unmatched in the industry.
+Engagement, underpinned by security. In mobile,
+our growth more than tripled in 2014. Going forward, we expect this to benefit from the apps from our strategic alliance with Apple and our global network of digital design studios. Further, IBM is the global leader in enterprise security, grounded not only in technology and our 3,700 patents, but in our experience-based understanding
+of the changing nature of the challenge. Enterprises and institutions discover that they cannot wall out attackers. Twenty-first century security is a Big Data problem— which is why our security business, with unequalled data and analytics capability, grew 19 percent in 2014.
+At the same time that we have been growing new businesses, we have been reinventing our core franchises. Last year
+we promised to address challenges in our Systems and Technology business. We did so in 2014, with hardware going from losses in the first half to nearly $400 million of profit in the fourth quarter alone. That is a remarkable swing.
+In transforming this business, we took several important actions:
+• We sold our x86 server business and announced the divestiture of our commercial semiconductor technology business.
+• We committed $3 billion over the next five years to the development of next-generation semiconductor technologies.
+
+A Letter from the Chairman 5
+ Engines of Growth:
+IBM’s Strategic Imperatives
+Today, our strategic imperatives
+have become a significant part of IBM. Together, cloud, analytics, mobile, social and security represented
+27 percent of IBM’s revenue in 2014. IBM generated more than 3,000 patents in these areas in 2014 and remains differentiated in our ability to integrate these technologies with our clients’ core business processes, data and systems.
+In 2014, our strategic $imperatives generated
+  STRATEGIC IMPERATIVE REVENUE MIX
+13%
+in revenue, growing by 16 percent.
+STRATEGIC IMPERATIVE
+REVENUE GROWTH VS THE MARKET*
+27%
+23% 20%
+16% 9%
+2010 2011
+18% 17% 16%
+10% 9% 9%
+2012 2013 2014
+25B
+                  2010 2014
+IBM Strategic Imperatives
+Served Market Strategic Imperatives * Data reflects actual currency rates.
+  
+6
+• We introduced major technological advances with POWER8 and software defined storage — built for cloud and Big Data.
+• In January 2015 we launched our new z13 mainframe. Built for the mobile era, it processes massive volumes of transactions while tapping back-office data and simultaneously applying real-time analytics for deeper insights and fraud detection.
+• Historically, we kept our industry-leading Power technology all to ourselves. Today, we see greater value by enabling
+an OpenPOWER ecosystem, which allows partners to innovate and build on the Power technology. Launched
+in 2013, the OpenPOWER Foundation began with five members and now stands at more than 100 around the world. The U.S. Department of Energy recently awarded IBM a long-term, $325 million contract to create future supercomputers based on OpenPOWER technology.
+All of this speaks to the enduring quality of IBM as a high- value innovation company. Last year we again spent about 6 percent of our revenue on research and development — and the ratio within our software business is double that. We invested $4 billion on capital expenditures. IBMers are prolific innovators. For the 22nd straight year, we earned the most U.S. patents of any organization, averaging 20 a day.
+2015: Our transformation continues
+Our direction is clear. We remain confident in our strategy, and we have made much progress. In 2015 we will build on our momentum:
+1. We will shift an additional $4 billion of spending
+to data, cloud and engagement this year, aimed at deepening our differentiation in the marketplace.
+In February we introduced innovations to make hybrid cloud a reality for the enterprise. We are also growing our portfolio of industry-specific analytics solutions in areas ranging from counter-fraud and oil and gas exploration, to airline maintenance and the Internet of Things. And we began the year by establishing a number of business units focused on markets and industries being transformed by our strategic imperatives: IBM Commerce, IBM Analytics, IBM Security and IBM Cloud. We have announced plans for an IBM Healthcare unit.
+2. We will continue to bring innovation to our core franchises — innovation highly valued by our clients.
+I previously mentioned the entirely refreshed line of mainframes, IBM Power Systems and storage. We will continue to apply breakthroughs from IBM Research to our products and services. In software, we will accelerate our march to “as-a-service.” In services, we will deploy advanced automation to delivery. And we will continue helping new and existing outsourcing clients transform their infrastructure and processes by leveraging IBM’s hybrid cloud platform. This was an important differentiator in helping us to sign nearly 50 contracts worth greater
+
+“IBM lives at the intersection
+of technology and business. This enables us to change the way the world works, and in so doing, to be essential to our clients and to society.”
+than $100 million in 2014 and to maintain a services backlog of $128 billion.
+These core franchises also provide the foundation for future innovation and growth. One example is our partnership with Apple. Together, we are placing powerful analytics capabilities in the hands of professionals. These apps are integrated with critical business systems, work flows and data sets. That’s what enables an airline attendant to rebook a flight while en route; a financial advisor to model a portfolio in the client’s living room; an in-store sales assistant to act as a trusted fashion advisor; or an emergency responder to have real-time situation-risk awareness, including live video.
+3. We believe open ecosystems and partnerships are key to our future innovation. This is a significant new element of our growth strategy. We will add to and scale partnerships with companies like Apple, Twitter, SAP, Tencent and now, SoftBank. Also, the IBM Watson Ecosystem is rapidly expanding, with 4,000 companies in the pipeline.
+Together, these actions will make IBM an even higher-value business. We expect our strategic imperatives of cloud, analytics, mobile, social and security to continue growing by double digits and to become a greater percentage of IBM. We will remain the enterprise leader in these markets.
+Finally, we will continue to return substantial value to you,
+our owners, through dividends and gross share repurchases. Last year, these were $4.3 billion and $13.7 billion, respectively. In 2014 we marked our 19th consecutive year of raising our dividend and our 99th year of paying one.
+A Letter from the Chairman 7
+
+8
+An essential company
+So I come back to this moment, full of rapid change, but even more opportunity — and to IBM’s unique purpose as an enterprise.
+IBM lives at the intersection of technology and business. This enables us to change the way the world works, and in so doing, to be essential to our clients and to society.
+We work with 90 percent of the world’s top banks, 9 of the top 10 oil and gas companies, 40 of the top 50 retailers and 92 of the top 100 healthcare organizations. IBM systems manage banking, reservations, transportation, retail, trading and healthcare systems. Our mainframes alone process
+75 percent of the world’s business data.
+Today we are building upon this foundation to create an entirely new generation of critical systems. IBM’s clients are unclogging city traffic, exploring a cure for cancer, improving the safety of food supplies, reducing risk, and serving their own customers, employees, citizens and patients with greater levels of understanding, personalization and intimacy. A new world is taking shape before our eyes, remade by data, rewritten in code and growing smarter every day.
+This is the work that energizes me and all of my fellow IBMers. I am deeply grateful to the IBM team for bringing us here,
+and to you, our shareholders, for your support. I hope you share our excitement about your company’s path and the shared opportunity we have, together, to do something that is truly essential.
+Virginia M. Rometty
+Chairman, President and Chief Executive Officer
+This letter includes selected references to certain non-GAAP financial measures that are
+made to facilitate a comparative view of the company’s ongoing operational performance.
+This letter also includes certain historical information on strategic imperatives revenue which has been measured on a consistent basis. For information about the company’s financial results related to operating pre-tax income and operating earnings per share, on a continuing operations basis, which are non-GAAP measures, see the company’s 2014 Annual Report, which is Exhibit 13 to the Form 10-K submitted to the SEC on February 24, 2015. For reconciliation and other information concerning these items refer to page 45 of the company’s 2014 Annual Report.
+    

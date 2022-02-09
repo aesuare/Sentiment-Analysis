@@ -1,0 +1,68 @@
+A Letter to Our Shareholders
+Unisys entered 2016 intensely focused on executing against the strategic plan we had developed the year before. We
+achieved significant progress against our plan, and as a result delivered strong results for the year that reflect ongoing
+progress in our strategic transition of the business. We improved profitability and cash flow while demonstrating financial
+discipline and better positioned the company from a competitive standpoint as we look forward.
+Meeting Our Commitments by Achieving Our Goals
+We began the year by providing financial guidance for revenue, non-GAAP operating profit margin and adjusted free cash flow
+for the first time in more than a decade. I am pleased to report that we met our guidance for both revenue and non-GAAP
+operating profit margin, and exceeded it on adjusted free cash flow.
+This performance marked a significant step forward for our company, and was driven by the operational and financial goals
+we set entering the year:
+• Executing against our vertical go-to-market strategy (which focuses on targeted high-growth industries in the
+Government, Commercial and Financial Services sectors in which we have domain-specific intellectual property and
+expertise);
+• Launching tailored, software-led solutions for these industries such as Digital Investigator™, an information
+management system to allow law enforcement agencies to share critical investigative information across
+applications and agency boundaries, in the Government sector;
+• Launching new capabilities aligned with our security focus, such as Stealth(aware)™, which automates
+implementation and thus drives faster deployment of Unisys Stealth
+®
+, our award winning suite of micro-
+segmentation software; and
+• Improving the efficiency of the business, in both our Services and Technology delivery teams, resulting in higher
+gross margins, and reducing our selling, general and administrative (SG&A) costs as a percentage of revenue.
+Achievements with a Direct Line to Results
+Achieving these goals helped us produce the following results in 2016:
+• A year-over-year increase in total contract value (TCV) of 13 percent, as well as a year-over-year increase of
+17 percent in new business TCV;
+1
+• 2.6 percent revenue growth on a constant-currency basis in areas of focus in our key industries (which make up
+42 percent of revenue) of Justice, Law Enforcement & Border Security in Government; Travel & Transportation and
+Life Sciences & Healthcare in Commercial; and Commercial & Retail Banking in Financial Services, indicating traction
+with our vertical go-to-market strategy;
+• Reduced capital-expenditure needs by transitioning to
+a more asset-lite model and significantly improved cash flow; and
+• A successful placement of approximately $213 million of 5.5 percent convertible notes due in 2021 and a reduction
+of approximately $115 million in the 6.25 percent senior notes due in 2017.
+Security in Everything We Do
+With network and data breaches increasing in frequency worldwide – and hitting an all-time high in the U.S. – our clients are
+prioritizing security more than ever before, both in the private and public sectors.
+2
+Unisys has a deep history in security, and
+is well-positioned to help address these concerns with advanced, highly-secure solutions. This approach has been
+resonating with clients.
+In November, we launched a new branding campaign focused on “Securing Your Tomorrow™,” emphasizing the fact that
+security is a key element in our solutions – including our ClearPath Forward™ systems, of which we introduced the first-ever
+software-only version in 2016. In fact, the ClearPath operating environments are the only ones on the market in which user
+data has never been forcibly extracted.
+3
+In 2016, we continued to expand the reach of Unisys Stealth, and during the year we entered into agreements to offer it to
+clients on the Amazon Web Services Marketplace and on the Microsoft Azure cloud, making Unisys Stealth the first micro-
+segmentation security product available on both of these leading public cloud environments. The U.S. National Security
+Agency designated Unisys Stealth as eligible for use with systems that manage and process classified information, as did
+the National Assurance Information Partnership, which provides a similar level of certification recognized by more than
+20 countries around the world.
+Driving Performance and Shareholder Value
+Our operational improvements are well underway, and we have begun to see the effects of such improvements in our
+financial performance.
+We also continue to launch new, software-led solutions to help drive value and growth, and in fact have already announced
+two in the first quarter of 2017 – Elevate™ by Unisys in Financial Services, a digital banking platform and suite of applications
+designed to help financial institutions deliver a secure omnichannel banking experience to their customers; and Active
+Insights™ by Unisys, an integrated medical device management platform providing life sciences and healthcare companies
+with the ability to monitor the medical devices within their organization.
+Thank you for your trust in Unisys. Our more than 20,000 associates around the globe are working hard to earn that trust
+every day. We will continue to leverage the strength of our people and assets to drive value for our clients, which should
+enhance our performance and value for our shareholders.
+Peter A. Altabef
+President and CEO

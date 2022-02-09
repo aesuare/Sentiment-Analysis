@@ -1,0 +1,54 @@
+2002 Annual Report
+
+1
+
+A Letter from the President
+In 2002, we saw considerable improvement in our business and a return to profitability in the second quarter. Cash from operations grew by over $105 million during the year, resulting in cash and short-term investments of $456 million as we exited the year. Our retail sales continued to be the main driver of our product revenues and consistently achieved record quarterly highs in terms of revenues, units shipped and megabytes shipped as a result of the successful penetration of new geographic markets and the strong flow of new products. Retail sales in 2002 represented approximately 64% of total product sales, up from 54% of product sales in 2001. Approximately 40% of retail sales in 2002 were derived from new products introduced during the year. Despite continued economic weakness in many of our industrial and telecom markets, revenues from OEM customers and industrial distributors improved slightly from the levels experienced in 2001. Overall, retail sales in 2002 increased by 87% relative to 2001, while OEM sales improved by 22%. While our average selling price per megabyte declined by approximately 50% compared to 2001, our product gross margins improved consistently throughout 2002, reaching 37% in the fourth quarter, due to the successful implementation of our aggressive cost reduction programs. During 2002, we saw significant strengthening in our operations and technology. The transfer of manufacturing and test operations to lower cost subcontractors in Taiwan and China in 2001 resulted in substantially lower product costs in 2002. We successfully completed the transfer of NAND flash wafer fabrication from our FlashVision joint venture foundry in Virginia to the more cost-effective Toshiba memory wafer foundry in Yokkaichi, Japan. In addition, we established three regional customer order fulfillment centers to serve the American, European and Japan/ Pacific Rim markets and increased our investments in supply chain management, information technology, and infrastructure, which has allowed us to become more responsive to our retail customers. We expanded our global retail presence to more than 50,000 outlets worldwide, up from 38,000 outlets in 2001.
+
+shoot it.
+SanDisk provides a wide range of innovative flash storage solutions. Our consumer-friendly retail product line enables digital camera users to capture and store their special memories and share their favorite pictures with family and friends ­ faster and easier than ever before.
+
+see it.
+
+play it.
+
+share it.
+
+2
+
+SanDisk Corporation
+
+We continued to invest aggressively in our flash memory and controller technologies, working closely with Toshiba, our FlashVision joint venture partner. During 2002, we: · Completed qualification and ramped production volumes of the 1 gigabit multilevel cell (MLC) .16 micron NAND technology. In the fourth quarter of 2002, more than 50% of our megabytes shipped were MLC NAND technology, contributing positively to our product gross margins; · Completed the development and commenced production in the fourth quarter of the next generation .13 micron NAND technology. We are currently on track to shift the majority of our production to this technology in the second half of 2003, which should give us further cost reductions; and · Announced new cooperation with Toshiba to jointly develop the 90 nanometer and 70 nanometer generations of NAND flash memory over the next several years. Successful and timely development of these leading edge flash memory technologies is crucial for further market expansion and sustained growth with profitability in 2004 and beyond. Anticipating strong growth in demand for flash memory in the coming years that may outstrip our existing supply, we recently announced our intention to make further investments over the next two years, together with Toshiba, to expand 200 millimeter advanced NAND wafer fabrication capacity at our FlashVision joint venture foundry in Yokkaichi, Japan. These investments are expected to be funded from internal capital resources. In August 2002, we renewed our patent cross license agreement with Samsung, which amicably resolved our legal dispute with them. Samsung agreed to continue the previous license agreement and to supply us a portion of their NAND flash
+
+share it.
+
+SanDisk continues to introduce exciting flash storage products. The miniSDTM card, introduced in 2003, utilizes the same feature set as our SDTM card and is designed in a smaller format targeted at devices such as cellular phones. Memory Stick PROTM, developed jointly with Sony Corporation, offers the latest in data security and data loss prevention so users can easily store their digital data, music, photos and videos. The SanDisk Digital Photo Viewer instantly displays digital photos on most television sets for easy sharing of pictures with family and friends. The innovative SanDisk ConnectTM product line is the first Wi-Fi solution to include both flash memory and wireless communications technology enabling users to quickly transmit, receive and store email, data, images and music from their laptops or PDAs.
+
+show it.
+
+move it.
+
+2002 Annual Report
+
+3
+
+production output. We also extended our cross license to include MLC patents in future products. During 2002, we continued to put a great deal of emphasis on innovation and invention. Presently, we have been issued over 200 flash memory related patents. Income from royalties and license fees increased in the latter half of 2002 as our licensees experienced increased sales of flash memory products. We expect sales growth in 2003 to come from several sources including increased sales of SDTM cards, the new miniSDTM cards, the introduction of the Memory Stick ProTM and other new card products and accessories, increased sales of NAND components and continued growth of retail sales from new geographic markets and new sales channels. We expect to continue to develop and introduce new products and industry standards to meet the growing needs of our customers. We announced several new leadership products at the 2003 PMA and Cebit shows and we believe these new products will contribute to our 2003 results. These include the new miniSD card developed specifically for advanced cell phones that incorporate digital cameras, MP3 players and internet media access, as well as new high performance and high capacity cards: CompactFlash® cards with 4 gigabytes capacity, SD cards with 1 gigabyte capacity, new SanDisk UltraTM cards with up to 6 megabytes per second sustained write speed, new SanDisk ExtremeTM cards for the most demanding professional digital outdoor photographers, as well as a family of new high speed USB 2.0 card readers. We announced the development of a new standard, the 5C Mobile E-Commerce Security Specification, for future high security flash cards, and introduced the industry's first dual function flash Wi-Fi (802.11b) wireless cards, which we expect to ship starting in the first half of 2003. We believe the flow of new and differentiated products in support of our market strategy will allow us to continue to be the worldwide market share leader in flash cards.
+
+play it. store it.
+
+see it.
+
+hear it.
+
+4
+
+SanDisk Corporation
+
+The markets in which we have a strong presence are still relatively young and several of these markets will likely grow into very large scale opportunities in the next few years. SanDisk today has the technology, the products, the strategic relationships, the market positioning, the intellectual property, the strong balance sheet and, most importantly, the team of dedicated, experienced and passionate employees, to benefit from these markets and thus become one of the most prominent players in mobile storage in the post-PC era. As the price of flash continues to decline through technology advancements, we see flash memory increasingly as a "disruptive" technology that will soon obsolete established, mature alternatives. In conclusion, I am proud of our performance in 2002 and our ability to react to the challenging economic conditions we faced during the year. Looking forward to 2003, I am concerned about current worldwide economic conditions, as well as the current international uncertainties surrounding the war with Iraq and the war on terrorism as these factors may have adverse effects on consumer confidence, which is an important element underlying growth in our retail sales. However, I am excited about the range of business opportunities available to us in 2003 and beyond. Our fundamentals are stronger than ever, and we are well positioned to meet the challenges ahead. We very much appreciate the continuing support and confidence of our stockholders, customers and employees.
+
+Eli Harari President and Chief Executive Officer
+
+move it.
+SanDisk creates innovative products for people on the go. People who want to capture more memories, store more music, move more pictures and videos, and share more files. People who want instant access to their information anytime and anywhere ­ whether at work, at home or at play. We continue to develop and expand our partnerships with many of the world's leading OEMs to ensure SanDisk flash storage products are compatible with the newest generation of digital consumer electronics, wireless and mobile computing devices such as digital cameras, digital music players, PDAs, personal communicators, digital voice recorders, and photo printers.
+
+

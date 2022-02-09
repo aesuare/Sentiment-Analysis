@@ -1,0 +1,109 @@
+ LETTER
+ TO OUR SHAREOWNERS
+  PATRICIA F. RUSSO
+Chairman and Chief Executive Officer
+  TO OUR SHAREOWNERS:
+Fiscal 2003 was another challenging year for the global telecommunications market as capital spending by service providers continued to decline before beginning to stabilize toward the end of the year. Despite market difficulties, we managed to reduce our year-over-year losses substantially and end the year on a strong positive note — reporting a profitable quarter for the first time since March 2000 and generating positive operating cash flow for the first time since June 2002.
+Reporting a profitable fourth fiscal quarter was a significant milestone for the company and it was an important step for- ward in our drive toward sustained profitability, which we intend to achieve during fiscal 2004. This achievement, how- ever, wasn’t the result of one quarter of effort. Rather, it was the culmination of three years of hard work and dedication
+on the part of the entire Lucent team. We’ve had to make a number of difficult decisions in such areas as resizing our work force and reducing subsidies for employee and retiree healthcare. We’ve reduced costs, rationalized our product portfolio, and streamlined our supply chain, while at the same time improving our performance in meeting the needs of our customers.
+While we clearly have more work to do on our path to sus- tained profitability, we have dramatically improved the fundamental operations of the business. Notwithstanding the fact that our year-over-year results include some significant items, compared with fiscal 2002, we:
+• Improved gross margin by 18 points.
+• Reduced our operating loss by $6.8 billion.
+• Reduced our net loss from $11.8 billion to $770 million.
+• Decreased our working capital by $600 million.
+• Reduced our total expenses by $5.6 billion.
+We also made progress in other strategic areas. During the
+fiscal year we:
+• Penetrated new markets such as Managed Services with
+about $250 million in new contracts.
+• Established a leadership position in metro optical.
+• Established strategic relationships with Juniper Networks
+and Cisco Systems and extended our relationships with
+Sun Microsystems and IBM.
+• Introduced new products, including
+— the 5E-XCTM high-capacity switch being deployed by SBC.
+— the iGenTM Compact Switch, a cost-effective multiservice switch that can reduce operating expenses up to 90 percent for small switch applications.
+— the Lucent Flexent® Modular Cell 4.0 CDMA2000 base station, built using Lucent’s OneBTS® digital base sta- tion platform for 3G spread-spectrum technologies.
+— Metropolis® DMXplore Access Multiplexer, which extends the reach of SONET networks to small- and medium-sized enterprises.
+At the same time, our customer satisfaction survey results are the highest they have been in five years, surpassing the competitive average.
+These accomplishments — in the face of a challenging telecommunications market — are a clear testament to our employees’ resolve and determination.
+FINANCIAL SUMMARY
+For the year ended September 30, 2003, revenues declined about 31 percent compared with the prior year, from $12.3 bil- lion to $8.5 billion. We reduced our loss per share from $3.49 for fiscal 2002 to $0.29 for fiscal 2003.
+On a segment basis, revenues in Integrated Network Solutions decreased 32 percent, to $4.2 billion, compared with fiscal 2002, and Mobility Solutions’ revenues declined 28 per- cent to $4 billion, compared with the previous year.
+Despite industrywide cuts in capital spending, we announced nearly 90 contract wins in 2003. We had wins in all segments of the telecom networking sector — from access to core net- works, in wireline and wireless networks, and in software and services.
+At this point, we have essentially completed our restructuring initiatives. In the current challenging environment, it’s likely that we’ll still have some ups and downs on our path to sustained profitability. Like any business, there will still be adjustments as we respond to the market. We will continue to manage our cost and expense profile, while also increasing our investment in certain new product areas.
+POCKETS OF OPPORTUNITY
+While we remain focused on generating sustainable profitable momentum in 2004, we also are focused on longer-term
+1
+
+ LETTER
+ TO OUR SHAREOWNERS
+2
+challenges in terms of the opportunities they present. We have identified pockets of opportunity that could drive near-term growth in markets such as voice over Internet protocol
+(VoIP) and softswitch, metro optical, broadband access, high- speed wireless data and services. Our product portfolio is well-positioned to capitalize on these opportunities.
+We also have implemented plans to broaden our revenue base into areas such as Managed and Professional Services, government and certain other markets outside the United States. In addition, we’re expanding our reach with about 200 partners in 50 countries around the world. Through our Global Business Partners program, in 2003 we won several optical and VoIP contracts in Europe, as well as contracts for our optical products in China.
+INTEGRATED NETWORK SOLUTIONS
+We see opportunities in the VoIP and softswitch markets, even though they are in their early stages, and we expect these markets will grow and evolve over many years. To address these opportunities, we recently unveiled our AccelerateTM portfolio to help our customers deploy VoIP services and net- works. Anchored by our newly launched 5E-XC switch, which triples the capacity of the existing 5ESS® switch, Accelerate is all about speed. These solutions put our customers on an accelerated path to an all-IP network by rapidly enabling rev- enue-generating services that can help fund next-generation network builds.
+SBC announced it would deploy the 5E-XC to more cost- effectively support voice and data calls that enter and exit its local network.
+Our new unified Softswitch — a platform that supports both wireline and wireless applications — is another key compo- nent of our Accelerate portfolio. While the softswitch market is in its early stages, we have enjoyed some successes. For instance, we have announced a wireline trial of the new Lucent Softswitch with China Unicom, and we have another trial under way in Europe. And we continue to support eight wireline softswitch customers in live network applications. With each trial, we learn more about how our customers can make the most of our VoIP technology. And as the market develops and customers decide to invest, we’ll be there.
+Metro Optical
+We also have strategically pursued the opportunity and momentum in the metro optical space. As a result, we now have more than 80 customers for our Metropolis DMX portfo- lio, including
+• Verizon, which deployed our Metropolis DMX portfolio of optical networking products and the LambdaUnite® MultiService Switch (MSS) to dramatically increase the
+capacity of parts of its network and to offer a wide variety
+of high-speed services to its customers.
+• AT&T selected our Metropolis DMX Access Multiplexer and
+the Metropolis DMXtend Access Multiplexer as part of its next-generation intelligent optical network to increase capacity and enable new revenue-generating services in metropolitan areas.
+• BellSouth chose the Lucent Metropolis DMX Access Multiplexer to increase the network capacity of its optical networks covering their Southeast markets.
+As more and more customers deploy the DMX to build next- generation optical networks, they will need an optical switch/cross-connect product such as our LambdaUnite to bridge the increasingly sophisticated traffic across metro opti- cal networks or connect it with a long-haul network. We have already deployed LambdaUnite with Deutsche Telekom; Shandong Unicom, Zheijiang Telecom, and GEFC in China; Telkom Indonesia; and ICE in Costa Rica.
+Broadband Access
+We believe our broadband access portfolio of products is well-positioned to capitalize on that market opportunity. And many of our contract wins in this area reflect this opportunity, including
+• Bell Canada deployed the AnyMedia® Access System to expand its Digital Subscriber Line (DSL) Internet service and wireline voice networks.
+• Sprint LTD selected Lucent’s Stinger® DSL Access concen- trators, for broadband access, one of the largest contracts ever for the Stinger product.
+• Brasil Telecom installed 100,000 Stinger DSL Access Concentrators.
+• Telekomunikacja Polska deployed the new Stinger Micro- Remote Terminal 48, which supports high-speed services in space-constrained areas such as street cabinets or multitenant buildings.
+In May 2003, we formed a three-year strategic relationship with Juniper Networks to deliver unified solutions to help service providers evolve today’s networks to tomorrow’s next-generation infrastructure. We are leveraging complemen- tary networking strengths in ATM/Frame Relay, IP/MPLS, optical, voice, network services and software to create a set of market-ready “unified offers” that solve the toughest chal- lenges our service provider customers face. Since the relationship was established, we’ve made significant progress. We released the first Navis®-integrated solution, the IP VPN Solution, and announced the development of a capability to deliver ATM services with guaranteed quality of service over MPLS networks.
+
+ LETTER
+ TO OUR SHAREOWNERS
+MOBILITY
+We remain the global leader in spread-spectrum technology — shipping more than 90,000 spread-spectrum base stations worldwide, more than 50,000 of them supporting third genera- tion (3G) CDMA2000 1X services. We continue to have strong relationships with the world’s leading service providers, and world-class knowledge of spread-spectrum technology — all of which positions us well to capitalize on the 3G market as it evolves and matures.
+There are areas of opportunity where mobile operators continue to upgrade, expand and deploy 3G networks. For instance, we signed a new $1 billion multiyear agreement with Sprint to enhance and upgrade the largest high-speed wireless network in the United States with additional 3G equipment from Lucent. We also announced agreements valued at more than $600 million with China Unicom for Phase II and Phase III CDMA expansion.
+And we’ve announced contract wins with major service providers around the world, including Reliance Infocomm in India, KTF in Korea, Moscow Cellular, CODETEL in the Dominican Republic, VIVO — a joint venture of Telefonica Moviles and Portugal Telecom — in Brazil, and Cingular in the United States.
+New High-Capacity Base Station
+In addition, we unveiled our new, compact, cost-effective base station, Flexent Modular Cell 4.0 Compact, a high-capacity CDMA2000 base station and the newest addition to Lucent’s Bell Labs-developed OneBTS family of base stations. It’s an ideal solution for mobile operators with networks that require a base station that takes up less space. And China Unicom is deploying the 4.0 Compact as part of its Phase III expansion.
+Verizon Wireless announced the commercial launch of a super-fast mobile data network in Washington, D.C., that pro- vides businesses and consumers with broadband access data services at speeds of up to 2.4 Mbps. Lucent supplied equip- ment, software and services for this 3G CDMA2000 1xEV-DO network.
+And more recently we announced that we are working with AT&T Wireless to deploy a 3G W-CDMA (Wideband Code Division Multiple Access) trial network in the greater Miami area to evaluate mobile voice and high-speed data services. This trial network will be the first W-CDMA, also known as Universal Mobile Telecommunications System (UMTS), deployment for Lucent in North America, and gives both Lucent and AT&T Wireless the opportunity to explore the range of services that 3G W-CDMA can make available for customers.
+In January, we announced a partnership with Cisco Systems to resell select Cisco data networking products as part of Lucent’s mobile networking product portfolio for wireless
+service providers. This reflects our strategy to focus on our core strengths while partnering with other industry leaders when it makes sense. Lucent’s industry-leading expertise in wireless networking and Cisco’s IP networking leadership will allow our customers to quickly tap into the new revenue streams being created by the explosive demand for high- speed mobile data.
+SERVICES
+Lucent Worldwide Services (LWS) has combined talented people with network know-how and Bell Labs-developed algo- rithms, skills and methodologies to become the industry’s leading network integrator.
+Going forward, we see the biggest growth opportunities for LWS in Managed Services and Professional Services, which help service providers increase their revenues, reduce their operating costs and increase the reliability and security of their networks. We’re beginning to get traction in these two areas. In fact, this year alone, we signed Managed Services con- tracts in North America, Australia, New Zealand, South America and Europe.
+Our Professional Services offers are based on Bell Labs research and innovations to help service providers increase network reliability, efficiency and security. Most recently, we announced a suite of wireless in-building Professional Services that will enable mobile operators and enterprises to improve voice and data coverage in high-traffic areas such as corporate buildings, shopping malls, multitenant buildings, manufacturing facilities and airports.
+This year we secured several Professional Services con- tracts with international carriers, including KTF in Korea and O2 in the United Kingdom, with whom we signed a three-year agreement to assess and analyze the performance of its GSM and GPRS networks in Europe.
+We are also focusing our efforts in the government market where we provide systems integration, consulting and a host of Professional Services solutions, ranging from network opti- mization, planning and design to network security. And we’ve already had some successes in this area. Lucent was award- ed the first communications infrastructure contract in Iraq — a $25 million subcontract awarded by Bechtel for emergency repair and rehabilitation of the Iraqi network. And in the
+fourth fiscal quarter alone, we won more than a half dozen Professional Services contracts with other large government contractors.
+We also see a large growth opportunity in helping service providers manage their multivendor networks. In fact, we man- age about 30 service provider and enterprise networks from our three global network centers.
+3
+
+ LETTER
+ TO OUR SHAREOWNERS
+BELL LABS
+Bell Labs, the innovation engine that powers Lucent Technologies, is taking the lead in shaping tomorrow’s broad- band networks for service providers. Spread across the globe, the more than 9,500 scientists and engineers that make up Bell Labs serve a dual mission for Lucent. The bulk of the Bell Labs community is focused on developing new communica- tions products and services for Lucent, and researching real-world technical issues such as network security, reliability and efficiency. Many Bell Labs researchers and developers also work directly with Lucent’s service provider customers worldwide in an ongoing effort to improve such things as quality of service and network optimization.
+Bell Labs scientists and engineers are constantly pushing the frontiers of science and technology, while defining the vision and setting the pace of innovation for the communica- tions industry and beyond.
+Innovation Central
+Bell Labs also maintains a long-term basic research program that allows its researchers to explore fields such as theoretical computer science, materials science and bioengineering — fields in which Bell Labs continues to make seminal contribu- tions. Just this year, Bell Labs scientists made a surprising discovery that a deep-sea sponge constructs optical fiber that is remarkably similar to the optical fiber found in state-of-the- art telecommunications networks. These biological fibers present a number of technological advantages over telecom fiber, such as more flexibility, and could lead to better fiber- optic networks in the future.
+On March 10, 2003, Bell Labs was granted its 30,000th United States patent, a testament to the continuing feverish pace of innovation at Bell Labs. This milestone patent covers the mechanisms for guaranteeing quality of service in Internet protocol networks, which should help make packet-based net- works as reliable as today’s telephone networks.
+The R&D Council of New Jersey honored three Bell Labs scientists with the 2003 Thomas Alva Edison patent award for their software verification technology, an innovation that has replaced the slow and flawed manual process that was often used to test software for errors.
+Bell Labs scientists also are involved in steering the course of nanotechnology, which involves manipulating and designing materials at the scale of individual atoms or molecules.
+Bell Labs is now directly managing the New Jersey Nanotechnology Consortium, located at our headquarters in Murray Hill, N.J. We have a world-class nanofabrication lab and an electron beam lithography lab up and running, staffed by a team of leading scientists and engineering experts. The work being done here is focused on commercialization, with several contracts already in place with customers in areas such as defense, biotech and aerospace.
+BUILDING FOR THE FUTURE
+While the current environment for telecommunications equip- ment continues to be challenging, we are now seeing some signs of stability in the overall market. Although analysts expect little change in service provider capital expenditures in 2004 from 2003, we are no longer fighting the double-digit capital expenditure cuts that plagued the telecom market over the past three years. The worst seems to be clearly behind us, and our focus has shifted accordingly.
+Telecommunications is the backbone of the global economy, and the inherent need for communications is a key component of the global economic recovery. Our industry, therefore, is a critically important one and will ultimately stabilize and return to growth. It’s not a question of if, but when, as Internet con- nections become the next generation’s dial-tone, as the need for high-speed wireless data and new applications increases, as the world’s focus turns more and more to network security and reliability issues during times of crisis, and as the world’s embedded network infrastructures evolve to more IP-based and wireless architectures.
+Over the past year, Lucent’s senior leaders have developed a five-year strategic plan aimed at growing our business for the long term. We looked at where we want to be in 2008
+and what it will take to get there. We have defined a set of aggressive strategic outcomes, set some stakes in the ground and are in the process of engaging all of the people of Lucent in this important work.
+Our strategy supports our new stated purpose: creating new possibilities to enhance people’s lives by transform- ing the way the world communicates. It leverages our legacy of innovation, and it says that, going forward, we intend to create new ways to communicate and continue to develop technology that will make a difference in the way people work and live. The plan draws on our expertise in software, net- working and services. We’ll be looking to new markets and new geographies to drive our growth. We’ll tap deeper into our innovation engine, Bell Labs, and continue to expand partner- ships and alliances. Our aim is to be the leading network integrator worldwide and the No. 1 network solutions provider in the world.
+We invite you to track our progress during the coming year by logging on to www.lucent.com.
+Patricia F. Russo
+Chairman and Chief Executive Officer
+   4
+December 12, 2003

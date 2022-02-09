@@ -1,0 +1,61 @@
+Letter from the CEO
+  William E. McCracken
+Chief Executive Officer
+dear fellow investors:
+We closed fiscal year 2010 with solid performance across our business, despite a challenging economy. With a strong strategy and team, we are moving forward with a sense of urgency to gain even better results in fiscal year 2011.
+We are building on the best of our business to take a leadership role in the faster growing segments of the information technology (IT) industry, supported by a culture of performance and execution. Based on our core strengths and our innovation in emerging areas like virtualization management and cloud computing, we believe the timing could not be better.
+Our industry is at an inflection point; the convergence of economic forces, technology advances and compelling business needs is creating opportunities for CA Technologies to seize.
+For the past four decades, the market has experienced a number of these inflection points, from mainframe to distributed computing to Web 2.0, and now, to virtualization and cloud computing. Each phase opens possibilities for companies to leverage IT to run their businesses more efficiently and effectively. Yet each stage also adds more IT complexity and increases the need for IT management. This is where we can help. Now known as CA Technologies, we have built ourselves into a trusted partner with technology expertise by enabling customers to leverage IT for the greatest business advantage through these evolutions. We are prepared to take
+a leadership role in this next phase.
+ 017
+
+Letter from the CEO
+  Companies are counting on IT more than ever to drive the performance of their organizations.
+Companies are counting on IT more than ever to drive the performance of their organizations. They can become more efficient, effective and flexible if they have the right IT partner to help them navigate to where the market is moving. But the opportunity to be a strategic partner will be captured only by a handful of IT companies who understand the market and have the right products and expertise.
+This plays to CA Technologies’ strengths. We have a powerful product portfolio and the ability to manage and secure all major computing platforms in today’s complex environments. We can help customers get the most out of their technology investments and take advantage of the flexibility virtualization and cloud computing offer. We believe we can build on our IT leadership in our established business and extend that leadership to the cloud to grow our business.
+In fiscal year 2010, we set our company on a course to do just that, and we are gaining traction. We reported revenue of $4.4 billion, GAAP diluted EPS of $1.47, GAAP operating margin of 29%, and cash flow from operations of $1.4 billion, all improvements over our fiscal 2009 performance. We are nurturing our core business by managing expenses, focusing on performance and execution, and sustaining
+the competitive advantages that our mainframe and distributed system portfolios enjoy. At the same time, we are investing in the high-growth areas of virtualization management and cloud computing.
+As we enter fiscal year 2011, we will continue to serve customers around the world and across a wide range of industries. We believe this customer base will expand as organizations increasingly require the next level of management and security technology to drive their performance.
+We also believe we will grow our business as we access new customers and new geographies through expanded channels and routes to market, and offer technology through new delivery models such as Software-as-a-Service (SaaS).
+Seizing opportunity
+With the explosion of technologies available to customers, platform independence is one of CA Technologies’ greatest advantages. It means we are not distracted by selling hardware or middleware — we are focused on management and security solutions. Our approach gives customers the flexibility of choosing the hardware, systems and applications that make the most sense for their business. These capabilities are critical to our customers.
+To support that strategy, we continue to make investments in areas that enable cus- tomers to manage and secure IT environments and deliver more flexible IT services: mainframe; service management and assurance; project and portfolio management;
+   2
+
+Letter from the CEO
+security; virtualization management and automation; and cloud computing, both in on-premise and SaaS delivery models.
+CA Technologies is the leading independent mainframe software vendor. The main- frame is critical for large customers, and we will continue to innovate on this important platform through our Mainframe 2.0 initiative.
+In the area of service management and assurance, CA Technologies is a leader in application, infrastructure and network performance management. Our service manage- ment and assurance portfolio is one of the most comprehensive in the industry, with the capability to help customers identify and fix problems before they affect users.
+CA Technologies is also a leader in project and portfolio management with our CA ClarityTM PPM solution. With CA Clarity, customers can quickly improve IT investment decisions, enhance productivity and execute higher value projects at lower cost.
+In survey after survey, security tops concerns highlighted by IT executives as they explore next-generation technologies such as cloud computing. CA Technologies
+is a leader in identity and access management with a focus on protecting content regardless of where that content resides. We provide the answers to IT professionals’ key questions: Who has access to which assets, where do those assets reside and what is being done to those assets.
+With our virtualization management and automation technology, customers can reliably move workloads to tap capacity as needed, creating flexibility in previously rigid IT environments. We help organizations address the essential management of systems and applications, wherever the computing resources are located, and allow them to automate routine processes and correlate information to get the most out of their resources.
+While cloud computing may be in its early stages, customers already see it as a great opportunity to gain flexibility and efficiency. CA Technologies can help them solve their management and security issues, while enabling them to get to the cloud rapidly.
+Regardless of where a customer is in their technology evolution, CA Technologies has the solutions and expertise to meet their needs.
+And, we will continue to grow as our customers’ needs grow, executing a strategy driven by a combination of both organic development and acquisitions. On an annual basis, we invest more than $600 million through research and development and the capitalization of internally developed software. In fiscal year 2010 we have also invested more than $500 million in acquisitions. We also began a disci- plined process to reallocate one-third of our development investment to support
+ 037
+
+Letter from the CEO
+next-generation technology and innovation. We achieved this by realigning our devel- opment resources around our new strategy, becoming more efficient in maintaining and extending current solutions, and being well-considered about how we phase out products and migrate customers to more powerful solutions.
+In fiscal year 2010, we acquired several companies that complement our current technology portfolio to address today’s customer needs. We believe these technologies will also be instrumental in helping us solve customer needs going forward as we build out our capabilities in cloud computing. NetQoS expands our network performance management and service delivery capabilities. Oblicore adds to our capabilities in managing service level agreements—essential for service providers and their customers to measure the effectiveness and quality of cloud-delivered services. 3Tera automates the assembly and management of composite applications in a virtual and a cloud environment. The Cassatt assets we acquired make data centers more efficient, and Nimsoft offers IT performance and availability monitoring focused on emerging enterprises and managed service providers.
+How we will expand our reach
+Emerging enterprises are a new and important market for us. There are an estimated 14,000 emerging enterprises, which we define as companies with annual revenue between $300 million and $2 billion. Emerging enterprises are early adopters of cloud services who want software that is easy to install and requires limited up-front investment. This fits well with our growing number of SaaS solution offerings, which are flexible and available on demand. We will use SaaS delivery models to serve these new customers and plan to offer an increasing number of our products this way.
+We have been delivering CA Clarity PPM On Demand, CA Service Desk On Demand, and, in April 2010, began offering Nimsoft On Demand. Our SaaS solutions have particular appeal to managed service providers, who extend our reach by offering these capabilities to their own customers. Further, managed service providers help us reach emerging geographic markets where cloud computing and hosted or managed services are key to business development.
+As we expand our capabilities, we have a significant opportunity to work with our current customers who have not yet taken advantage of all that we have to offer. We will do this through our sales force and with our partners, who are an important part of our team. At the same time, we continue to strengthen our relationships with systems integrators and managed service providers who enable us to reach more customers with our comprehensive portfolio of solutions.
+To support our strategy, we began a number of initiatives to reinforce who we are as a company and to lay out our roadmap. We modified our name to CA Technologies to clearly signal our broadening and deepening expertise in managing and securing
+ 4
+
+Letter from the CEO
+  We are building
+a team focused
+on delighting our customers by helping them succeed.
+both existing and new technologies. This name also represents our increased com- mitment to enabling customers to deliver more flexible IT services and use technology to drive performance.
+Customers and results matter
+But the right strategy and expanded capabilities will only succeed if we maintain strong operations and execute. It really is all about execution. We are building a team focused on delighting our customers by helping them succeed. We have the ability to help customers capitalize on available technologies and set a plan that enables them to meet their goals. We will strive to attract and retain world-class talent and drive global training initiatives to keep our team on task.
+Our goal is to be a market leader across our areas of focus. We will know we are succeeding when industry analysts recognize CA Technologies as a leader with a clear view of the industry and the ability to get the job done.
+Our commitment to you, our shareholders, is to deliver performance. We are focused on growing our core business, expanding into virtualization management and cloud computing, and staying balanced as we grow. We will add growth products and pursue new markets through new channels, while we will protect our margins, profitability and cash flow. We believe CA Technologies can and will achieve profitable growth by creating a performance culture and executing our strategy.
+I could not be more confident in our ability to seize the opportunities that lie ahead of us.
+Thank you for your continued support,
+William McCracken
+Chief Executive Officer June 17, 2010
+    057

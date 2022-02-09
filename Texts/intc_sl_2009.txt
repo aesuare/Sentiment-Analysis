@@ -1,0 +1,54 @@
+Letter From Your CEO
+We entered 2009 in one of the deepest recessions in our history, and ended it with broad-based demand for our products across all regions and market segments. We reported 2009 revenue of $35.1 billion, operating income of $5.7 billion, net income of $4.4 billion, and earnings per share of
+77 cents. We generated more than $11 billion in cash from operations, and ended the year with $13.9 billion in cash, short-term investments, and trading assets. Our cash dividend payout for 2009 totaled $3.1 billion, and we announced a 12.5% increase in our cash dividend beginning in the first quarter of 2010.
+Indispensable products
+Despite the worldwide economic recession, microprocessor unit ship- ments for the PC industry were up 6% in 2009, according to Mercury Research—illustrating how essential computing has become in our lives. As the year progressed, we saw increasingly strong consumer market sales—fueled in large part by the popularity of mobile computers, including easy-to-use, affordable Intel® AtomTM processor-based netbooks. Our revenue for Intel Atom processors and associated chipsets totaled $1.4 billion in 2009.
+We are also pleased with the rapid acceptance of our newer processors in the server market segment, where enterprises are increasingly replacing many older servers with a single system based on our latest generation, energy-efficient Intel® CoreTM microarchitecture to achieve better performance, save space, and reduce energy costs.
+Growth areas
+Driven by the Intel Atom processor, the spectrum of products based on Intel® architecture is expanding beyond PCs and servers to include hand- helds, consumer electronics devices, and hundreds of embedded applica- tions. In 2009, we signed agreements with LG Electronics and Nokia to collaborate on development of Intel Atom processor-based mobile devices.
+Our goal is to deliver a great “personal” computing experience across all types of devices, and to enable consumers to move seamlessly from one type of device to another. Recognizing that software is key to making this happen, in 2009 we acquired Wind River Systems, a leading developer of embedded device software, to grow our software capa- bilities. Wind River will operate as a wholly owned subsidiary, bringing software expertise that we believe will accelerate our development into new areas of business. In September, we also launched the Intel® AtomTM Developer Program, which provides tools and infrastructure to help independent software vendors develop and market applications for netbooks initially, and then expanding to a broader range of devices.
+New generations of technology
+Innovation throughout the computing spectrum is possible because of Intel’s ability to develop successive generations of manufacturing process technology that enable us—year after year—to build microprocessors that can cost less to manufacture, have improved performance and energy efficiency, and offer more capabilities. We now produce a substantial majority of our microprocessors using 45-nanometer (nm) process technology, and we have achieved high-volume production of
+the first products based on our leading-edge 32nm process technology We have also already demonstrated the world’s first 22nm process technology, on track for production in 2011.
+Legal matters
+Our 2009 results reflect the impact of a $1.45 billion fine that we incurred in May as a result of the European Commission conclusion that Intel had violated competition laws in Europe. We strongly believe that the decision was wrong and are appealing it. Our results were also affected by a $1.25 billion payment that we made in November to Advanced Micro Devices (AMD) as part of a settlement to end all out- standing legal issues between the companies, including antitrust litigation and cross-license patent disputes. The settlement is a compromise of disputed legal matters, with both companies denying any wrongdoing. I avoided a lengthy and complex jury trial in Delaware, where AMD woul have sought multiples of the amount paid to settle these claims. In the fall of 2009, both the New York Attorney General and the U.S. Federal Trade Commission also filed antitrust lawsuits against Intel—actions tha we believe are misguided, wrong on the facts, and based on incomplete investigations. We firmly believe that Intel has competed fairly and lawfull and we will continue to litigate these cases.
+Corporate responsibility leadership
+We are a recognized leader in corporate responsibility. Intel was named one of the World’s Most Ethical Companies by Ethisphere Institute, and was also included in the Dow Jones Sustainability Index for the 11th year in a row. Newsweek ranked Intel among the top five on its Green Rankings 2009 list of the 500 largest corporations in America, citing our focus on building energy-efficient products and our standing as th largest corporate purchaser of renewable energy in the U.S. We believ that technology is key to addressing the world’s environmental challenge and continue to design our products with energy efficiency in mind. We estimate, in fact, that the conversion to the energy-efficient Intel Core microarchitecture saved up to 26 terawatt-hours of electricity between 2006 and 2009, compared to the technology it replaced.
+Operational excellence
+Throughout 2009, we maintained a focus on efficiency and tight spendin controls across all of our operations. In particular, our factories execute well, with improvements in throughput times and yields, and lower uni costs across most lines of business. The comprehensive restructuring effort that we began in 2006 had resulted in cumulative savings of mor than $4.9 billion by the end of the year.
+The Intel Sponsors of TomorrowTM marketing campaign turns the spotlight on the people responsible for our ongoing record of operationa excellence—Intel’s employees. I would like to thank them for their outstand ing performance through the challenges and triumphs of 2009. They are innovators in the truest sense of the word—the rock stars of our industr
+Paul S. Otellini, President and Chief Executive Officer
+              
+ 2009 Highlights                     Letter From Your Chairman
+            gy.
+ve so
+- ion f
+g. It uld
+he al hat te
+ully,
+ed nd
+en
+the eve ges, We re en
+ing ted nit
+g ore
+nal
+nd- are
+try.
+Intel Sponsors of Tomorrow.TM
+A major marketing campaign launched in 2009 celebrates Intel employees— and the passion for innovation, quest for perfection, respect for geekiness, and strong sense of humor that pervade our company culture.
+After 17 years on the Intel Board of Directors, it has been an honor and a privilege to assume the role of Intel Chairman. As an independent chairma I look forward to supporting Paul Otellini and the other members of Intel’s executive team, and ensuring that the Board continues to be a role
+model for excellence in corporate governance.
+Intel remains strongly committed to operating with the highest lev
+of integrity; open and direct communication is a hallmark of the Intel culture, including listening to and responding to stakeholders’ concern In 2009, for example, in response to a stockholder proposal, the Board adopted a “say on pay” advisory vote on executive compensation, increasing stockholders’ opportunity to provide feedback on Intel’s compensation practices.
+In an effort to further increase transparency, Intel has added seve “virtual” components to the company’s annual stockholders’ meeting.
+Stockholders who cannot attend the annual meeting in person have ha the opportunity to attend via the Internet for many years. Intel has expanded this functionality to allow stockholders to submit questions online prior to the meeting, and ask questions and cast votes online during the meeting. We believe that enabling stockholders from aroun the world to attend the annual meeting virtually allows for their increased participation and access to management.
+In 2009, Intel extended its unwavering commitment to corporate responsibility. Intel joined the United Nations Global Compact, and published a set of Human Rights Principles that express the company’ dedication to human rights and responsible labor practices—not only a Intel, but throughout its supply chain. The company continued its focu on improving the quality of education around the world, reaching the milestone of providing technology training to 7 million teachers throug the Intel® Teach Program. Building on Intel’s strong culture of volunteeris the company formed the Intel Education Service Corps, which trains groups of employee volunteers and sends them to developing countrie to facilitate installation of Intel-powered classmate PCs in schools, orphanages, and other locations. They also provide technology trainin for local students, teachers, and parents. Their work has the potential to change the lives of thousands of people.
+Since I assumed the role of Intel Chairman in May 2009, I have enjoyed the opportunity to interact more closely with Intel employees at all levels. Several of them have remarked how inspired they are by my role as one of the few female independent chairmen of an S&P 500 company. I, in turn, am inspired by the energy, enthusiasm, and talent displayed by the women and men who work at Intel. There isn’t a problem they won’t tackle, and I witness examples of their flawless planning and execution day after day. I look forward to the future they are creating for all of us.
+Jane E. Shaw, Chairman of the Board
+    Growth Opportunities
+The range of computing products based on Intel® architecture is expanding beyond PCs and servers to netbooks, handhelds, consumer electronics devices, and more.
+Commitment to Education
+Intel is actively involved in education, advocacy, and technology access programs to help give students around the world the opportunity to become the next generation of innovators.
+  Technology Leadership
+We have launched the first products based on our leading-edge 32nm manufacturing process technology, and have already demonstrated the world’s first 22nm process technology, on track for production in 2011.
+ 

@@ -1,0 +1,70 @@
+  to our shareholders:
+John T. Chambers President and Chief Executive Officer
+ 12 Cisco Systems, Inc.
+
+Fiscal 2005 was a year of continued solid, balanced growth for Cisco from both a product- and market-leadership per- spective. We achieved an outstanding financial performance with record profits and cash generation, year-over-year growth in our core routing and switching products, and very strong growth in our six advanced technologies. Our enterprise, service provider, and commercial customer mar- ket segments all experienced solid year-over-year growth. However, the highlight for the year was the balance that we achieved across our geographies, customer market seg- ments, architectural evolutions, and product families. We believe our financial strength, product leadership, and global reach uniquely position Cisco as a company not only built to last, but built to lead.
+Innovation Strategy
+In our opinion, the key to long-term suc-
+cess in the high-technology industry
+is ongoing strategic investment and
+innovation, and we intend to continue to
+take good business risks. Our innovation
+strategy requires a unique combination
+of internal development, partnerships,
+and acquisitions. In our opinion, for
+companies to lead in the technology
+industry they must be able to do all
+three. We continue to believe that our
+industry will consolidate and that the
+consolidation will occur along both
+technology and business architecture
+lines. This technology architecture will
+probably evolve where the seven layers
+of the Open Systems Interconnection
+(OSI) stack are first loosely, then tightly
+coupled. That is exactly where you see
+us taking the integration of our core and
+advanced technology product archi-
+tectures. Equally important, companies
+also have to gain the confidence of their
+customers from a vision and strategy perspective, a product architecture leadership perspective, and a service and sup- port perspective. We think we are very uniquely positioned to continue to win the hearts, minds, and capital investments of our customers.
+In fiscal 2005 we invested more than $3.3 billion in research and development (R&D). This resulted in more than 50 product introductions and the number-one market share leadership position in most of our product categories, including our advanced technology markets, truly demonstrating that the investments we made three to five years ago are now paying
+off. We believe this product momentum will continue in fiscal 2006, and we will do our best to continue to meet and exceed the expectations of our customers and partners.
+Fiscal 2005 Performance
+In fiscal 2005 we achieved record performance across almost all of our financial and operational metrics. Fiscal 2005 revenue was $24.8 billion, compared to fiscal 2004 revenue of $22.0 billion. Net income on a generally accepted account- ing principles (GAAP) basis was $5.7 billion, compared to fiscal 2004 GAAP net income of $4.4 billion. GAAP earnings per share on a fully diluted basis for fiscal 2005 were $0.87,
+compared to $0.62 for fiscal 2004. In addition to net income, Cisco gener- ated $7.6 billion in cash, highlighting the ongoing quality of our earnings.
+Cisco demonstrated solid execution on its three long-term financial priorities. First, we continued to focus on profit- able growth with GAAP net income as a percentage of revenue exceeding 20 percent. During fiscal 2005, we in- creased revenue year over year by approximately 12.5 percent. Of total revenue, approximately $20.9 billion was related to product revenue and $3.9 billion was related to service revenue. Our revenue growth is the result of a continued recovery in the global IT eco- nomic environment, and we achieved significant market share gains in many product areas.
+Second, we increased our profitability. We increased GAAP net income by 30 percent and GAAP earnings per share by 40 percent during fiscal 2005, while operating expenses decreased by 3
+percent as a percentage of revenue.
+A key competitive advantage for Cisco is how we use our own technology to drive productivity. We achieved a key metric by reaching our productivity goal of approximately $700,000 in annualized revenue per employee, up from approximately $450,000 in fiscal 2001 when the goal was set. This is signifi- cant given that we also increased headcount in fiscal 2005 by 12 percent, primarily in sales and R&D. Our profitability far exceeded our revenue growth rate and is evidence of our ability to drive productivity and operational efficiency.
+  John P. Morgridge Chairman of the Board
+ 2005 Annual Report 13
+
+Third, we maintained our strong and conservative balance sheet, while aggressively reducing outstanding shares through our share repurchase program. At the end of fiscal 2005, cash and investments totaled $16.1 billion, days sales outstanding (DSOs) were 31, and annualized inventory turns were 6.6. During fiscal 2005, we repurchased $10.2 billion, or 540 million shares of our stock. Cash used for these re- purchases was generated primarily through operations. At the end of fiscal 2005, our cumulative purchases since the inception of the share repurchase program in September 2001 were approximately $27.2 billion, or 1.5 billion shares, at an average price of $18.15. This is a decrease of more than 13 percent in the weighted average diluted shares outstanding since the inception of
+the program. The program’s remain- ing approved repurchase amount is approximately $7.8 billion.
+Our strong cash position provides investment opportunities for Cisco. The Board of Directors routinely evaluates growth and technology leadership objectives with the goal of providing an attractive return on investment for our shareholders. Our technology in- vestments are designed to extend our current product leadership through new offerings, as well as feature and functionality enhancements. We believe these investments will allow us to capi- talize on new advanced technologies and emerging geographic markets. These investments include areas such as enterprise IP communications, net- work security, and wireless networking. We believe ongoing strategic invest- ments, along with our share repurchase program and strong cash balance, are in the best interest of Cisco and our shareholders.
+Balanced Growth
+Cisco’s success in fiscal 2005 can be attributed to the bal- ance achieved in almost all of our product families, customer market segments, and geographies. This, combined with our ability to continuously innovate and expand the industry and our markets, is a significant driver of our success.
+In fiscal 2005, Cisco’s six advanced technologies showed the highest revenue growth of our product groups. Revenue from advanced technologies increased 32 percent year over
+year to $4.4 billion. The six advanced technologies include: enterprise IP communications, home networking, optical networking, security, storage area networking, and wireless technology. During fiscal 2005, security and enterprise IP communications achieved our initial goal of an annual rev- enue run rate of approximately $1 billion. We shipped our 6-millionth IP phone. We continue to expand our advanced technologies and have set an aggressive goal of announcing several new advanced technologies in fiscal 2006.
+This year we introduced the integrated services router, one of the industry’s most comprehensive enterprise solutions for branch offices. The integrated services router is designed to
+allow customers to customize solutions by adding security, voice, and wireless capabilities to a single routing platform. In our core switching families, we made five key product announcements in fiscal 2005, and Cisco’s switching products continue to maintain a number-one market share position.
+We also experienced balance across all key customer market segments, with solid growth in the service provider, enterprise, and commercial segments. Our consumer-oriented Linksys divi- sion had the highest annual growth by market segment of approximately 40 percent year over year. In terms of our balance among Cisco’s five geographic areas in fiscal 2005, we experienced strong product revenue growth in almost all of our geographies, increasing total product revenue by 12 percent on an annual basis.
+We were also very pleased with our ability to enter new markets and gain leadership from both a market share
+and innovation perspective. As mentioned earlier, we believe innovation comes from a combination of internal develop- ment, partnerships, and acquisitions. In terms of key strategic alliances, we accelerated our growth opportunities with our strategic partners. In fiscal 2005, we continued our strategy of taking good, solid business risks by completing 17 acquisitions to further extend our talent and technology opportunities for both our core routing and switching products as well as our advanced technologies. We believe we are well-positioned to take advantage of future growth opportunities, and we are confident and optimistic about the areas of the business that we can control and influence.
+  Donald T. Valentine Vice Chairman of the Board
+ 14 Cisco Systems, Inc.
+
+We intend to continue to add both engineering and sales resources as we focus on developing the next wave of advanced technologies, growing the commercial market segment, capitalizing on our emerging market opportunities, and increasing our market share gains.
+Corporate Citizenship and Social Responsibility
+An integral part of Cisco’s business strategy is corporate citi- zenship. We believe this is not only the right thing to do, but is also just plain “good business.” We employ and advocate responsible business practices and programs, which builds a lasting trust with our key stakeholders—customers, partners, employees, and shareholders. In the fall of 2005, Cisco will release its first Corporate Social Responsibility Report, which will be available at www.cisco.com/go/citizenship.
+We are dedicated to sustaining a diverse, inclusive workforce. We employ responsible operations, product stewardship, and environmentally friendly design policies, and we encourage our suppliers to adhere to these standards. Cisco is com- mitted to sound and transparent corporate governance and financial disclosure practices. Our Website provides Cisco’s corporate governance policies and practices, corporate citi- zenship programs, and financial information.
+Cisco is also committed to education. We have Networking Academies in more than 160 countries, with approximately 10,000 academies and 420,000 students. Students in high schools, technical schools, colleges, and community orga- nizations learn hands-on networking skills to prepare for the workforce of today and the future. The Jordan Educa- tion Initiative, spearheaded by Cisco in partnership with the World Economic Forum and several other organizations, has created a replicable model and is expanding its inter- active e-curriculum-based education programs into other geographic areas.
+In the area of giving back, employees celebrated Cisco’s 20th anniversary by donating more than 20 years’ worth of community service hours, or 235,000 hours—far exceeding the goal of 175,200. During a time of global need, Cisco and our employees donated more than $4 million in relief efforts for the South Asia tsunami victims. We are truly proud to be a part of a strong culture of giving back and social responsibility.
+Built to Last, Built to Lead
+In fiscal 2005, we made evolutionary changes that support our long-term strategy. We announced a reorganization of our geographic segments to better address our global approach and focus on key growth areas. We evolved our engineering and sales leadership, demonstrating our contin- ued bench strength and investment in future opportunities. Our ability to implement these changes smoothly is one of our core competencies.
+Fiscal 2005 marked the end of our 20th anniversary, and on August 10, 2005, more than 3,000 employees participated in the “Virtual Opening” of The NASDAQ Stock Market at Cisco’s headquarters. This historical virtual opening bell ceremony showcased the power of networking technology, demonstrat- ed how a stock market can be opened anytime, anywhere, eliminating distance and time restrictions, and reiterated Cisco’s commitment to technology and innovation leadership.
+Looking ahead, we believe that Cisco’s unique balance of financial strength, product leadership, and global presence truly position us as a company that is not only built to last, but built to lead. We would like to recognize the contributions of Don Valentine and Jim Gibbons for their years of service to Cisco’s Board of Directors, and on behalf of the Board, we would like to thank our customers, partners, employees, and shareholders for their continued confidence and support. We hope to make the next 20 years equally successful.
+   John T. Chambers President and Chief Executive Officer
+John P. Morgridge Donald T. Valentine Chairman of the Board Vice Chairman of the Board
+2005 Annual Report 15

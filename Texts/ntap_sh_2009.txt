@@ -1,0 +1,71 @@
+Dear Fellow Stockholders,
+Looking back on our 2009 fiscal year, NetApp fared well in light of a tumultuous and disruptive economic environment. With non-GAAP annual revenue up 7% to $3.5 billion, we again performed well relative to the industry. Our overall financial performance was solid, generating cash from operations of $873 million and ending the year with $5.5 billion in assets—including $2.6 billion in cash and short- term investments.
+It is important to know that NetApp is well positioned to weather this current economic storm. In fact, we believe that the NetApp value proposition resonates even more with customers in the face of challenging economic conditions. Throughout our history we have delivered groundbreaking technologies that reduce the cost of IT, deliver efficiency savings, and enable breakthrough business capabilities. With NetApp, customers have cut their IT costs in half, used 80% less storage, deferred data center expansion, and accelerated their time to market. Our customers do not have to choose between saving money and adding
+IT capabilities. This value proposition enabled us to grow despite a down economy.
+Progress Toward Our Goals
+We achieved a record number of new customer accounts. Customers are increasingly turning to NetApp for the answer to their seemingly intractable problem of
+growing data volumes and shrinking budgets. With nearly 2,200 new customers added in 2009, we believe our investments in branding, awareness, channel development, and sales coverage have begun to pay off. This represents a 34% increase over FY2008 new account additions. We have also increased our number of customer accounts within the Storage 5000, the 5,000 largest buyers of storage in the world. With nearly 150 new Storage 5000 accounts added, we now have a presence in over 34% of this elite segment. Our priority will continue to be growing our presence within this significant group of customers.
+We expanded our operating margins three quarters in a row. Demonstrating our commitment to controlling expenses as the economy deteriorated, the NetApp team responded admirably to our call to reduce costs and increase operating efficiency. It was unfortunate that we ultimately had to implement a restructuring plan early in the fourth quarter, although given the challenging business environment, right-sizing the company and reallocating investments was the prudent thing to do. Restructuring gave us the flexibility to implement changes intended to optimize our resource allocation, improve our efficiency, and bolster our growth potential while at the same time reducing expenses. Going forward, our commitment to profitable revenue growth remains steadfast as we make progress toward our goal of
+16% non-GAAP operating margins.
+We were named The Best Place to Work in the U.S. by Fortune Magazine. Our culture of integrity, collaboration, and innovation allows us to attract and retain many of
+the industry’s best people. With a stated corporate goal to be a model company, we are especially proud to have been included on Fortune Magazine’s list of “100 Best Companies to Work For” seven years in a row, culminating this year with the #1 ranking. In addition, this was the
+first year in which we expanded our participation to the global stage, and we were honored with numerous top 10 rankings internationally. The United Kingdom, Germany, India, and Australia all voted NetApp into the top 10 Best Places to Work in their countries. Our talented
+and creative employees are united in one goal: helping customers succeed.
+Growth Opportunities
+Storage Efficiency. Storage efficiency continues to be the number one demand driver for our business during this challenging economic period, because we enable customers to meet their business objectives with less physical storage, a commitment we guarantee. Our innovation in storage efficiency technologies such as deduplication, thin provisioning, and virtual cloning distances us from the competition by empowering customers to bring products and applications to market more quickly, at the same time requiring less physical footprint, lower power consumption, and lower cost. We
+
+believe the primary value proposition driving our success in penetrating new accounts is our storage efficiency.
+Server Virtualization. During the economic downturn, server virtualization has remained one of the few projects that continue to be funded in large enterprises, due to its significant and rapid return on investment. Maximizing the total benefit of server virtualization requires customers
+to rethink their storage infrastructure, offering NetApp
+an important green-field opportunity to demonstrate our value proposition. By bringing unique and complementary capabilities to virtualized environments, as well as
+helping to ensure deployment success in mission-critical environments, we have become a trusted partner of all
+of the virtual server technology vendors in the industry.
+We offer customers the ability to support their new server environments with a far smaller storage footprint, and as a result we believe we have considerably larger market share in virtual environments than in the market as a whole. The server virtualization trend is still on the rise, and it promises to be one of the most significant catalysts for our business in years. We believe we are well on our way to becoming the virtualized infrastructure platform of choice.
+Shift to the Cloud. The extreme economic pressures in the market, along with emerging enabling technologies, are stimulating an interest in cloud computing, or “IT as a Service.” Customers are looking everywhere for budget
+REVENUES
+relief and ways to preserve capital. As a result, they are beginning to explore the outsourcing of part or all of their IT function to a service provider or systems integrator for delivery of their IT services, rather than developing and running it in-house. These service providers and systems integrators (whom we call aggregators, because they are aggregating customer demand) are in turn looking for compelling best-of-breed solutions to help them offer enterprise-class IT at extremely competitive prices. This new breed of vendor has a strong affinity for NetApp’s compelling economics and simplified data management, which in turn allow them to compete more effectively in this new business paradigm. With our unified architecture and our virtualization technologies, combined with our roadmap for seamless scale-out solutions, we make it difficult for other storage vendors who have traditional architectures or siloed, disparate systems to vie for this new business. We have had many early successes with large-scale aggregators who provide mission-critical yet cost-effective results for their customers. We expect this customer shift toward cloud computing to accelerate over the next few years, and as these new aggregators of demand grow in influence and scope, we believe NetApp will grow commensurately.
+Fiscal 2010 Focus Areas
+Looking forward to FY2010, NetApp plans to focus on three important growth areas: expanding our presence in the
+CASH FLOW
+Storage 5000 customer set, establishing market leadership in more international geographies, and becoming the vendor of choice for more key partners.
+With continued investment in increasing awareness of NetApp in the market, we are getting the opportunity to compete for more business. In just our first year of focused branding and awareness initiatives, our unaided awareness grew over 50% compared to the prior year, and both the likelihood to recommend NetApp and the perception of NetApp with strategic buyers were also up significantly. Our increased awareness not only enables us to demonstrate the value of our products and services to an ever greater number potential storage buyers, it also enhances our ability to build our partner network. Compounding our increased market presence, we believe during fiscal 2010 we will have the strongest product line up in our history to present to our prospects, customers, and partners. With small form factor drives, cost-effective flash memory, and the launch of our long-awaited Data ONTAP 8 operating system for scale-out capability, we will further distance ourselves from traditional storage offerings in the eyes of customers and partners.
+We also believe the continued expansion of our partner programs will be a key component of growth, providing leverage far beyond our direct sales reach. Last year more than 80% of our new customer acquisitions came through indirect channels. We recently began offering our software
+          05
+06
+Total Revenue ($ in billions)
+Cash Flow from Operations ($ in billions)
+07
+08
+09
+05
+06
+07
+08
+09
+1.60
+2.07
+.462 .554
+2.80
+3.30
+3.53
+.864
+1.01
+.873
+
+in solution-specific bundles, which dramatically simplifies the NetApp ordering process for partners. We will continue to make it easier for them to do business with us, and we will enable more partners to join our network. With our software-centric solutions and smaller hardware footprint, when we engage with our partners to offer the services component to customers, we provide them with an attractive business model, a more collaborative relationship, and limited competition.
+In addition to our go-to-market partnership development, we continue to nurture important strategic partners like IBM and Fujitsu, whose increasing involvement with NetApp
+will drive growth for us both domestically and particularly in international markets. In 2009, Microsoft named NetApp their Storage Solutions Partner of the Year, indicating the tremendous progress we’ve made with this key vendor, both in optimizing the performance of the applications they sell to customers as well as in their server virtualization initiatives. Staying true to our agnostic market position as a best-of- breed storage infrastructure provider, we’ve also fostered successful partnerships with Citrix and with VMware, the current market leader in the world of virtual servers.
+Our goal in any economic environment will continue to be expansion of our long-term market share, and we believe the organic actions we have taken will help us achieve that. We will also keep looking for opportunities to make strategic
+investments to accelerate our growth. In the meantime, as the economy stabilizes and eventually grows, we believe the seeds we have planted with new customers will mature into growth rates that are higher than the market average in the future.
+Model Culture
+Our ability to innovate and anticipate the ever-changing needs of the industry has helped us to grow from an eight- employee startup to an industry leader with over $3 billion in revenue and more than 130 offices around the world.
+As a global company, we believe we have a responsibility to help make our global communities better, stronger, and more vibrant places in which to live, work, and do business. We are dedicated to protecting and preserving our environment by creating energy-efficient products and by practicing environmental stewardship. We are committed
+to supporting our communities through volunteerism and charitable contributions. And we are passionate about making NetApp a great place for our employees to work.
+This commitment to our employees and our communities is rooted in the culture that Dan Warmenhoven was instrumental in building. Dan and the founders created
+an entirely new category of storage and turned it into a multibillion dollar industry segment, while at the same time creating an atmosphere of trust, teamwork, and integrity among the employees. After 15 years at the helm, Dan has
+transitioned to the role of executive chairman, and I am humbled and honored to be named his successor as CEO of NetApp. We share the same passion for innovation, our core values, and an intense desire to win. These traits are the foundation of our company’s success over the past 15 years, and I am committed to preserving our unique culture as we move into a new era for NetApp.
+In closing, we would like to thank our customers, partners, and shareholders for their support and continued investment in NetApp. We thank our employees for their dedication and for enabling us to be named the #1 best place to work in the United States. With this kind of loyalty and enthusiasm for our business, customers will continue to count on NetApp to help them take their business further, faster.
+Tom Georgens
+President and
+Chief Executive Officer
+  

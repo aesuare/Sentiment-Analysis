@@ -1,0 +1,93 @@
+Dear fellow shareholder:
+Last year I told you I joined CA because I saw a company that knows more about managing and securing applications, infrastructure, data and identities than anyone in the world. Today, when I look back at how we have transformed over the past 12 months, I am even more certain of that assessment. And when I look forward to a world that is increasingly driven by software and applications, I see even greater opportunity for CA to grow and thrive. We are hard at work building our company to seize this opportunity. We are creating new innovation capabilities and adopting new sales models that connect us more directly to a broader customer base. We are showing up in the market differently--more focused and more confident. And we have strong alignment across the employee base. Yes, there is still work to be done, but we have laid the foundations for growth and we will continue to make progress across the company.
+
+Disruptive Technologies are Transforming the Economy
+
+1.75B >400M >400M 250M 250M >$100B >$100B 1.75B 1.75B >400M >400M 250M 250M >$100B >$100B 1.75B
+smartphone smartphone users in 2014 1 smartphone users in 2014 1 1 smartphone users in 2014 users in 2014 1 users of intelligent digital users of intelligent digital assistants like Siri and users of intelligent digital 2 and assistants like Siri Google Now users of intelligent digital assistants like Siri and 2 Google Now assistants like Siri and 2 Google Now Google Now 2 M2M connections M2Mthis connections year 3 M2M connections this year 3 3 M2M connections this year this year 3 in cloud spending 4 in cloud this spending year in cloud spending year 4 in cloud this spending this year 4 4 this year
+Sources: 1. eMarketer, "Smartphone Users Worldwide Will Total 1.75 Billion in 2014," Jan. 16, 2014 2. McKinsey Global Institute, "Disruptive Technologies: Advances That Will Transform Life, Business and the Global Economy," May 2013 3. GMSA Intelligence, "From Concept to Delivery, The M2M Market Today," Feb. 17, 2014 4. IDC Press Release, "IDC Predicts 2014 Will Be a Year of Escalation, Consolidation, and Innovation as the Transition to IT's `3rd Platform' Accelerates," Doc#prUS24472713, Dec. 3, 2013
+
+How Software Tools Help IT Management Support Planning:
+31%
+frequently use software tools to share key performance metrics with the business
+
+37%
+frequently use software tools to evaluate whether IT is achieving key metrics
+
+53%
+frequently use software tools to execute scenario planning and what-if analysis
+
+Source: Vanson Bourne, 2013
+
+Performance and Progress
+FY2014 was a year of significant transformation for CA. Throughout the year, we remained disciplined and thoughtful in our execution, and delivered on our financial commitments to you. We met all of our financial guidance metrics-- EPS, Revenue, Cash--and increased our operational efficiency.
+
+1.75B
+smartphone users in 2014
+
+users of intelligent digital assistants like Siri and Google Now
+
+>400M
+
+250M
+M2M connections this year
+
+That said, we will not be satisfied until we're driving sustainable, meaningful growth. That's why we have continued to reshape our development organization, consolidating approximately 80 percent of our enterprise resources at 10 sites around the world to increase collaboration and innovation. We made some tough decisions to rebalance our workforce toward the skills we need to grow in a SaaS/Cloud world. We also updated our sales strategy to bring it more in line with how a modern software company goes to market. We added 710 new logos in FY2014--up 45 percent from FY2013. More important, our NextGen and SaaS products drove nearly half of those additions. It is critical that we drive higher levels of market awareness of our strengths. During the year, we put in place new strategies and programs to drive demand, create pipeline and arm our sales organization with strong opportunities. We will strengthen our brand and extend our reach to new customers in our key markets of focus. We also strengthened our leadership team with key hires and appointments in critical positions, including new heads of our Enterprise Solutions and
+
+Being spent in cloud spending this year
+
+>100B
+
+3
+
+CA Technologies Annual Report 2014
+
+There have been
+
+200,735,721
+Source: Breach Level Index (powered by SafeNet), breachlevelindex.com
+
+data records lost or stolen worldwide in the first quarter of 2014 alone.
+
+Technology Group, worldwide sales, channels/partners, marketing, and general managers in two key business units. This underscores our intense focus on having the right skills and capabilities to succeed.
+
+Seize the Opportunity
+Software is now at the heart of every business and industry. It is an essential part of our customers' business transformation. Software-driven applications are disrupting entire industries, both within the enterprise and across an increasingly complex mobile environment. The result: the emergence of a new application economy, one in which CA is uniquely positioned to help. We have the experience and capabilities to help customers accelerate their development efforts, manage their complex infrastructure and secure their most critical assets. The task before us is to mobilize CA to think and move in ways that will meet these needs. Developing the capability to deliver game-changing innovations We need to become a "growth factory" for game-changing differentiation. In a software-driven world, this means continuously developing our capability to deliver organic innovation, using our individual and collective brain trust to combine innovation with customer insight.
+
+CA Technologies Annual Report 2014
+
+4
+
+Driving sales growth and amplifying our brand We need to be known for our ability to solve critical business and IT issues for our customers. Our brand must work harder for us to fuel a sales execution machine that builds pipeline and closes deals. Building a community of talent We need to make CA the best place to work in software, period. We need to make CA a place where our employees are brand advocates, where aspiring to do well together is more important than going it alone, who we are and how we work is a tangible competitive strength.
+
+180M
+
+of downloads mobile app stores will reach in 2015.
+Source: Gartner Research, "Forecast Mobile App Stores, Worldwide, 2013 Update," Sept. 5, 2013*
+
+is the number
+
+Driving Meaningful Differentiation
+As we continue to build CA for growth, we have refined our growth strategy and R&D investments to focus on those markets where we can drive meaningful differentiation. Management Cloud We are leveraging the speed and scale of the cloud to help our customers manage not just IT infrastructure and performance but IT investments in the context of overall business strategy. Demand for these solutions will continue to grow as more and more devices are connected, housing millions of new enterprise and consumer applications. DevOps We have a multi-year head start in this critical area. We understand complexity at scale--something smaller players don't get. Meanwhile, our customers' development teams need access to more effective production systems to test code and deliver apps more quickly. Our virtualization, simulation and automation solutions help them achieve these goals while reducing costs and preserving their competitive advantage.
+
+* The Gartner Report(s) described herein, (the "Gartner Report(s)") represent(s) data, research opinion or viewpoints published, as part of a syndicated subscription service, by Gartner, Inc. ("Gartner"), and are not representations of fact. Each Gartner Report speaks as of its original publication date (and not as of the date of this Prospectus) and the opinions expressed in the Gartner Report(s) are subject to change without notice.
+
+5
+
+CA Technologies Annual Report 2014
+
+Security We are helping organizations protect their apps and data while delivering a differentiated user experience. Our solutions don't just protect critical systems and information, they provide seamless and effective identity and access management, enabling our customers to expand, deploy new applications and drive both enterprise productivity and customer growth. Across these key focus areas, we continue to make investments in innovative solutions, awareness and sales enablement to be able to deliver value to our customers across any environment: cloud, mobile and mainframe.
+
+"Organizations enabled by DevOps deploy code 30 times more frequently than their peers."
+Source: Puppet Labs, "2013 State of DevOps Report," March 2013
+
+Focused to Deliver
+Today, I see a renewed energy in our company, a focus to deliver innovation that matters and enable our customers to succeed in the application economy. The changes we are making are taking hold and we will continue to drive them deeper. I am extremely proud of the way CA employees have shown a passion and commitment to win. How they have demonstrated trust, accountability and integrity in all of their actions. And, most of all, how they have embraced change. I want to thank you, our shareholders, for your support as we redefine our company. I hope you share our excitement for what the future holds as we continue to hone our ability to power the apps that power the world.
+
+Michael P. Gregoire Chief Executive Officer CA Technologies
+
+CA Technologies Annual Report 2014
+
+6
+
+

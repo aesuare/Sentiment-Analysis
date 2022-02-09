@@ -1,0 +1,68 @@
+DEAR FELLOW STOCKHOLDERS,
+Our 2008 fiscal year culminated with NetApp customers elevating us to second place in the open systems networked storage market.1 We achieved this milestone with innovative solutions and a dedication to helping customers achieve outstanding cost efficiency and accelerate their business performance. We are thrilled with this milestone and our sights are set on becoming number one in the coming years.
+Our market share gains were fueled by an 18% annual increase in revenue, ending the fiscal year at $3.3 billion. We generated over $1 billion in cash from operations for the first time in our history, and free cash flow reached 25% of total revenue. Our cash performance demonstrates the value created by our software-centric business model, while our cash generation allowed us to repurchase 32.8 million shares of stock during the year, returning significant value to our shareholders.
+Delivering Value to Customers
+The foundation of our success begins with the innovative solutions that we provide to customers — solutions designed to help them reduce costs and increase efficiency in the face of exponential growth in data volumes and the complexity
+of their IT infrastructure.
+Flexibility and simplicity are at the heart of every product and service we create. Our unified storage architecture — a single platform for a broad range of networked environments — gives
+customers the most versatile and scalable data management infrastructure in the industry. Customers can quickly
+and economically scale their infrastructure by using our virtualized storage capabilities. Our storage efficiency innovations, such as deduplication, help customers accomplish their objectives with far less physical disk than our competitors. Our comprehensive suite of data management software helps IT administrators be more productive, accelerates development processes, and makes data more available. We work closely with today’s most prominent application vendors — Microsoft, Oracle, SAP, and VMware — to create integrated solutions that optimize the performance of their applications and empower the people who run them.
+Built upon our foundation of innovation is outstanding customer service and support. At NetApp we take a
+“go beyond” approach with our customers, partners, and each other. Our high value-add Professional Services business grew at more than twice the rate of our overall corporate growth this year, a clear indicator that our customers appreciate the value of the services we deliver.
+Growth Drivers
+In today’s constrained economic environment, customers are under significant pressure to reduce costs and increase efficiency. As a result, four major trends dominate the IT world today.
+REVENUES
+The first major trend is server virtualization, which is being deployed with amazing speed around the globe. NetApp offers the optimum platform and solutions for virtualized server environments, because we provide the only seamless virtualized storage infrastructure in the industry. This makes us well suited to capitalize on this very large market opportunity.
+The second trend is the redesign of data protection. Exploding data growth prevents many customers from backing up their data within available backup windows using their existing methods. This problem is often exacerbated by the virtualized server infrastructure they implemented to increase their efficiency, because fewer unused server cycles exist to run sufficient backup procedures. When undertaking a virtualization initiative, more and more customers are choosing to take the opportunity to upgrade their backup infrastructure and reduce their reliance on tape. NetApp provides the most compelling backup and data protection solutions in the industry, and our efficiency technologies enable customers to protect far more of their data using
+far fewer disks.
+Another longer term industry trend is the gradual but inevitable move toward Ethernet-based storage. The economies provided by Ethernet connectivity are compelling, and will continue to drive a shift toward IP-based storage. NetApp has a long, rich history of IP storage innovation, we were a
+CASH FLOW
+          04
+05
+Total Revenues ($ in billions)
+Cash Flow from Operations ($ in billions)
+06
+07
+08
+04
+05
+06
+07
+08
+1.17
+.313
+.462
+1.60
+2.07
+.554
+2.80
+3.30
+.864
+1.01
+
+pioneer in bringing iSCSI connectivity to the enterprise storage market, and we are the market share leader in NAS/Unified storage.2 We believe that this market will gradually accelerate, and we are best positioned to capitalize on this trend.
+Finally, macroeconomic concerns often cause customers to rethink the large, expensive solutions they’ve purchased from traditional vendors and consider moving to modular, virtual storage that takes up far less physical space, needs less power to operate, and requires fewer people-hours to manage. NetApp innovation, coupled with a deep understanding of our customers’ business objectives, makes us best suited
+to capitalize on these major trends and enables us to deliver significant value to our customers.
+Capitalizing on Our Opportunities
+We believe that we must seize these opportunities while the prospects are burgeoning around us. At 12% market share3 in this very large market, we need to convey to more prospective customers the value that we deliver. So for
+the first time in our history, we are investing in a market awareness initiative. We are also increasing our investment in sales and channel development in order to compete
+for more business.
+Our focus is on expanding our customer base, particularly our presence within the S5000—what we call the 5,000 largest buyers of storage in the world. With a presence in less than 30% of the S5000 at the end of FY 2008, and a highly
+concentrated presence in only 11% of the S5000, we believe that we have substantial opportunity for new business development within these target accounts.
+Along the way, we will maintain our tradition of innovation. We can bring new and innovative technologies to market quickly because the development cycle for software is far shorter than that of our hardware-centric competitors. We get the most leverage for our investment dollars because we have a unified software architecture that spans all of our hardware platforms. During calendar year 2009, we will deliver one of the largest projects in our history, a converged scale-out operating system, melding storage grid capabilities with our premium data management functionality.
+Looking Forward
+Our overarching goal remains the same—to continue to increase our market share by growing appreciably faster than the markets we serve. We will accomplish this by helping more customers to improve the efficiency of their infrastructure, reduce the cost of their operations, and do more with less. At the same time, they gain the agility to deploy new applications and expand their business more rapidly. We are committed to partnering with our customers to maximize the benefits they get from choosing NetApp.
+We are also committed to our partners. We are continually working to provide them with the best experience in our
+industry. We launched a revamped VIP program and have added new opportunities for them to sell certified services, which benefits both our partners and customers.
+We are committed to our employees. Over our 16-year history, our culture has been a key enabler of our success. We continually work to nurture and enhance our culture, believing that it is a key competitive differentiator. We are very proud that for the sixth year in a row NetApp earned a place in the top 50 on Fortune magazine’s 100 Best Places to Work list, a testament to the effort that our leadership and
+our employees put into making NetApp a model company.
+We are committed to our shareholders. With long-term revenue growth and maximization of long-term profitability in mind, we are investing in our business at levels that we believe are appropriate to accomplish our growth goals. At the same time, we continue to return value to shareholders through our strong share repurchase program.
+We would like to thank everyone — our customers, shareholders, employees, and partners — for their support along our journey to become the market leader in storage and data management, while at the same time creating
+a model company. Collectively we will be successful by helping our customers go further, faster.*
+  Dan Warmenhoven
+Chairman and
+Chief Executive Officer
+Tom Georgens
+President and
+Chief Operating Officer
+ 

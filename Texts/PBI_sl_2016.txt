@@ -1,0 +1,145 @@
+(right) Marc B. Lautenbach President and Chief Executive Officer (left) Michael Monahan Executive Vice President and Chief Operating Officer
+
+Fellow shareholders:
+As we look forward from 2016, the best way to describe where our company is today is "Poised for Growth ." The transformation of Pitney Bowes -- the hard work we are doing to deliver value to all of our stakeholders -- is still a work in progress. But we are well along the path we charted four years ago, and ready to capitalize on the progress we have made during that time.
+To be plainspoken, we were disappointed with our financial results in 2016. Our mailing business in North America was hurt by disruptions from our new enterprise business platform. This platform represents a complete modernization of our business processes and the accompanying technologies. It is a profound change in how we do business, and critical for our company going forward. But change of this magnitude is rarely made without short-term disruptions.
+
+Pitney Bowes Annual Report 2016
+
+1
+
+Letter to Shareholders
+
+In our software business, we made progress building relationships with new partners, but our direct sales were disappointing. While we continue to have a "blue chip" list of clients, we have had difficulty selling outside of our existing installed base. Clearly, this reinforces the necessity of creating a partner ecosystem that can help take our best-of-class products and capabilities to new clients and new markets. As I reflect on the year, I walk away with a series of lessons. The first is that, while change is a necessary ingredient of transformation, it is also always difficult. Change is disruptive and inevitably creates more challenges than you anticipate. Second, and a related point, you need to be conservative in your judgments about how quickly change can be incorporated into large enterprises. Finally, while change is difficult, it is critical to our ability to succeed in the 21st century. Moving from direct channels to new partners, and leveraging new digital channels, is critical to our future. Likewise, if we are going to be a truly digital, contemporary enterprise in the future, there is little choice but to modernize our business processes and technology. Simply said, it is impossible to be a modern enterprise with multiple customer relationship management systems and dozens of general ledger systems. Achieving Strategic Milestones Despite our financial performance in 2016, we were very encouraged by our progress against
+
+our strategic agenda. Our core strategy remains the same since 2013 -- stabilize/reinvent our mailing business, achieve operational excellence and grow our digital commerce business. In our core mailing business, we began the important work of reinvention. We are moving from a 20th century platform to a 21st century form factor that digitally connects our clients to a whole new series of applications and value. In essence, we are transforming a single, monolithic, analog application into a digitallyconnected set of software as a service applications through a single device. Our introduction of the Pitney Bowes Commerce Cloud in April 2016 is a key component of this vision. The Pitney Bowes Commerce Cloud greatly enhances our client relationships because it simplifies and digitizes those relationships. Clients have easy access to a full range of solutions and analytics remotely, whether through personal computers, mobile devices, connected meters or customized application programming interfaces (APIs). What's more, the Pitney Bowes Commerce Cloud has accelerated development and deployment of physical and digital offerings that leverage the industrial Internet of Things (IoT). For example, products that gather information from sensors on production mail machines, leverage cloud-based analytics and automate a wide range of tasks -- from machine optimization to the ordering of supplies to predictive analytics -- can also trigger required maintenance and greatly reduce unplanned downtime.
+
+2
+
+Pitney Bowes Annual Report 2016
+
+Opening up New Possibilities for Pitney Bowes
+One mission is to get our solutions into the hands of more clients by expanding our channel network to include high-impact partners, specifically global and regional Systems Integrators (SIs). We started with a culture shift -- changing the way everyone thought about SIs. Once our teams began to work with our new partners, several benefits occurred: Partners started to innovate with our products in ways we had not intended. Clients' problems became solvable at a greater scale. Creativity was energized across the organization, and our selling teams have proven that expanding our channel network is an imperative for growth.
+
+"Our new go-to-market approach is driving growth, innovation and usiness successful business r outcomes for our clients."
+Mark Taylor
+Senior Vice President, Software Channels
+
+Reinventing Mailing through the User Experience (UX)
+I design client interaction experiences for our Global UX team -- most recently, product installation for our SendProTM 300 solution. This is a digital meter that clients install in two steps -- hardware cable attachment, followed by software setup -- and we had to make sure clients felt confident and in control from start to finish. Getting this experience right from the moment they unpack a product is critical. That's why, before anything is released, we test and refine based on client feedback; this ensures that installation is completely intuitive. The product ships with cling-film that has clear instructions on the touch screen. It reassures users that a small delay in initial screen illumination is normal and helps them complete the configuration so they can start experiencing the SendPro 300 solution's value right away.
+
+"You have to get the details right to make the client comfortable from the moment they encounter a product."
+Andy Grossman n
+Senior UX Interaction ction Designer, Global User Experience
+
+Pitney Bowes Annual Report 2016
+
+3
+
+Letter to Shareholders
+
+A Global Enterprise Business Platform for Client Success
+
+We've transformed our systems and processes to enable clients to engage and transact with us in a way they prefer, while managing and growing their own businesses more effectively. Our global enterprise business platform has a single focus: helping clients succeed. With this in mind, people from across Pitney Bowes created this new end-toend experience, which involves everything from new products to supply ordering to technical support, and everything in-between, including the ability to self-serve and optimize their relationship with us. Now, when clients engage with us, they experience a different Pitney Bowes -- one that shows what a century of innovation is really all about.
+
+"We've transformed the client experience end to end. The relationship is now the client's to control -- that's a l shift." very powerful
+Bill O'Dea
+Impact Solutions Architect
+
+In our ongoing push for operational excellence, it is impossible to overstate the importance of our new enterprise business platform. This platform not only creates substantial efficiencies -- more than $1 billion over the next decade -- it also gives us the opportunity to create a whole new client experience and enables many of our new products, including the SendPro solution. Our SendPro family of offerings provides our clients with the capability to send packages through multiple carriers from the same hardware device or software application that they use to send letters. In terms of growing our Digital Commerce Solutions business for the future, we did make significant
+TM
+
+progress in developing new channels with solution providers and Systems Integrators. These new channels will take our software solutions to new clients and new markets. Since we began this effort a few years ago, we effectively doubled our existing sales force by training more than 200 third-party sales and technical people on our products and solutions. We are poised to take advantage of these new resources in 2017. Our Global Ecommerce business remains one of the most compelling opportunities I have witnessed in my nearly three decades in the technology business. Our momentum in this business continued to accelerate in 2016, and we closed the year with
+
+4
+
+Pitney Bowes Annual Report 2016
+
+Leveraging the Industrial Internet of Things through the Pitney Bowes Commerce Cloud
+
+"We're using technology to drive machine productivity -- and clients see the difference in their bottom line."
+I help to lead the digital transformation of our production mail business -- an exciting opportunity, because production mail has always been a hardwaredriven business. Our machines produce customer bills and statements for financial, insurance and telecommunications companies. There is an intense focus on security, speed, accuracy and precision, and success is measured in tenths of pennies and fractions of seconds. Right now, we're leveraging GE's Predix IoT platform to connect sensors, machine data and analysis, enabling us to quickly see problems and help significantly improve print and mail operations. At one time, Pitney Bowes was selling machines. Now we're not just selling machines -- we're selling productivity.
+
+Marie-Pierre Belanger
+Vice President, Digital Solutions and Delivery, Pitney Bowes DMT
+
+nearly 20 percent growth and no signs of slowing. This market opportunity is worth billions of dollars, and is growing at double-digit rates. Today, our Global Ecommerce business enables millions of sellers on eBay to offer products to customers around the world. It also supports more than 250 major retailers, including some of the world's most iconic brands. As a company, we are uniquely positioned to lead this market because of an end-to-end value proposition that goes from demand generation through the management of logistics. It is important to note that this business, too, is enabled by the Pitney Bowes Commerce Cloud.
+
+Finally, while it doesn't fit neatly into any of our three strategic pillars -- but will impact virtually everything we do -- we launched an entirely new advertising campaign in 2016. The Craftsmen of Commerce campaign introduced a transforming Pitney Bowes to the world and was a powerful signal that our company intends to lead in the 21st century. And our progress has not gone unnoticed in the industry. We are, for example, winning accolades for leadership in applying the Internet of Things from leading-edge technology companies and highly-reputed analysts. A few short years ago, this would have been unimaginable.
+
+Pitney Bowes Annual Report 2016
+
+5
+
+Letter to Shareholders
+
+The Foundation of a Successful Business
+Strategy & Vision
+
+Ties That Bind I am sometimes asked, "What is the relationship among these businesses?" Obviously, this has been a primary consideration as we have evaluated our portfolio. And, throughout our transformation, we have worked to ensure that our businesses can be advantaged by one another. As we support the digital transformation of our clients, our
+
+Brand Identity
+
+software business enables us to provide key technologies and functionalities in all of our offerings. Our expertise in physical commerce is being leveraged to address the increased shipping needs of a global marketplace as well. We are combining our unique expertise, experience and technology in physical and digital commerce to provide new offerings and new value to clients in all of our markets.
+
+Capital Allocation
+
+Portfolio Management
+
+To give one example, our Global Ecommerce business uses several key technologies developed in our other businesses, among them Instant Online Postage, single sign-on and our global carrier libraries. Without these technologies, we simply could not have grown our Global Ecommerce business as quickly as we have. Likewise, our mailing business and Global Ecommerce business both leverage the Pitney Bowes Commerce Cloud. Of course, this isn't to say that our businesses would not be successful outside of the portfolio -- but that there are clear advantages of scale and capability that would not be achievable outside the Pitney Bowes family. In a world of short-term thinking, we have increased our
+
+Enterprise Business Platform Team
+
+Products & Solutions
+
+Channel
+
+spending in systems, brand and product development over the past several years. Clearly, it would have been easier to forgo these investments and optimize for short-term results, but equally clear, it would have been the absolute wrong decision for our long-term shareholders.
+
+6
+
+Pitney Bowes Annual Report 2016
+
+Connecting Clients and Consumers around the World
+
+"Every culture is unique -- and shopping habits vary. When brands want to connect worldwide, we know how to make it happen."
+While ecommerce consumers in some countries prefer to shop through retailer sites, in countries such as China, an online marketplace like Tmall is a more common choice. This means that brands and retailers that want to reach global consumers need to meet consumers where they are -- and our job at Pitney Bowes is to help ease the way. We make sure retailers have the right products for the specific marketplace and, once they're active, we help optimize the experience. We think of our clients' success as our own, so we work hard to make sure everything is right, and that the consumer journey is simple and seamless.
+
+Sarah Ward
+Director, ctor, Growth atives -- Initiatives bal Marketplace Global elopments Developments
+
+Arisa Kuo
+Director, Growth Initiatives -- Marketplace and Global Marketing
+
+Pitney Bowes Annual Report 2016
+
+7
+
+Letter to Shareholders
+
+A Winning Culture
+
+Erika Hohlweck
+Executive Customer Service Manager, Pitney Bowes Presort ) Services (Milwaukee)
+
+"We work with a lot of people in a lot of places. Common values that span cultures make us a better team."
+We're leading an initiative called Our Winning Formula, aimed at fostering a high-performance culture and guiding our interactions with clients, partners and colleagues. The formula is simple: Do the right thing, the right way; work as a team; treat each other with respect; take pride in our work; be friendly. Our Presort Services team has over 4,000 employees who speak 17 languages at more than 30 U.S. locations. Through teambuilding, leadership exercises and professional development programs, we're learning that our common values are so much greater than our differences, and it has greatly benefited our work environment and value we deliver for clients.
+
+C. Leonard Jones
+Vice President, Human Resources, Enterprise Business Solutions & Workforce Services, the Americas
+
+8
+
+Pitney Bowes Annual Report 2016
+
+We have made good progress since we began this transformation four years ago. In addition, we have reduced our expenses by almost $300 million, while substantially reducing our Days Sales Outstanding and cutting our inventory in half. We've done this, along with growing a new business, Global Ecommerce, from virtually nothing to more than $400 million, with an annual increase of almost 20 percent. And, most importantly, we have created the conditions for long-term market success by investing in our products, our systems, our brand and our people. Of course, our progress has not been a straight line -- transformations rarely are. They have an arc: easy wins, followed by long-term initiatives, followed by the creation of long-term value. A shareholder who invested four years ago, at the beginning of our transformation, would have seen a total shareholder return of approximately 68 percent, which equates to an annualized return of more than 13 percent. To be sure, transformations are not for everyone. Not only do transformations require a lot of hard work, you also need a lot of patience and a little luck. Above all, you have to have resolve and confidence in knowing that what you are doing will yield the result you are expecting. And when they do work, they create real and sustainable value. I am especially proud of the fact that we have accomplished a decade's worth of work in less than half the time. This would not have been
+
+possible without the incredible people at Pitney Bowes -- from the employees we depend on every day, at every level of the enterprise, to the management team we've been able to draw from some of America's best technology companies. Thanks to the talent, leadership and determination of our people, we are poised to take advantage of that work to turn it into success in the marketplace. One last point: At Pitney Bowes, our goals are ambitious. Our intent is to go beyond being commercially successful and to be a great 21st century company that becomes a model for others, sustained and informed by enduring values. Those values have guided everything we have done, and will continue to do so.
+
+Marc B. Lautenbach President and Chief Executive Officer
+
+Pitney Bowes Annual Report 2016
+
+9
+
+

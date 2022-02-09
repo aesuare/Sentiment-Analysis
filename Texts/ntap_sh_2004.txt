@@ -1,0 +1,69 @@
+                       3.0
+579.3
+73.8 74.9
+76.5
+592.2
+1,036.3
+478.7
+804.4
+1,006.2 798.4
+1,108.8 1,319.2
+858.5 987.4
+892.1
+152.1
+1,170.3
+1,877.3
+1,415.8
+’00 ’01 ’02 ’03 ’04 Total Revenues
+’00 ’01 ’02 ’03 ’04 Net Income
+’00 ’01 ’02 ’03 ’04 Total Assets
+’00 ’01 ’02 ’03 ’04 Total Stockholders’ Equity
+Dan Warmenhoven and Tom Mendoza
+Network Appliance achieved a breakout
+year in fiscal 2004. With 31% annual growth, NetApp delivered the highest organic revenue growth rate in the network storage industry and ended the year with record revenues of $1.17 billion. Net income nearly doubled to a record $152 million. Last year we promised
+to deliver unparalleled value to our customers through our simple and innovative enterprise storage solutions, and our results speak for themselves. We saw strength across all major product lines and geographies, maintained solid gross margins, achieved our target operating model, and finished the year with over $800 million in cash and short-term investments after buying back $136 million worth of stock. It was a phenomenal year. We are proud of our achievements and excited about the momentum we carry into fiscal 2005.
+Corporations all over the world are spending large amounts of money to solve several common IT business problems, which are clearly contributing to our growth. Disaster recovery and data protection initiatives top the list, along with satisfying increasing regu- latory compliance requirements. Customers appreciate our ability to seamlessly facilitate the distributed enterprise with our unified product architecture, inexpensively supporting remote offices as well as providing off-site backup and mirroring capabilities. With the ever-increasing volumes of data and the requirements to keep more of that data longer, we expect demand for storage prod- ucts to keep increasing. NetApp solutions greatly simplify the management and storage of data for our customers. We have solutions today that solve problems customers will face in the future, providing them with a platform for growth and a partner for success.
+($ in millions)
+($ in millions)
+($ in millions)
+($ in millions)
+Financial Highlights
+It is clear that NetApp has increased market share in the network storage market. Our rev- enue growth rate far exceeded that of any of our competitors and was over three times the industry average. More importantly, according to IDC, the market for storage is projected
+Through company-wide efforts, NetApp extended its position as the innovation leader in enterprise storage. In anticipation of several market trends, we launched new and updated products that have become some of the fastest growing in our history. The NearStore product line, iSCSI and Fibre Channel SAN support, and our entry-level FAS200 series are all helping us expand our market share, and our investments are clearly paying off. In addition, our recent acquisition of Spinnaker Networks will allow us to lead the market movement toward scalable storage for grid computing. As a result of the success of our SAN products, our unified architecture, and our future vision, we are now perceived in the market as much more than “just a NAS company.”
+Five Fiscal Years Ended April 30
+2004
+2003
+2002
+2001
+2000
+to grow from $12.5 billion in 2003 to nearly $16 billion by 2007. Data volumes are growing exponentially, which means companies must spend to add capacity. NetApp is committed to capitalizing on the opportunities in this dynamic industry by making strategic invest- ments in our business to maximize our revenue growth and expand our market share.
+Total Revenues
+Net Income
+Total Assets
+Total Stockholders’ Equity
+$ 1,170,310 152, 087 1,877,266 1,415,848
+$ 892,068 76,472 1,319,173 987,357
+$ 798,369 3,033 1,108,806 858,476
+$ 1,006,186 74,886 1,036,252 804,448
+$ 579,300 73,792 592,233 478,746
+(in thousands)
+Dear Fellow Stockholders:
+
+     “We will expand our customer programs, partner programs, and back-office infrastructure to provide the best customer experience in the industry.”
+Our performance this year also reflects the success we are having in large enterprise accounts. Today this penetration is small as a percentage of their total storage spending, but firmly established and growing. We’ve gone from small pilot deployments in large corporations to becoming an established vendor and now are considered a trusted supplier for many marquee customers across the globe. We believe we have a huge opportunity in front of us as we enhance our relationships with our existing customers and establish new relationships with additional Fortune 1000 companies. This opportunity requires us to invest in our infrastructure in order to effectively support these customers.
+NetApp has always been known for product innovation, and now we are striving to set the industry standard for customer satisfac- tion through a new internal program called Total Customer Experience, or TCE. Our goal is to exceed our customers’ expecta- tions everywhere our organization touches the customer, providing an unparalleled level of service. With our continued investment in people, processes, and systems, we are earning increased customer loyalty through quality interactions, cost-effective and highly dependable products, enhanced services, and strong behind-the-scenes back-office support. As a result, we have developed deeper relationships with many strategic customers, particularly in verticals such as financial services, government, major manufacturing, energy, technology, telecommunications, life sciences, and entertainment.
+Here at NetApp we are striving to create
+a model company even as we achieve our performance goals. One of our stated corporate goals is to preserve our remarkable corporate culture as we grow. We provide
+a highly desirable work environment for our employees, and for the second year in a row we have been recognized as one of Fortune magazine’s 100 Best Places to Work and just recently named one of the top 10 Best Places to Work in the Greater San Francisco Bay Area and Silicon Valley. We foster team- work and invest in growing our people.
+We consistently hear from customers and prospective employees about the quality
+of the NetApp people they meet. We are very proud of the NetApp team and thank them for all of their efforts this year.
+To fuel future growth, we have also increased investment in our partner ecosystem. Building strong strategic partnerships will assist us
+in delivering more complete solutions to enterprise accounts—thereby increasing both our enterprise and vertical penetration. We expanded relationships with several large systems integrators, including Accenture, Fujitsu-Siemens, and IBM Global Services. We built additional channel capacity and at the same time consolidated our North American distribution channel, teaming with Arrow Electronics and Avnet Hall-Mark to manage our growing list of resellers. Through these efforts and the additional leverage gained from partners, we ended the year with nearly half of our global rev- enues coming through the indirect channel.
+This year culminated with a return to our target business model. Our focus through 2005 and beyond is to maximize revenue and grow market share by reinvesting prudently in our business, while maintaining operating margins at current levels as
+we grow. We will expand our customer pro- grams, partner programs, and back-office infrastructure to provide the best customer experience in the industry.
+This is an exciting time to be at Network Appliance. We are committed to becoming a multibillion-dollar company in the short term and ultimately becoming the leading storage provider in the industry. Providing customers with unprecedented value through simple, innovative solutions while maximizing shareholder value is our goal. We appreciate your continued support along the way.
+Sincerely,
+Dan Warmenhoven
+Tom Mendoza
+Chief Executive Officer
+President

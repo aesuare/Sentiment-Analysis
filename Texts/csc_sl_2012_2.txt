@@ -1,0 +1,110 @@
+  “Although the company underperformed in FY12,
+I am confident that we can improve our business as
+we move forward. We are committed to a far-reaching turnaround strategy to change CSC for the better and deliver the results our employees, clients and shareholders expect of us.”
+    Mike Lawrie
+President and
+Chief Executive Officer
+
+FORWARD
+TOGETHER
+FROM OUR PRESIDENT
+AND CHIEF EXECUTIVE OFFICER
+Dear CSC Shareholders,
+Since joining CSC at the close of Fiscal Year 2012, I’ve had the chance to meet with many of our investors, clients
+and partners and with our employees around the world. By listening closely to your perspectives and concerns, I’ve gained valuable insights into where we are today and what it will take to move CSC forward to better serve the needs of every stakeholder.
+Results for FY12 reflect a difficult year for CSC and were unacceptable to us and to our investors. Reasons for this poor performance included:
+À A significant write-off related to our work with the National Health Service (NHS) in the UK
+À Troubled contracts within our Managed Services Sector (MSS) business that resulted in impairment and restructuring charges
+À Difficulty in managing our cost structure to adjust for some of these adverse developments during the year
+À Organizational and operating-model alignment issues that impaired our ability to execute
+À Continued budget uncertainty and contract write-offs in our U.S. Federal business and economic headwinds in EMEA
+Although there were bright spots
+— including strong bookings of
+over $19 billion, which represents a 30-percent increase over FY11 — it will clearly take time and hard work to turn the company around to improve our profitability and overall performance.
+Despite the challenges, I firmly believe that our best days are ahead of us, and I have great confidence in our ability to achieve a successful turnaround. Much of my optimism comes from knowing that we begin our improvement journey with significant strengths.
+The primary strength is our most valuable resource — our people. I see enormous capability embedded in
+our global organization. Our 98,000 professionals bring some of the best skills, insights and intellectual capital in the IT services industry. We also have great clients that appreciate what differentiates us and want CSC to be successful in the marketplace. Our 2,500-strong client base spans all major industries and includes a large public-sector business.
+In addition, we have many in-demand offerings and under-leveraged assets, particularly in business services and software, cloud and big data. Multiple licensing agreements this year for CSC RISKMASTER®, the world’s most widely used risk and claims manage- ment software, and for our analytics-based Legal Solutions Suite, delivered as a service, pointed to
+our capabilities in industry-specific business services and software.
+In cloud, we delivered our innovative BizCloudTM offering to new clients, recorded $203 million in wins for commercial cloud services overall and were named a “Leader” in the very first Gartner Magic Quadrant for Public Cloud IaaS. We have $900 million in qualified cloud pipeline scheduled to be awarded in FY13. Similarly, we
+saw traction for our cybersecurity offerings over the past year, recording $48 million in commercial cyber wins and $350 million in North American Public Sector (NPS) cyber wins.
+In FY12 we also saw positive market activity from two recent acquisitions. Results for the 8 months of FY12 since we acquired iSOFT showed revenue of $139 million and included positive trends in high-margin software license sales. And our AppLabs unit delivered $60 million in revenue and enabled us to begin providing new applications testing services to existing customers.
+Among CSC’s other key strengths, we also have significant global scale, with
+a network of 60 service delivery centers and other capabilities in 90 countries that enable us to serve the world’s largest businesses. This global presence contributed to several major wins this year, including a new $1 billion contract with a global multibrand commercial products manufacturer and large new 5-year contracts with leading ship- builder Huntington Ingalls Industries and ArcelorMittal, the world’s largest steel producer. And we are independent, which offers our clients the advantages of flexibility, innovation and value.
+In the coming months, we will work
+to build on this progress and find new ways to leverage our talented work- force, global scale and proven offerings as we reorient the business and aim for higher levels of performance.
+ 53 years of service to the Global 2000 and governments worldwide
+Ranked #2 in IT Services by FORTUNE magazine, 2012
+Ranked #162 in the 2012 Fortune 500
+ CSC 2012 ANNUAL REPORT
+3
+
+  “Ultimately, it’s not about words — it’s about results. At the end of the day, what have we achieved for our clients? And what have we achieved for our shareholders? That must be the overriding focus
+of all we do.”
+  4
+ CSC 2012 ANNUAL REPORT
+FISCAL YEAR 2012 FINANCIAL PERFORMANCE
+CSC financial results in 2012 were below the company’s expectations, with revenue declining by 1 percent to $15.9 billion and a loss per share from continuing operations of ($27.38).
+The commercial business (Managed Services Sector and Business Solutions and Services Sector) experienced modest revenue growth of 1.4 percent including acquisitions and favorable foreign currency movements. Profitability in the commercial business was adversely impacted by the delays
+in the UK National Health Service (NHS) contract and resulting write-off, trou- bled contracts within our MSS business that resulted in profit adjustments and asset impairment charges, challenges in managing our cost structure, workforce restructuring and dilution from recent acquisitions. As a result of these events, MSS operating margins were break-even and BSS margins were negative.
+In the North American Public Sector (NPS), CSC revenue declined by
+5 percent as the result of uncertainty associated with Federal budgets and the likelihood of future budget cuts. NPS profitability was impacted by a
+claims settlement with the U.S. Government, forward losses on certain long-term contracts as well as an adverse adjustment resulting from
+a stop work order on a U.S. Air Force contract. Operating margins of
+2.3 percent were significantly below the company’s targets for 2012.
+Free cash flow of $59 million resulted from lower-than-expected operating cash flow from all three lines of busi- ness, higher corporate expenses, as well as a net cash outflow associated with the UK NHS contract.
+CSC exceeded its expectations for new contract awards in 2012 — delivering record bookings of $19.3 billion. The total value of these contracts repre- sented a 30-percent increase over Fiscal 2011 awards and helped to increase the company’s backlog to $36.4 billion.
+
+ MOVING
+FORWARD
+ Our immediate priority as we begin
+this turnaround journey is to improve financial performance and profitability. Today, as we work to achieve this objective, we are continuing to build and validate our business strategy, align our operating model and select the right leaders to execute it. As our approach evolves and as we finalize the much broader strategy, several core principles will guide our analysis and execution:
+À Improve Profitability. Shifting our immediate focus to improved operat- ing income and profitability involves cutting costs. We have launched an aggressive cost and expense takeout program to save $1 billion over the next 12 to 18 months. Much of that savings will be delivered to the bottom line; some will be reinvested. In addition, in early FY13 we conducted
+a full review of our portfolio, with the objective to fix or renegotiate under- performing contracts and implement measures to better ensure every contract we have can deliver value, profitably. We are also determining non-core assets for disposal, with a goal of delivering incremental cash to the business. Together, these actions will align our business portfolio, assets and cost structure to that valued by our customers and investors.
+À Simplify the Operating Model.
+A simpler and leaner operating model will allow us to better align resources, reduce fragmentation and more nimbly respond to our clients and market changes. Putting the right leaders in place and clarifying lines of accountabil- ity will also help us execute and deliver faster as one global team. To that end, we recently launched a new manage- ment compensation system to align the compensation of our global leadership with company profitability results and the creation of shareholder value.
+À Move Up the Value Chain. It is critical to speed up our evolution beyond commoditized utility services and into high-value solutions, particu- larly in cloud and virtualized offerings, business services and software. Realigning our solution development processes, exposing and scaling under-leveraged assets and building new capabilities will enable us to deliver greater value for our clients.
+À Innovate, Standardize and Scale. By more consistently transforming our most innovative ideas into focused solutions, we will help our clients reduce costs, enhance their own innovation and improve performance. We must also better leverage the outstanding solutions we have already built for our clients. By adopting a product-oriented approach, we can more efficiently standardize and more rapidly scale our tested and proven solutions to serve clients that seek the risk-reduction and price advantages of industrialized global offerings.
+À Lead Next-Generation Infrastructure. By putting our clients’ needs for innovation in cloud, big data and cybersecurity ahead of protecting existing business models, we will capitalize on emerging opportunities to transform our clients’ legacy IT infrastructures for improved cost- effectiveness and business agility.
+À Improve Client Satisfaction. As
+a global team, we must measure our client relationships not in transactions but in years of collaborative partner- ship and shared achievements. With straight talk, streamlined account management, exceptional service and a focus on results, we will position the company to deliver greater client and shareholder value over time.
+À Recapture Our CSC Pride. Our enormously talented and skilled people have an appetite for change and will drive our performance going forward. By supporting and engaging everyone in our company throughout this turnaround, we will nurture a new sense of pride in CSC that translates into greater commitment and improved customer service.
+When our broader strategy takes hold in the weeks and months ahead, we will update our stakeholders on our plans and progress. We will share further detail at the CSC Investors Day meeting in September and through other forums going forward. As we imple- ment changes in how we operate our business and approach our markets, we anticipate that CSC will perform more consistently and profitably and better meet the value expectations of our shareholders. Although we are moving with the utmost sense of urgency, we recognize that we are embarking on a multi-year recovery journey.
+Throughout this journey, we will
+strive to be exceptionally forthright
+in providing our shareholders the information they need to evaluate our performance, and we will continue to strengthen our corporate ethics programs. Transparency and unwaver- ing ethics make our business and our relationships stronger. That is our commitment to you.
+ 98,000 Professionals 2,500 Clients
+100+ Alliances
+ CSC 2012 ANNUAL REPORT
+5
+
+ OUR VALUES ARE CLEAR
+Client Focused — Our success derives from a deep understanding of our clients, to whom all of CSC is committed to deliver exceptional service and value.
+Leadership — We lead from the front, displaying our integrity and using facts to support our straight talk. We create an environment for positive change built on collabora- tion and trust.
+Execution Excellence — We insist on excellence in all we do for clients and ourselves, striving always for recognition among the leaders in our industry.
+Aspiration — We aspire individually and collectively to be more tomorrow than we are today.
+Results — We accept individual responsibility for our commitments and expect to be accountable
+for results.
+ 6
+ THE NEXT
+“Despite recent setbacks, CSC remains a respected global company with significant capabilities, and I believe we have a bright future ahead of us, with many opportunities to innovate, deliver
+STEPS
+and lead.”
+profitability and shareholder value we have prioritized as the company’s most critical goals.
+À David Zolet as President, North American Public Sector (NPS). David’s experience leading NPS business development and holding executive leadership responsibility at IBM and Northrop Grumman will serve him well in his new role as we build greater reliance between our commer- cial and public sector services and strengthen our cost and profitability management disciplines in NPS.
+À Gary Budzinski as President, Global Infrastructure Services. Gary comes to us from Hewlett Packard (HP) where he led HP’s $12 billion technology services business. His experience in IT services and outsourcing for HP, Aon and EDS includes leading large-scale, complex, global services operations in the midst of transformation.
+À Sunita Holzer as Chief Human Resources Officer. Sunita will oversee all aspects of our global human resource operations. She joins us
+from the Chubb Group of Insurance Companies where she was responsible for worldwide HR functions. Previously she gained transformative HR experi- ence at GE Capital Corporate, American Express and AIG.
+I joined CSC just a short time ago. But the more I learn about the company, the more excited I am about our future. The potential is there. We are one of the largest and most global of the world’s few remaining independent IT services providers. Our clients and partners are with us, and our people are ready for change. With focus, the right ideas
+Recent challenges have shaken the confidence of our investors and other stakeholders. But I feel very strongly that these challenges are absolutely surmountable if we are focused, decisive and act with a sense of urgency.
+Looking ahead, we understand the hard work that comes with change, but we feel confident in the underlying potential of our business and in our capacity to evolve and improve.
+Cloud, big data and industry-specific business services in particular are poised to deliver the next great leaps in client productivity and innovation. With the validation of our strategy, we will take a stand, commit to what we will be the absolute best at and establish the operating model and organizational structure to get us there.
+Equally critical is to ensure that we have the right leadership in place. We are committed to appointing leaders who are decisive, accountable, results- oriented and, above all else — those who uphold our core ethics and values and represent CSC to our employees and to all stakeholders in the best possible light.
+Recent additions to our leadership team include:
+À Paul Saleh as Chief Financial Officer. Paul brings tremendous expertise in leading global finance functions for companies in the midst of significant change and industry transition. With his experience as CFO for leading brands such as Gannett, Sprint Nextel and Walt Disney International, Paul also has a long track record of helping global busi- nesses achieve the consistent
+and ruthless execution, I believe that, together, we can move CSC forward and again deliver tangible value for our shareholders as well as our clients.
+Thank you for your support as we begin this turnaround journey.
+Mike Lawrie
+President and
+Chief Executive Officer
+CSC 2012 ANNUAL REPORT

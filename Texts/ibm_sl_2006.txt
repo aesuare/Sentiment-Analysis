@@ -1,0 +1,216 @@
+ 
+Chairman’s Letter
+IBM had a strong year in 2006. Revenue as reported was
+$91.4 billion, up 4 percent, excluding PCs from our 2005 results. Pretax earnings from continuing operations were $13.3 billion, an increase of 9 percent. Diluted earnings per share from continuing operations were $6.06, up 23 percent, marking
+16 straight quarters of growth. IBM has consistently generated return on invested capital significantly above the average for the S&P 500 over the past several years, and we did so again in 2006, with ROIC of 34 percent, excluding our Global Financing business.
+IBM’s gross profit margin rose for the third consecutive year—to 41.9 percent, an increase of 1.8 points in 2006, up more than five points since 2003. Our pretax income margin rose to 14.6 percent, an increase of 1.2 points. Both margins are at their highest in the past 10 years. Significantly, as
+I will discuss, they were achieved primarily by remixing our business to higher-value segments and by driving efficiency through global integration.
+In many respects, IBM is a “higher-torque” engine today. With revenue growth that matches our segments of the industry, we have been able to generate strong profit and cash. In 2006 we generated net cash from operations, excluding a year-to-year change in Global Financing receivables, of $15.3 billion — an increase of $2.2 billion from last year and our highest on record. In addition, net cash generated from every dollar of revenue has increased 18 percent since 2003. IBM ended 2006 with $10.7 billion
+of cash and marketable securities. And of course, stronger earnings and cash give us more flexibility to increase returns to you and to invest in future sources of growth.
+Our net 2006 cash investment of $3.8 billion for
+13 acquisitions—nine of them in key strategic areas of software — was up $2.3 billion year to year. After investing $6.1 billion in R&D and $4.7 billion in net capital expenditures, we were able to return a record of nearly $9.8 billion to you—$8.1 billion through share repurchase and $1.7 billion through dividends — or more than 100 percent of our net earnings. In April 2006 we announced a 50-percent increase in our quarterly dividend, the largest percentage increase in IBM history and the 362nd consecutive dividend paid by IBM. This was the 11th year in a row in which we have increased our dividend. Our balance sheet remains strong, and the company is well positioned to take advantage of new strategic opportunities.
+
+
+Chairman’s Letter
+Strategic choiceS
+In order to understand how we achieved these results,
+I think it is helpful to look back to the major strategic choices we made several years ago. They were by no means obvious at the time, and most IT companies chose different paths. But as we entered the new century, we were convinced that three developments would be of paramount importance
+to IBM and our clients:
+1. We believed that our clients would place a premium on innovation. What technology company doesn’t
+say it’s all about innovation? But if you really take this seriously, then you have to commit your company to continuous adaptation and change. Such is the nature of our industry, and many IT companies learn that lesson the hard way. Today, it’s clear that computing is radically changing—from the data center and the network to
+the proliferation of technology into the home, appliances, vehicles and the infrastructure of the planet. And it’s equally clear that businesses and institutions worldwide now look to innovation as their key to competitive differentiation and growth.
+To capture the most valuable opportunities, we’ve had to change our mix of products, services, skills and technologies. This is why we’ve exited businesses like PCs and hard disk drives, and why, through a combination of internal R&D shifts and acquisitions, we have substantially strengthened our position in emerging, higher-value spaces, such as service-oriented architecture (SOA), information on demand, business process services and open, modular systems for businesses of all sizes.
+2. We believed that both our industry and our clients would seek to reintegrate. But it would not be integration as in the past—product bundling, “turnkey” solutions
+or consolidation of industry segments. Instead, businesses would increasingly seek to integrate advanced technology with their business processes and operations, even their core business model. Why? Because this kind of integration would make them both more productive and more innovative. It would give them differentiation and com- petitive advantages they could not get from off-the-shelf technology and solutions. Conceptually, this is an ideal role for IBM to play—the “innovators’ innovator.” But since this kind of integration requires intimate knowledge
+of each client, it cannot be done in the lab or on the plant floor, and it certainly can’t be done in headquarters. It has meant an ongoing effort to change our processes and structures to push decision making close to the marketplace —what we internally call “lowering the center of gravity” of IBM.
+3. We believed that globalization would fundamentally change business. Because of free trade policies, the Internet and the emergence of highly skilled populations, we believed that globalization would arrive in full force— and with it the reality that anyone could capitalize on expertise and market conditions everywhere in the world. We believed this opportunity would soon become an economic imperative: Businesses, institutions, industries and societies would need to adapt to the changing environment. One important aspect of this was a change in the form of the corporation itself. The “multinational” of the 20th century was evolving into a new kind of institution, the globally integrated enterprise—which locates its operations and functions anywhere in the world based on the right cost, the right skills and the right business environment. We committed ourselves to becoming a model of this new form, and we have begun transforming IBM’s operations accordingly, tapping into skills and expertise available all over the world and integrating our operations globally. We have also begun a promising dialogue with our clients and with government, business and academic leaders around the world to explore the potential of global integration for economic and societal progress.
+As a result of these strategic choices and actions, IBM’s business model today is not only more aligned with our clients’ needs, but is also a stronger engine of financial performance. That was evident in 2006. Our innovation-driven strategy and financial model are also putting us in a favorable position relative to our competitors within each area of our business mix.
+BuSineSS Mix and reSultS
+Some of IBM’s competitors—those who are not as focused, do not have the financial capacity to invest, or are trying
+to straddle commodity and higher-value businesses —are struggling to deal with the changes underway today. As we
+
+2006 Annual Report
+
+ Samuel J. Palmisano —Chairman, President and Chief Executive Officer
+
+
+Chairman’s Letter
+have learned, it’s better to be in businesses that are truly differentiating in the eyes of the client than to go simply for size, volume and thin margins—where the client doesn’t receive unique value, and the investor doesn’t benefit.
+This is why we have entered new, more attractive spaces, through acquisition and by redirecting our R&D investments. Let me describe how these shifts are impacting each of our major businesses.
+• Software: In the world of software, we are witnessing
+a shift toward new architectures and the componentization of applications. This new model, inherently networked and based upon open standards, enables different business designs and the horizontal integration of business processes. Within the enterprise, its main impact is occurring at the level of middleware. Because we began years ago to build a position as the worldwide leader in middleware, IBM is now uniquely able to capitalize on it.
+IBM’s software segment revenues totaled $18.2 billion in 2006, an increase of 8 percent. Software generated
+40 percent of IBM’s segment pretax profits. We are recognized as the industry leader in SOA . The information on demand practice we launched in 2006, grouped
+under Information Management, grew 68 percent. Our acquisition of companies such as FileNet, MRO and Micromuse enhanced our growth in information and systems management. Our industry-leading WebSphere family grew 23 percent for the year, with particular
+strength in application servers and business integration. Rational software tools grew 4 percent, and Tivoli
+26 percent. Our Lotus division — which introduced well-received Web 2.0-enabled collaboration tools for the enterprise in early 2007 — grew 12 percent. We will be expanding our software offerings in 2007 to move beyond one-on-one and team collaboration —introducing tools that build communities of expertise.
+• global Services: The global services industry is being reshaped by two trends. The first is the emergence of a new services model, based on the integration of software and services, and the breaking-up of formerly monolithic business processes into components that can be delivered over the Web. IBM Global Services is leading the industry in the development of business componentization
+and the technology enablement of business processes. The second trend is a shift to smaller deals of shorter duration, higher profitability and more industry-specific focus. While our transition to this model experienced some hiccups initially, we are making steady progress and saw solid growth in short-term signings in 2006.
+IBM remains the leading IT services company in the world, with more than twice the revenue of our nearest rival. Revenues from our two Global Services segments in 2006 totaled $48.3 billion, an increase of 2 percent. Services’ share of IBM’s segment pretax profits increased to 37 percent. Revenues from the Global Technology
+ results from continuing operations
+revenue
+(Dollars in billions)
+$100 80 60 40 20
+income
+(Dollars in billions)
+$10
+8
+6
+4
+2
+    96.3
+    89.1
+91.1
+91.4
+9.4
+    81.2
+8.0
+ 6.6
+7.5
+      4.2
+  00
+          02 03 04 05 06 2005 performance includes results from four months of the IBM PC business, which was divested on April 30, 2005.
+02 03 04 05 06
+
+2006 Annual Report
+
+Services segment totaled $32.3 billion, an increase of
+3 percent. Revenues from the Global Business Services segment were essentially flat at $16 billion, but improvements in utilization, pricing, contract management and delivery optimization enabled it to grow its pretax margin by 2.7 points, to 9.8 percent, excluding 2005 special actions. IBM Global Services is ranked as the number one or number two service provider in consulting, systems integration, maintenance, Web hosting, application services and data center outsourcing. With a strong finish to the year — the fourth quarter, with nearly
+$18 billion in signings, was our largest since the second quarter of 2002 — we ended 2006 with an estimated backlog of $116 billion.
+• Systems and technology: IBM is the world leader
+in servers, and is leading a number of key changes in the industry, including shifts to multicore microprocessors, to high-end virtualized systems, and to the new category of modular systems known as blades. In 2006 we rolled out systems based on the new generation of our
+Power Architecture family, POWER5+; introduced
+the System z Business Class mainframe, targeting smaller firms; and extended our virtualization and energy management capabilities.
+Our systems and technology business extended
+its industry leadership in 2006, with segment revenues of $22 billion, an increase of 5 percent. Global Financing segment revenues totaled $2.4 billion, a decrease of
+2 percent. Our System z mainframes had a strong year, growing 8 percent and marking their sixth consecutive quarter of increased shipments of MIPS (millions of instructions per second). Our system storage business was up 6 percent for the year, and our microelectronics business continued to grow, increasing 22 percent for the year, thanks to our position as the technology engine for all three major gaming platforms. Systems and Technology Group and Global Financing accounted for 23 percent of IBM’s segment pretax profit in 2006.
+The hard work we’ve done to remix our businesses to lead
+in these emergent, higher-profit spaces is now showing up in our earnings and gross profit margins. But a changed business mix is not the only factor causing IBM’s strong performance.
+innovation and gloBal integration
+IBM’s lines of business work together in a model defined
+by innovation and global integration, the twin imperatives that we believe are reshaping business and society in the 21st century. This ability to both innovate and integrate — and do so in ways that are truly global—is unique to IBM, and sets us apart from our competition.
+Last year was in many ways the culmination of our repositioning of IBM as an innovation company. Its most visible manifestation was our marketing and communications campaign around the theme,“What makes you special?”
+Of course, marketing campaigns by themselves are of little importance—unless they persuade the world of an underlying reality that is substantial and meaningful. Ours did, supported by a long list of clients whose innovation potential we have unleashed through unique solutions. It was also supported by the continued preeminence of IBM’s research and development capabilities, reflected in our 14th straight year of earning by far the most U.S. patents of any company in the world.
+Our ability to deliver differentiating innovation to our clients is being greatly enhanced by IBM’s global integration— which is simultaneously giving us better economics and deeper capabilities, while eliminating enormous redundancies that were built up over 50 years as a multinational. IBM operates in 170 countries, with about 65 percent of our employees outside the U.S., including 30 percent in Asia Pacific. Our non-U.S. operations generate about 60 percent of IBM’s revenue.
+IBM’s research and software development have long been globally integrated. The company’s R&D system assigns work among our 20,000-plus software developers in 61 labs in 15 countries, and 3,000 scientists and technologists in IBM Research centers in the U.S., China, Israel, Switzerland, Japan and India, based on areas of unique expertise.
+In 2006 we expanded our global delivery centers, where talented IBMers support the full range of our clients’ applications and business transformation initiatives. We added thousands of skilled people and improved our capabilities in India, Brazil and Argentina, as well as Eastern Europe and multiple other locations in Asia. We have moved
+our global procurement mission to China and many of the services that support our external and internal Websites
+to places like Brazil and Ireland. Our financing back office is in Rio de Janeiro. These IBMers are not leading teams
+
+
+Generating Higher Value at IBM
+ . Several years ago, we saw change coming.
+Value was shifting in the IT industry, driven by a new computing paradigm, new client needs and the rising tide of globalization .
+• Change in computing architecture was rippling across the data center and the network, to a proliferation
+of technology infused into all aspects of work and life .
+• Companies were seeking to integrate advanced technology with their business processes and operations, not primarily to reduce costs, but to enable innovation and growth .
+• Enterprises and institutions were looking to tap into skills and expertise available all over the world and to integrate their operations globally .
+  . We remixed our businesses, to move to the emerging higher-value spaces.
+ We exited commoditizing businesses like PCs and hard disk drives, and strengthened our position in areas like service-oriented architecture (SOA), information on demand, business process services and open, modular systems for businesses of all sizes . This has changed our business mix toward higher-value segments of the industry .
+00 Segment Pretax income Mix
+SERVICES 37%
+SYSTEMS
+AND FINANCING
+23%
+40%
+    SOFTWARE
+ . and we decided to become a globally integrated enterprise, in order to improve iBM’s overall productivity and to participate in the world’s growth markets.
+ IBM operates in 170 countries, with about 65 percent of our employees outside the U .S ., including 30 percent in Asia Pacific . Our non-U .S . operations generate about 60 percent of IBM’s revenue .
+Over the next four years, IBM expects the IT markets in Brazil, China, India and Russia to grow revenue at more than two times the worldwide rate, creating a market opportunity
+of more than $150 billion by 2010 .
+00 iBM revenue growth
+(Excludes PCs)
+Brazil . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19% China . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16% India  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 38% Russia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21% total . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . %
+00 employee Population by geographic region
+00 revenue
+by geographic region
+EUROPE, MIDDLE EAST AND AFRICA
+25%
+ASIA PACIFIC
+EUROPE, MIDDLE EAST AND AFRICA
+ASIA PACIFIC
+(Excludes OEM)
+     45%
+30%
+35% 20% 45%
+ AMERICAS
+AMERICAS
+ 2006 Annual Report
+
+ . as a result, iBM is a higher-performing enterprise today than it was a decade ago. our business model is more aligned with our clients’ needs and generates better earnings, profits and cash.
+ We have achieved record profit . . .
+The company’s gross profit margin and pretax income margin are the highest they have been in the past 10 years .
+record earnings per share . . .
+Pretax earnings from continuing operations were $13 .3 billion, an increase of 9 percent . Diluted earnings per share were $6 .06, up 23 percent, marking
+16 straight quarters of growth .
+earnings Per Share
+(From continuing operations)
+Margins
+50% 40% 30% 20% 10%
+0%
+GrOss PrOFIt MArGIn
+$7 6 5 4 3 2 1 0
+     36.6 36.5
+36.9
+11.1
+04
+40.1
+02 03
+02 03 04 05 06
+. . . and record cash performance.
+Cash generated from every dollar of revenue has increased 18 percent since 2003 .
+net cash from operations,
+excluding global Financing receivables
+(Dollars in billions)
+$18 16 14 12 10 8 6 4 2 0
+41.9
+PrEtAx InCOME MArGIn
+13.4 14.6
+05 06
+               7.2
+10.6
+                 02 03 04 05 06
+6.06
+ 4.91
+ 4.39
+ 3.76
+ 2.43
+ 15.3
+  13.1
+ 12.6
+12.9
+ 10.5
+ . and that has enabled us to invest in future sources of growth and provide record return to investors . . .
+Primary uses of cash over the Past Five Years
+ (Dollars in billions)
+$80 70 60 50 40 30 20 10 0
+70
+     SHARE REPURCHASES
+DIVIDENDS
+NET CAPITAL EXPENDITURES
+STRATEGIC ACQUISITIONS
+          . . . while continuing to invest in
+r&d — more than $8 billion over the past five years.
+
+Returned to Shareholders Reinvested
+
+Chairman’s Letter
+focused on China or India or Brazil or Ireland. They are leading integrated global operations.
+In addition to integrating the entire company globally, we are investing to extend our leadership within the fastest-growing markets. We have tripled the number of people working in or serving markets such as China, India, Brazil and Russia in the past four years. Our business there, excluding PCs, grew 21 percent last year. Over the next four years, we expect these markets to grow at more than two times the worldwide rate, with an opportunity of more than $150 billion by 2010.
+In the May/June 2006 issue of the public policy journal Foreign Affairs, I described our point of view on the globally integrated enterprise, and this idea has struck a chord with many leaders around the world. We are now working actively across IBM’s broad ecosystem to explore the promise — and challenges — of this new model. We believe it offers hope for a new kind of globalization, one that not only generates vast new opportunity, but that also vastly expands the chances for all people on the planet to share in it.
+a diStinctive WaY oF thinking
+To many of us, IBM’s transformation of the past few years, while dramatic, has not felt unfamiliar. For me and others in my generation, the experience has not been one of entering uncharted waters, but of returning to a pace of change, a level of impact and a type of thinking that drew us to this company in the first place. And its origins go back a long way.
+For nearly a century, businesses, institutions and individuals have sought a relationship with IBM because of this company’s unique ability to conceptualize opportunities, to analyze developments and to reimagine how the world could work. For nearly a century, literally millions of women and men have been drawn here to be part of an enterprise that above all grounded itself in lasting values, and that valued, above all, the capacity of its people to think.
+Today, those values and that kind of thinking are deepening and taking on more and more exciting new forms. One example in 2006 was InnovationJam—an open brainstorming event on IBM’s worldwide intranet that engaged more than 150,000 IBMers, their family members, IBM clients and partners from business and academia. We shared a few of our “crown jewels,” some of the latest technologies from IBM’s labs. Then, together, we explored how these new
+capabilities might be applied to urgent needs — from the environment, to healthcare, to small global business, to the emergence of a “3-D Internet”—and how those possibilities might spawn new high-growth businesses.
+We have assigned senior business owners to develop
+10 of the most promising ideas, and we’ve stripped away process so they can move quickly. We also gave them a pool of $100 million in development funds to get them started. The important point in this is that when you commit yourself to innovation that matters, you free up talented people
+to try new things—new approaches, new partnerships, new markets. That is, you ask them to think.
+To capture some of the essential elements of IBM’s
+way of working, collaborating and approaching problems, we have created a companion piece for this year’s annual report. It is entitled, appropriately enough,tHInk. For
+all IBM investors—and for anyone who is considering a relationship with our company, either as a client, a partner, an employee, or a neighbor — an understanding of what makes IBM tick is essential in gauging our prospects for the century ahead.
+As we enter this new era of technology, business and global society, I am proud of the worldwide IBM team for bringing us to this point, and I am grateful to you, our shareholders, for your support in our journey. I hope and trust that you are pleased with how your company is growing and evolving. My colleagues and I are excited by the possibilities for how, together with our clients, our partners and you, we can bring this remarkable enterprise into its next phase of leadership and discovery.
+Samuel J. Palmisano
+Chairman, President and Chief Executive Officer
+The selected references in this letter to the company’s financial results: (1) excluding the effects of the divestiture of the company’s PC business, (2) excluding non-recurring items, and (3) excluding the Global Financing business are non-GAAP financial measures, as is the reference to return on invested capital (ROIC), and these references are made to facilitate a comparative view of the company’s ongoing operational performance. Additional information on the use of these non-GAAP financial measures is provided in the company’s Form 8-K submitted to the SEC on January 18, 2007 (Attachment II — Non-GAAP Supplementary Materials) and in the company’s 2006AnnualReport(ManagementDiscussionandAnalysis—YearinReviewandLookingForward—Liquidity and Capital Resources).
+ 8 2006 Annual Report

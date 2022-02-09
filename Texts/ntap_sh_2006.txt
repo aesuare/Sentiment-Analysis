@@ -1,0 +1,100 @@
+EXECUTIVE TEAM
+Dan Warmenhoven, CEO
+Tom Mendoza, President
+Dave Hitz, Founder and EVP James Lau, Founder, EVP, and Chief Strategy Officer
+Steve Gomo, EVP and CFO
+Tom Georgens, EVP and GM,
+Enterprise Storage Systems
+Rob Salmon, EVP, Field Operations
+Ed Deenihan, EVP, Global Services
+Jay Kidd, SVP and GM,
+Emerging Products Group
+Gwen McDonald, SVP, Human Resources
+minimizeriskcontrolchange Dear Fellow Stockholders,
+          In its first 10 years as a public company, Network Appliance
+has grown from a small NAS storage provider to a leading supplier of enterprise data management and storage solutions with thousands
+of customers in over 120 countries around the world. The key to our long-term success, both past and future, lies in innovating products and solutions that provide custom- ers with the lowest total cost of ownership, along with the architec- tural simplicity to combat mounting complexity in their IT environments. For the past four years, NetApp
+has earned a place on Fortune magazine’s list of the top 100 places to work, while preserving a remark- able corporate culture dedicated to maximizing revenue growth and shareholder returns.
+Network Appliance finished fiscal 2006 with three successive quarters of accelerating revenue growth, ending the year with over $2 billion in revenues—a 29% increase over
+the previous year. GAAP net income increased 18% to $266 million, and non-GAAP net income grew 33%, to over $315 million.1 Deferred revenue growth, a leading indicator of our increasing penetration in large enterprises, grew 52% year over year. Cash, restricted cash, and investments totaled nearly $1.6 billion, and cash generated from operations during the year grew 20%, to $554 million. We repurchased 17.4 million shares of NetApp common stock during the year, further enhancing shareholder value.
+Data Center Proven
+Our growth in fiscal 2006 came from successes on several fronts, but
+the overarching driver of growth was increasing penetration in enterprise data centers. We believe fiscal 2006 was the inflection point for NetApp relevance in mission-critical environments. Our commitment to innovation resulted in the most competitive Fibre Channel SAN
+capability in our history, driving sales of our new mid range products
+to over 40% of total units shipped by the end of their first year in production and stimulating a 74% annual increase in the amount of our business that included Fibre Channel con- nectivity. According to independent industry analysts, not only is NetApp the fastest-growing SAN vendor
+in the market today, but we also continue to be the leading supplier of NAS and iSCSI storage.
+Another key factor in our success is the degree of innovation in our software portfolio—innovation that is unmatched in the industry. NetApp has risen through the ranks of stor- age providers because our software solution set is built on a unified platform that allows us to focus investments on a single architecture and to sustain the highest rate of innovation in the industry. Our systems software capabilities help customers take more cost out of their environments, simplify the complexity of managing
+1A reconciliation of FY06 GAAP to non-GAAP net income consists of the following: amortization of intangible assets
+of $16.1 million; stock compensation of $13.3 million; in-process research and develop- ment of $5.0 million; discrete GAAP provision matters recognized ratably for non-GAAP purposes of ($5.2 mil- lion); income tax effect of ($2.7 million); as
+well as a nonrecurring American Jobs Creation Act income tax expense of $22.5 million.
+3
+
+  4
+©CSCEC+PTW+Arup
+increasedf lexibility
+The National Swimming Centre, known as the ‘Water Cube,’ will be one of the most dramatic and exciting venues to feature sporting feats for the Beijing Olympics in 2008. Arup provided mechanical, electrical, and structural engineering services for the building which will be the largest Olympic swimming centre ever built with seating and facilities for 17,000 spectators.
+their data and their data centers, and achieve utilization rates on their storage infrastructure of twice the industry norms. Our unified archi- tecture also helps organizations improve the productivity of their people and assets, while providing the flexibility they need to respond to changing business requirements.
+Much of our growth in data center environments started with secondary storage, providing customers the best data protection, business continuance, and compliance solutions in the industry. Our software enables customers to protect their data assets with less physical storage than is required by other vendor solutions. As a result, NetApp is already the second-largest provider of replication software in the industry. In fact, the replication segment of our business is growing three times faster than the data replication market itself. As more customers experience the tremendous savings achieved with NetApp secondary storage, they
+are increasingly bringing us into their
+primary storage environments. This is evidenced by the increase in our SAN and iSCSI business and also by the increase in data management software we’ve sold to support these environments—more than double over the past year.
+Tight integration of NetApp solutions with the most popular data center applications has also contributed to our success in this arena. We continue to deepen our strategic relationships with companies like Oracle, Microsoft, and SAP so that NetApp storage solutions will operate seamlessly with the applications already running in most data centers. With our FlexVolTM feature and products such as SnapManager® for Oracle® and SnapManager for Exchange, customers dramatically simplify the provisioning, replication, and backup of their primary storage for these application environments, helping them gain productivity while reducing costs.
+One of the most important contributors to our data center success is our
+growing global services team. We now have the people, processes, systems, and expertise necessary to support the most complex customer environments in the world. Our professional services help customers get into production faster, optimize their environments, reduce cost, reduce risk, and activate storage in minutes, not days. Services coverage was once a gating factor to our data center growth; now it is a compelling sales contributor. Our penetration into more than 9,000 data centers worldwide is testament to the support our global services team and partners provide.
+Our data center penetration has also been fueled by a dramatic jump in customers’ awareness of and trust in NetApp for business-critical applications. Awareness has increased considerably over the past year due to more effective outbound marketing efforts and also to a distinct increase in the amount of reference selling from highly regarded external sources. IBM
+
+ “Our investment in NetApp has already paid for itself in pro- ductivity savings alone. As an example, we have experienced
+100% availability of Exchange services since we deployed the NetApp solution five years ago. NetApp continues to deliver on the promises of increased flexibility, performance, reliability, and utilization...”
+NETWORK APPLIANCE ANNUAL REPORT 2006
+ gave us a resounding endorsement in choosing to sell not only our NAS and iSCSI products but also our SAN capability through an OEM arrange- ment. The three largest application vendors, Oracle, Microsoft, and SAP, are employing NetApp in their own environments and are endorsing our solutions to their customers more than ever. They consistently cite lowest total cost of ownership in their recommendations. This advantage is supported in an independent study by the Mercer Group that established NetApp as the storage vendor offering the lowest total cost of ownership in SAN, database, and disk-to-disk backup environments. We also have the attention of industry analysts, who have been giving NetApp increasingly positive reviews. We believe the consistency, credibility, and cohesiveness of the NetApp value proposition has caused customer awareness of NetApp solutions to expand dramatically, and as a result many more are consid- ering NetApp as an alternative to
+their current vendors.
+Expanding Addressable Markets
+Over the course of this year, we have broadened our total addressable market by extending our reach in several directions. NetApp is moving upward in the market with new ultra- high-end systems, expanding into the domain of large-scale frame arrays for the first time with the advantages of a modular system. We’ve also expanded outward into adjacent spaces, offering virtual tape libraries and data encryption solutions. These new markets are bringing
+us into parts of the data center we haven’t been in before, and we are beginning to see healthy traction in these areas.
+We are also broadening our software portfolio and capabilities. With
+the next generation of our operating system, Data ONTAP® GX, we are extending our lead in high-performance computing environments by providing scale-out capability far beyond
+that offered by anyone else in the industry. Over time, this version of our operating system will converge
+CUSTOMERSUCCESS: ARUP
+“...NetApp has clearly taken a different and better approach to solve our data center challenges. With the NetApp unified storage architecture, Arup has dramatically reduced data management complexity—and costs. We can manage our storage network with one -sixth the headcount. Deployment, provisioning, and management processes are the same across all NetApp systems. Our administrators can focus on application requirements rather than technology, so the business is better served.”
+— MARTIN COOPER, CTO ARUP
+Arup is a global design and business consulting firm providing a diverse range of professional services to clients around the world. The firm is the creative force behind many of the world’s most innovative and sustainable buildings, transport, and civil engineering projects.
+5
+
+ NETWORK APPLIANCE ANNUAL REPORT 2006
+“Over 90,000 companies worldwide rely on Iron Mountain for protecting and storing their information. With Network
+Appliance, we’ve found a company equally dedicated to this goal...”
+  6
+with our current standard, Data ONTAP 7G, bringing true storage grid architecture into the mainstream.
+In the meantime, we continue to expand the Data ONTAP 7G functionality, bringing new value to customers with every release.
+Our latest expansion is into the
+low end of the market, with a tar- geted offering for small-to-medium businesses that will be launched early in fiscal 2007. Another market, which is nascent today but likely
+to emerge rapidly, is the market for virtualization technologies. We are increasing our focus on the V-Series product line, which enables customers to bring the management simplicity of NetApp Data ONTAP
+to their existing storage from other vendors. Our efforts in all these expansion areas continue to reflect the fundamental differentiating principles at NetApp: help customers reduce cost and complexity, minimize risk, and control change by preserving flexibility.
+Building Infrastructure for Sustained Growth
+In fiscal 2006, NetApp expanded
+its infrastructure to handle the business challenges that come with rapid growth. We added nearly 1,200 people, with particular emphasis
+on engineering, sales, and profes- sional services, ending the year with nearly 5,000 employees. We added
+to our management team, bringing seasoned, proven individuals to the senior-most ranks, thereby injecting new thoughts and new processes into our organization. We founded an emerging products group to focus on new markets and opportunities outside our core business. And we made investments in scaling our internal IT processes and systems as we worked to build an infrastructure that can scale well beyond $5 billion in revenues.
+Our channel development strategy, which is a combination of direct and indirect sales, is also scaling well. Contributions from the indirect chan- nel continue to grow faster than our
+direct business, a natural result
+of the leverage we get from the reach of our large partners. Fujitsu Siemens grew 35% in fiscal 2006, to account for over 4% of our revenue. Business through our two-tier dis- tribution partners, Arrow and Avnet, grew 60% this year, to account for nearly 11% of our business. We will continue to invest in developing
+and training our channels to fuel additional growth and expand our addressable markets. The invest- ments we’re making in our top enterprise account program are also paying off, with business from our largest customers growing 41% in fiscal 2006. We believe growth attributable to our direct sales channel is gated primarily by coverage in the field, so we plan to continue hiring to drive sustained top-line expansion.
+Our strategy of investing in our business to maximize revenue growth and long-term profitability remains the same. Based on sensitivity analy- ses that we’ve conducted with our financial models, we believe
+
+ unmatchedsimplicity
+ returning approximately 16% operating margins to shareholders in the near term optimizes both revenue growth and profitability
+in the long run. As long as we see expanding market opportunities, we plan to invest at current levels
+to capture market share as quickly as possible.
+Looking ahead, NetApp is well posi- tioned to remain the fastest-growing storage company in the industry.
+We are clearly the most nimble vendor, innovating at a much faster rate than the competition because of the advantages we derive from our unified software foundation. With our escalating success in enterprise data centers, we expect to become an increasingly strategic data man- agement partner to more customers around the world. By listening closely to our customers and quickly providing them with new ways
+to get the most value from their investments, we believe our prospects for growth are stronger than ever.*
+We would like to thank all NetApp employees, customers, and partners for their contributions to a successful fiscal 2006. We look forward to growing with you in 2007.
+Dan Warmenhoven
+Chief Executive Officer
+Tom Mendoza
+President
+*Please see the following page for important disclosures regarding forward-looking state- ments contained herein.
+CUSTOMERSUCCESS: IRON MOUNTAIN
+“...The efficiency, administrative simplicity, and fast recoverability of the NetApp disk- based storage solutions are integral to our business services. We also rely on their Decru DataFortTM for encrypting backup tapes; it’s the clear leader and has significantly improved the security of our backup process.”
+— KEVIN RODEN, EVP AND CIO IRON MOUNTAIN INCORPORATED
+Iron Mountain helps organizations around the world reduce the costs and risks associated with information pro- tection and storage. Iron Mountain offers comprehensive records management, data protection, and information destruction solutions for corporations around the world.
+  7

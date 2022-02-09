@@ -1,0 +1,83 @@
+ Annual Report 2012 Letter to Shareholders
+“There is no question that our industry is rapidly changing, and both Cisco and the network are at the heart of the major market transitions underway. We believe that our long-term strategy, which is focused on delivering intelligent networks and technology and business architectures built on integrated products, services, and software platforms, is the right one to help our customers achieve their top priorities and fuel our success over the long run.”
+- John Chambers, Chairman and CEO
+ To Our Shareholders,
+Reflecting on fiscal 2012, it was a year in which Cisco struck a balance between staying the course where appropriate, adjusting when needed, and continuing to reinvent ourselves. And what we are most proud of is that we did what we said we would do—we delivered for our shareholders, customers, and partners.
+There are a number of key takeaways from fiscal 2012. Cisco grew earnings per share at more than twice the pace of revenue for the fiscal year. We also positioned ourselves for the future
+in terms of product innovation and gaining market share across most of
+our categories, including those in which we were already leading. Additionally,
+we were able to pull away from many
+of our competitors by delivering unique value to customers and partners, for which we achieved exceptional customer and partner satisfaction levels. And we significantly improved shareholder value. Despite the macroeconomic challenges, including uncertainty in the European market and lackluster global public spending, that impacted many in our industry, fiscal 2012 was a very solid year for Cisco.
+During the fiscal year, we continued
+our focus on Cisco’s transformation, an effort we began in the second half of fiscal 2011. We invested in the things that were working, realigned resources to support key opportunities, evolved
+our leadership, and strengthened our operational discipline. We exited the fiscal year at a lower expense run-rate than we were operating under at the start of the year. We are pleased with our progress to date, and we remain focused on creating greater value for our
+customers, partners, employees—and for you, our shareholders.
+THE RIGHT VISION AND STRATEGY
+Our vision and strategy—to become our customers’ most strategic business partner by delivering intelligent
+networks and technology and business architectures built on integrated products, services, and software platforms—is,
+in our view, enabling our customers’ success, as well as our own. Our success in the service provider market is one of the best examples of how our vision and strategy is working. In this market, we have evolved from being a box provider to being a technology provider to being one of our customers’ top strategic business partners by solving their most complex issues. We set our sights on
+this market over a decade ago, and by staying the course and adjusting when needed, we believe we have broken away from most of our peers in the industry
+as we have helped our service provider customers achieve their technology and business goals.
+If you think about what we did with
+The London 2012 Games, it’s a great example of our ability to strategically partner—in this case, with the British Government, the London Organizing Committee of the Olympic and Paralympic Games, British Telecom,
+and broadcasters such as NBC—to drive incredible outcomes and experiences for London 2012 participants, attendees, and viewers. Cisco provided network infrastructure for the London 2012 Games that enabled 1,800 Wi-Fi hot spots and 80,000 data connections and had a capacity four times larger than the network infrastructure in any previous
+Cisco Systems, Inc. 1
+
+ Annual Report 2012 Letter to Shareholders
+2 Cisco Systems, Inc.
+Olympic Games. Cisco technology and solutions helped connect an estimated 10 million spectators, 76,000 volunteers, and 22,000 athletes and coaches in a way never before possible.
+One of Cisco’s key differentiators over the years has been our ability to capture market transitions which drive innovation that enables our customers’ long-term success. Market transitions have never occurred at a faster pace than we are seeing today. At the heart of each of these transitions—cloud, mobility, video, any device, social networking, and
+virtual networks—is the network. Make
+no mistake about it: Cisco is focused on driving the opportunities created by these transitions, and in our view we have never been more relevant than we are today.
+A key market transition currently underway is the evolution towards
+more programmable, flexible, and
+virtual networks. We believe customers understand that optimizing the hardware, ASICs, and software elements of their networks together will drive consistent experience, policy, security, and mobility. In our view, this market transition plays directly to our expertise: Cisco pioneered network virtualization in 2009 with the introduction of the Nexus 1000V Series, the first virtualized switch that today has more than 6,000 production customers. Cisco almost always leads the way as these transitions develop. We intend to lead this transition through a combination of internal development, internal start-ups, acquisitions, and partnering.
+From a technology standpoint, in fiscal 2012 we continued to prioritize our actions and investments around our five foundational priorities, which consist of leadership in the core business (routing,
+switching, and services); data center (virtualization/cloud); collaboration;
+video; and architectures for business transformation. By catching market transitions and listening to our customers, we continue to execute on our goal
+of driving innovation and sustainable differentiation, which is the lifeblood of Cisco.
+EXECUTION
+We are all aware of the challenges associated with the uncertain macroeconomic climate during the fiscal 2012 period, and that makes us even more pleased with our record revenue and earnings per share during this time. The company also grew profits faster than revenue, as we had committed
+to do with our operating model of disciplined decision making, sound portfolio management, strong operational execution, and a focus on driving profitable growth.
+For fiscal 2012, Cisco reported net
+sales of $46.1 billion, an increase of 7% compared to fiscal 2011. Fiscal 2012 product sales were $36.3 billion, up
+5% compared to fiscal 2011. Illustrating the value of Cisco’s role as a strategic business partner to customers worldwide, our service revenue grew 12% in fiscal 2012 to $9.7 billion.
+Net income for fiscal 2012 was $8.0 billion, representing an increase of 24% from fiscal 2011. Earnings per share
+on a fully-diluted basis were $1.49, an increase of 27% compared to the prior fiscal year.
+During periods of uncertainty, our strong balance sheet continues to be a competitive advantage. Total assets were $91.8 billion at the end of fiscal
+
+ Annual Report 2012 Letter to Shareholders
+2012, including $48.7 billion in cash, cash equivalents, and investments
+held globally. During the fiscal year, we generated $11.5 billion in cash from operations. We continue to focus on effectively delivering maximum return on invested capital and enabling growth demonstrated by the strong free cash flow generated during the fiscal year.
+In terms of net sales from a geographic standpoint, comparing fiscal 2012 performance to fiscal 2011, we saw revenue increases across all three geographic regions, including 6% in the Americas; 4% in Europe, Middle East, and Africa (EMEA); and 13% in Asia Pacific, Japan, and China (APJC). We were especially pleased with our growth in emerging countries, and we believe that Russia, China, Brazil, Mexico, and India have strong potential to contribute to our long-term growth. We plan to continue to invest in our emerging markets business, from where, we believe, the majority of global GDP growth will come in future years.
+From a technology product perspective, we saw growth across all of our major product categories during fiscal 2012. In Switching and NGN Routing, while many of our peers reported negative growth, we saw solid revenue growth
+of 3% in Switching and 2% in NGN Routing, as compared to fiscal 2011, and we continued to hold or gain
+market share in the majority of our key markets. In the switching market, strong demand resulting from the transition to 10-Gigabit Ethernet and our Massively Scalable Data Center (MSDC) customers helped to increase fixed-configuration switching revenue growth to double digits in percentage terms in fiscal
+2012. In routing, the transition to our
+new platforms is going very well with the market shift from wireline to wireless providing us with a true competitive advantage.
+We were very pleased with our Wireless momentum. Our investment in Service Provider WLAN has driven one of the most compelling offerings in the industry, with revenue in our Wireless category
+up 19% in fiscal 2012, as compared
+to fiscal 2011. Revenue in our Security category increased 12%, as compared to the prior fiscal year. Our Data Center category grew revenue by 87%, as compared to fiscal 2011. In our view, our ability to move first in the data center market transition—to a unified computing, storage, and networking solution—has helped solidify our position as a leader in next-generation data centers.
+We believe the move to a post-PC world, with its accompanying requirement of ubiquitous video, will help drive our Collaboration market success moving forward. In fiscal 2012, Collaboration revenue increased 3%, with our Unified Communications products making solid strides.
+In fiscal 2012, we saw 11% revenue growth in Service Provider Video. As this market evolves into the cloud, software becomes increasingly important and creates the potential for more profitable growth. We believe our recently completed acquisition of NDS Group Limited will help us achieve profitable growth at a faster pace, as
+NDS will help accelerate the delivery of Cisco’s Videoscape platform and broaden our opportunities in new service provider markets.
+During the year, we continued to execute on our strategy of build, buy, partner, and integrate. From an acquisition
+Cisco Systems, Inc. 3
+
+ Annual Report 2012 Letter to Shareholders
+perspective, we completed seven acquisitions in fiscal 2012, and we believe each acquisition ties directly into Cisco’s foundational priorities. From a partner standpoint, we remained focused on listening to our customers, who rely on
+us to deliver world-class solutions, often together with strategic partners. These partnerships can be complex, and it is possible that we will find ourselves in markets where we compete as well as partner. Where there is the opportunity to partner, we intend to partner effectively. Where there is overlap, we plan to compete with intensity.
+MAXIMIZING SHAREHOLDER VALUE
+We are listening to you, our shareholders, as we look to increase shareholder value. In fiscal 2012, Cisco paid cash dividends of $0.28 per common share, or $1.5 billion. During our fourth quarter and
+fiscal 2012 earnings call in August, we announced that we would increase our dividend for the first quarter of fiscal
+2013 by 75%, to $0.14 per share, which based on our share price at the date of this letter would represent an approximate 3% yield and place ours among the highest dividend yields of large cap technology companies. In fiscal 2012, Cisco also repurchased 262 million shares of common stock at an average price
+of $16.64 per share for an aggregate purchase price of $4.4 billion. In addition to announcing the dividend increase
+for the first quarter of fiscal 2013, we announced our intent to return a minimum of 50% of our free cash flow annually to shareholders through dividends and share repurchases.
+CAPTURING THE FUTURE OPPORTUNITY
+With the new fiscal year upon us, we remain highly focused in a complex macroeconomic environment, and we believe we are well-positioned to deliver on our fiscal 2013 priorities. We continue to realign resources to ensure that we
+are innovating and making investments that are in the best interests of our shareholders, customers, and partners. We are focused on the goal of gaining market share across all of our key product categories, including those in which we already lead. We continue to strive to deliver profitable growth and generate long-term shareholder value. We also plan to continue taking advantage of the opportunities in front of us, executing on our vision and strategy and winning in our customer and geographic segments.
+Cisco is a great company with an exceptional track record, a strong culture of innovation, a passion for customer success, and the talent to deliver results. We believe our ability to anticipate
+and respond to both challenges and opportunities is a fundamental part of our DNA, and we plan to continue to double down, adjust, and reinvent as necessary to ensure our success going forward. We value your partnership as we position the company to lead into the future. I strongly believe it will be an exciting journey for
+us all, and I want to thank you for your on-going commitment, support, and trust.
+John T. Chambers Chairman & CEO, Cisco September 12, 2012
+ 4 Cisco Systems, Inc.

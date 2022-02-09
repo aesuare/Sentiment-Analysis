@@ -1,0 +1,181 @@
+  dear fellow investor,
+This is my last annual letter to you.
+By the time you read this, Sam Palmisano will be our new
+Chief Executive Officer, the eighth in IBM’s history. He will be responsible for shaping our strategic direction, as well as leading our operations. For a discussion of IBM’s performance in 2001, I invite you to read Sam’s first letter to shareholders, starting on page 45.
+I want to use this occasion to offer a perspective on what lies ahead for our industry. To many observers today, its future is unclear, following perhaps the worst year in its history. A lot of people chalk that up to the recession and the “dot-com bubble.” They seem to believe that when the economies of the world recover, life in the information technology industry will get back to normal.
+In my view, nothing could be further from the truth.
+ ibm annual report 2001
+
+ chairman’s letter 1
+financial charts 6
+sixteen decisions that transformed ibm 9
+seven shifts that will transform the future 42
+ceo’s letter 45
+financial highlights 48
+financial report 53
+stockholder information 107
+board of directors and senior management 108
+
+Amassive shift is under way in our industry. You may think I mean the transition to a networked world. After all, IBM was one of the first to recognize this change and the impact it would have. And make no mis- take, we are experiencing an explosion of technological innovation that will lead to permanent changes in busi- ness, government, education, health care and every other area of human endeavor —as every significant institution, every product and service, as well as billions of people, become permanently “connected.”
+But that’s not the shift I’m talking about. The revolution I’m describing is that customers are finally driving the direction of the information technology industry.
+Technologists Talking to Technologists
+The first 30 years of this industry’s history consisted of the technology inventors inside I/T companies talking to the technology implementers inside businesses and institutions. For most of that era, the applications of the technology were fairly limited—focused on the automation of back-office processes like accounting and payroll, or desktop applications such as word process- ing and e-mail.
+Then, starting in the early 1990s, businesspeople began to understand the importance of information technology to everything they wanted to do. It’s gotten to the point where it’s almost impossible to distinguish between the business strategy and the I/T strategy of any successful enterprise. Approximately half of the investments that customers make in I/T are now driven by line-of-business managers, not chief information officers. This is a remarkable shift in just five or six years. Not that CIOs
+have become unimportant. They now sit at the table where technology is translated into business value. And their traditional bailiwick of infrastructure, too, has been transformed by the networked world. But there’s no question that business strategy now sets the technology agenda, not the other way around.
+Prior to joining IBM, my career as a management consultant and executive took me inside the inner work- ings of many industries. So I was surprised, on entering this one, to learn that the computer industry had been able to get away with inventing new things and just “throwing them over the wall,” leaving customers to figure out how to integrate and apply them. That wasn’t easy for those customers, for a lot of reasons. One was the absence of common standards. The industry model was designed around a variety of proprietary architectures (which, to be candid, technology providers were using to control customers).
+This came as quite a shock to me, since all my prior experience had taught me that you either give the customer what he or she wants, or the customer walks. Well, guess what? Customers have finally put on their walking shoes. They’ve made it emphatically clear to this industry that they will no longer cede control to the makers of the technology.
+That means customers are demanding integration, and refusing to accept piece parts that aren’t designed and delivered to work together. It means they are demanding solutions, not “speeds and feeds.” And it means they insist that the technology adapt itself to the needs of their business and help them gain some tangible competitive advantage —to squeeze cost from
+chairman’s letter
+1
+
+their supply chains, to create lasting relationships with customers, to empower their key constituencies (internal and external) with tools and knowledge.
+A Tale of Two Revolutions
+So the past decade hasn’t seen just one major shift, it’s seen two. For IBM, this was good news. Even in the depths of our decline, in 1993, it was obvious that no other company had both the technical expertise to win product battles against competitors and the business knowledge to become a trusted partner for its customers. Contrary to the con- ventional wisdom of pundits, analysts, the media (and, of course, our rivals), IBM still had a raison d’être.
+Of course, we had to unlock both capabilities, and, in fact, make them feed each other. That goal—creating a business model that uniquely combines technical and business innovation, a company with one foot in the lab and one in the boardroom—underpins the new IBM we set out to build.
+Thus, the big decision we made early on —to reverse the then-current plan to break up the company and commit instead to making all of IBM’s parts work together—was a fairly easy one. It didn’t involve a lot of research or market analysis. The real question in my mind was not “Should IBM exist?” but rather, “Can we become what this new era demands?” Put another way: Could we aspire to lead again? I can’t think of many companies, in any industry, that have led two eras. But I can tell you now that, even in the dark days, we began believing that we could defy history.
+Of course, that’s like deciding to climb Mount Everest. You still have to climb the mountain! And we weren’t
+starting our trek from an elevated base camp, or even from sea level. This annual report captures a sense of the sheer range of what was involved to pull it off.
+Through it all, our guiding light came down to two words: customer focus. It has proved both galvanizing and clarifying, serving as the criterion for reexamining a whole lot of dogma, and for resolving many of our seemingly intractable internal debates.
+Was it okay for IBM Global Services to recommend competitors’ hardware or software? Should the IBM soft- ware business develop solutions for Sun or HP servers? How about letting our hardware units support Oracle or Microsoft products? In every case, the answer was: We’ll do what customers want.
+Once we started really listening to customers, it’s striking how many aspects of our business improved— and not just on the market-facing side, but also in procurement, with our suppliers and even in technology, where the quality and quantity of our output have bene- fited enormously from exposure to the marketplace.
+This is important. The relationship between business and technology isn’t one-way. Technology itself isn’t some force of nature that we simply direct or use. It, too, is the product of human intentionality and choice. So yes, we apply technology to solve customer problems. And we also apply marketplace knowledge to help shape our research agenda—whether it’s the direction of the econ- omy, or growth opportunities, or emerging forms of governance and education, or demographic and social trends, or discoveries in other fields such as life sciences.
+A decade ago, the two were disconnected—and one of them was running amok. Technology was being pursued for
+chairman’s letter
+2
+
+its own sake, and was either buried in labs (in the case of IBM), or generating premature visions of business triumph (in the “build it and they will come” fantasies of the dot-com paper billionaires and “new economy” moguls).
+We needed to reassert a proper balance. And that led, in IBM, to a handful of strategic bets on the future drivers of our industry. I would highlight four.
+1. THE NEW INDUSTRY MODEL: Innovate or Integrate
+To survive, you have to do one or the other really well. To lead, you have to do both.
+The vertical integration of the technology industry in the ’60s and ’70s had given way by the early 1990s to a dizzying array of “pure play” companies (specialists in PCs, databases, application software and the like). This explosion of entrepreneurial and technical creativity was, on the one hand, a testament to our industry’s enduring power. It’s a well that will never run dry.
+Businesses, however, desperately needed someone to help them make sense of this chaos. Hence, the emergence over the past several years of technology integrators— and the rush of traditional professional services companies into e-business consulting.
+As I/T moves out of the back office and into the execu- tive suite, value and growth in our industry are driven less than they used to be by technical innovation or product excellence, as necessary as those remain. What matters most today is the ability to integrate technology into the lifeblood of business. The people who help customers apply technology to transform their businesses have increasing influence over everything from architecture and standards to hardware and software choices and partners.
+2. THE NEW BUSINESS MODEL: Services-Led
+A lot of people now understand the lead role played by I/T services. However, building up the requisite skill base, not to mention an appropriately sophisticated management system, is nontrivial. You can’t buy your way into it, or just go out and hire a lot of smart people. You need a certain scale and range of disciplines. Also, you can’t just layer one kind of expertise on top of another. This isn’t just filling up two beakers, one labeled “customer” and the other labeled “technology.” It takes years and a lot of knowledge to be able to mix those elements properly.
+Plus, services is rapidly expanding and evolving in some surprising ways. It now encompasses not just labor- intensive consulting, but also the utility-like delivery of computing —from applications, to processing, to storage. We see the beginnings of this trend in Web hosting and our own “e-business on demand” offerings, where customers don’t buy computers, but acquire computing services over the Net, on a pay-for-use basis. To play here, as well as in the globally booming strategic out- sourcing arena, you have to be willing and able to use your balance sheet to support growth.
+IBM, of course, had deep experience in I/T services. But in our old business model, it was buried inside a revenue stream dependent on selling hardware. We had to extract our service operations and turn them into a profit center in their own right. That involved a lot of trial and error. But today, IBM Global Services has evolved into the world’s largest and most innova- tive consultancy, systems integrator and strategic outsourcing leader.
+chairman’s letter
+3
+
+3. THE NEW COMPUTING MODEL: Infrastructure Plus Ubiquity It became clear to some of us in the mid-’90s that the PC- driven, client /server computing model had run its course, and was being replaced by network-based, distributed computing. This meant that, on one end of the scale, the workload was moving back to the infrastructure— to industrial-strength servers, storage, databases and transaction-management systems. On the client end, it has spawned a proliferation of network-connected devices of all kinds: PDAs, cell phones, videogame systems, set-top boxes and beyond—to the whole pervasive-computing world of embedded components in everything from household appliances, to medical devices, to cars. And tying it all together was an emerging category of software with a wonderfully descriptive name, which hardly anybody had heard of five years ago—middleware.
+It stood to reason that, in a distributed model, prof- itability would be distributed, too. So we zeroed in on three sweet spots of the new computing “stack”: enterprise systems, integrating middleware, and the specialized, high-value components (such as custom chips) that turn every sort of device into a computer.
+This is anything but a “portfolio” approach. We’re not just hedging our bets, and we’re certainly not trying to be all things to all people. Our choices have been about both what businesses to pursue aggressively, and what ones to exit (such as enterprise application software and networking hardware).
+• In enterprise systems, we retooled our storage family and entirely revamped and consolidated our server lines. And, let the record note, we didn’t accept another piece of conventional wisdom—we didn’t give up on the
+mainframe. Like IBM, it’s back —transformed, more powerful, and doing quite nicely.
+• In software, through acquisition and internal develop- ment, we built the biggest middleware business in the world. That’s fortunate, because middleware—which helps customers integrate their applications and processes— has emerged as the fastest-growing sector of the software industry. As a development platform, it’s becoming more important than operating systems. And that, in turn, has helped IBM Software to become more deeply integrated into the wider software industry than ever before, much better positioned to share in its future growth.
+• In component technology, what began as a search for a new revenue stream to support our R&D expenses turned into a significant growth engine in its own right—our OEM, or original equipment manufacturer, business. Yes, that part of IBM has been hit by the general downturn in technology purchasing. But we remain confident in the long-term future of the business, which is based on exactly the kinds of specialized components for which demand will be greatest in a post-PC world.
+Of course, we are no longer alone in drawing this new computing model. But while pretty much everyone now agrees on the outlines, there is much disagreement about the approach. Basically, it comes down to whether you believe in interoperability and common standards or not. We have certainly placed our bet.
+4. THE NEW MARKETPLACE MODEL: An Open Playing Field A lot of companies—including many of our leading competitors—still don’t acknowledge or fully understand that common standards are essential in a networked
+chairman’s letter
+4
+
+ SAMUEL J. PALMISANO JOHN M. THOMPSON LOUIS V. GERSTNER, JR.
+President and Chief Executive Officer Vice Chairman of the Board Chairman of the Board
+5
+
+ $10
+6
+2
+-2
+-6
+-10
+                     92 93 94 95 96 97 98 99 00 01
+ $5
+3
+1
+-1
+-3
+-5
+                     92 93 94 95 96 97 98 99 00 01
+ $100
+80
+60
+40
+20
+0
+                     92 93 94 95 96 97 98 99 00 01
+REVENUE NET INCOME
+($ in billions) ($ in billions)
+EARNINGS PER SHARE—DILUTED
+ $ 20
+16
+12
+8
+4
+0
+                     92 93 94 95 96 97 98 99 00 01
+ 45%
+27%
+9%
+-9%
+-27%
+-45%
+                     92 93 94 95 96 97 98 99 00 01
+CASH FLOW FROM OPERATIONS
+($ in billions)
+RETURN ON STOCKHOLDERS’ EQUITY
+6
+-35.2
+-15.4
+8.1 7.7
+6.3
+8.3
+88.4 85.9
+10.3 8.9
+9.3 10.1
+9.3
+-5.0
+11.8 10.7
+14.3 18.5
+14.3
+-8.1
+24.8 29.7
+32.6
+39.0
+39.7 35.1
+-2.17 -3.55
+64.5 62.7
+64.1
+71.9
+3.0
+4.2
+1.24 1.76
+75.9 78.5
+5.4 6.1
+2.50 3.00
+81.7 87.5
+6.3
+7.7
+3.29
+4.12
+4.44 4.35
+
+world, and that no one will ever again control customers through proprietary technology.
+We can certainly appreciate their struggle. We’ve had to turn a company that long ago made its fortune from proprietary technologies into one that saw the benefits of openness. Maybe it’s precisely because we were so acutely aware of the siren call of proprietary control that we have learned to resist it. But one thing is apparent: In a customer-driven world, open architectures and common standards are inevitable.
+Today, we are focusing all our technical expertise and marketing energy — previously devoted to creating and marketing self-sufficient systems —toward reimagining and rebuilding them for open platforms. We now share our emerging software products with the developer community; license our technology and patents; and champion common standards at all levels, from Linux, to Java, to Web services. Most important of all was the work we undertook to open up our technical architectures. Absolutely every piece of IBM hardware and software today is a fundamentally different beast (and a more socialized one) than it was ten years ago.
+We know what it’s like to be on the wrong side of history. The future won’t be kind to those who ignore this lesson.
+***
+Put these models together, and you see a changed com-
+petitive landscape with very new dynamics. There will be a different lineup of winners and losers. And at the head of the pack, we will see the emergence of a new type of enterprise with a whole new type of corporate culture. We’ve been building such a company for nearly a decade: big but fast; entrepreneurial and disciplined; at once
+scientific and market-driven; able to create intellectual capital on a worldwide scale, and to deliver it to a customer of one. This new breed continually learns, changes and renews itself. It is tough and focused—but open to new ideas. It abhors bureaucracy, dissembling and politicking. It rewards results. Above all, it covets talent and passion for everything it does.
+It’s hard work—the hardest any business can undertake, in my view—but we’re making good progress. From a changed approach to hiring and performance-based com- pensation; to groundbreaking work on distance learning; to providing the tools, opportunities and flexibility for employees to control their own work / life balance; we are creating not just the theory, but also the practice— and the mindset —of a true e-business.
+This is a very different place from the one I joined nine years ago, in many ways that are obvious, even to the casual observer—and in some that aren’t, even to the observant insider. It is smarter, more unified and much, much faster. Instead of consistently resisting change, more IBMers now lead it. Our employee population is as skilled and comfortable collaborating online —across geographies, functions, roles—as any I’ve seen. And we are even learning to make a virtue of our size and complexity, becoming more adept at working the matrix to get things done.
+Farewell
+Nine years! As must be obvious by now, I am not exactly ready for retirement. And I would love nothing better than to help drive, and learn from, all that I see happening in the laboratories of IBM and the work we’re doing with
+chairman’s letter
+7
+
+ customers —everything from “smart dust” to e-sourcing, from global e-learning to e-government, from life sciences to grid computing. What a world is hurtling toward us!
+However, a decade or so is long enough to be the leader of a large, complex company like IBM. To win in this industry, you’ve got to get out in front of the big shifts that come along about every ten years. You need fresh thinking and the courage to lead wrenching change. With e-business, we caught the wave early. We bet the company on the networked world, and that will serve IBM well for years. But I’m sure that Sam will face, during his long and illustrious career, another major shift. When it comes, I hope he throws out everything Gerstner ever did. Adjusting to the market’s evolution is why IBM is now succeeding —just as an inability to do so was once IBM’s fundamental failure.
+We see fascinating hints already of the company IBM will become. I am confident that, with Sam Palmisano’s leadership, the best is yet to come. As Chairman of the Board for the remainder of this year, I will continue to be involved in any way that Sam desires. But my time as IBM’s leader is over. It has been an enormously exhilarating run, and I have learned more, much more, than I ever expected.
+I don’t comfortably express my deepest feelings in public. So let me just say, to all my colleagues, all our loyal customers, all our invaluable partners, and to my friend and worthy successor—thank you.
+Thanks to the IBM customers who rooted for us to come back from the brink.
+Thanks to our shareholders, who took the time to understand what was happening in IBM against the back- drop of industry change.
+Thanks to a smart, committed board of directors, who provided wisdom, guidance and support for an agenda full of risk-taking change.
+Thanks to the many IBM executives who gave me a chance, who helped me learn and supported me in the early days —when they could very easily have been anti- bodies resisting this invader from outside.
+And, thanks —320,000 thanks —to all my colleagues in this magnificent company. No matter what the challenge — from IBM’s own near-death experience, to Y2K, to dot-com mania, to recession, to 9/11—IBM employees blessed all of us with their grit, their passion, their compassion and their class.
+I’m proud to have served and worked with all of you. I’m grateful for all that you’ve taught me, and for sharing with me the business opportunity of a lifetime.
+And now—go get ’em.
+Louis V. Gerstner, Jr. Chairman of the Board
+chairman’s letter
+ 8

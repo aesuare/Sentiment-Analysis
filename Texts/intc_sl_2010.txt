@@ -1,0 +1,57 @@
+Letter From Your CEO
+
+ 
+Intel reported it, be,t inancial re,ult, ever in 2010. Broad-ba,ed demand for our product, across all regions and market segments continued in 2010, contributing to revenue of $43.6 billion, up 24% compared to 2009. Operating income for 2010 rose to $15.6 billion, net income to
+$11.5 billion, and earnings per share to $2.01. Our continued focus on factory reu,e and eficiency drove co,t, down again in 2010, helping to increa,e our gro,, margin to a record 65%. The,e re,ult, relect charges recorded in the fourth quarter of 2010 to repair and replace materials and systems impacted by a design issue related to the Intel® 6 Ferie, Expre,, Ihip,et family. We implemented a ,ilicon ix  for the affected product in early 2011.
+PC and server businesses are strong
+2010 marked the ir,t year in which more than 1 million PI, were sold per day, and for the year the PC segment grew approximately 17% worldwide. Part of that growth is driven by the increasingly “per,onal" nature of PI,, which i, cau,ing a ,hift from one PI per household to one or more PCs per person in many mature markets. PC growth also continues at a strong pace in most emerging markets.
+Trafic cro,,ing the Internet in 2010 wa, greater than in all previous years combined. As millions more people join the global online community, demand for high-performance servers continues to increase. In 2010, we delivered Intel® Xeon® processors and Intel® Itanium® proce,,or, that give ,erver, ,igniicantly higher perfor- mance as well as new reliability and security features, helping to boost our Data Center Group revenue 35% over 2009.
+Delivering complete solutions
+The computing land,cape i, changing. New categorie, of compute devices such as smartphones, smart TVs, tablets, in-vehicle systems, and more are connecting to the Internet and becoming more intelligent. Intel is aggressively pursuing opportunities to expand our business in these new device categories with the Intel® Atom™ processor family. We closed 2010 with 1,700 design wins for embedded Intel Atom processors and over 4,900 total design engagements in the embedded market segment. We shipped our 80 millionth Intel Atom processor into the netbook market segment, and our products are being designed into more than 35 tablets, many of which are expected to launch in 2011. In 2010, we also introduced nine products for the smart TV market ,egment, for televi,ion,, Blu-ray* players, and set-top boxes.
+We are transforming from a company with a primary focus on the design and manufacture of semiconductor chips for PCs and servers to a computing company that delivers complete solutions in the form of hardware and software platforms and supporting
+services. We are also strengthening Intel’s ability to innovate across what we believe are the three critical pillars for all computing going forward: energy-eficient performance, connectivity, and ,ecurity.
+Energy-efficient .erformance
+Our new 2nd generation Intel® Core™ processors represent the largest increase in computing performance and capabilities over any previous
+ 
+generation in our hi,tory. The,e "vi,ibly ,mart" proce,,or, incorporate built-in graphics that enhance HD video, 3-D gaming, multitasking, videoconferencing, social networking, and multimedia performance, yet also offer better overall power management and battery life.
+Our continuing leadership in silicon manufacturing process technol- ogy enable, u, to build proce,,or, with increa,ed energy-eficient performance at low cost. We have been shipping products built using 32-nanometer (nm) process technology since 2009, and as of year- end 2010 our competition had not shipped any. We expect to start volume production on 22nm process technology in 2011.
+Connectivity
+We are working to take full advantage of the growth potential in every connected computing segment. In January 2011, we completed the acqui,ition of Inineon', Wirele,, Folution, bu,ine,,, which we believe will enable us to offer a portfolio of products that cover a broad range of wirele,, option,, from WiFi and 3G to WiMAX and 4G LTE. In 2010, we also acquired Texas Instruments’ cable modem product line, a move that we believe will allow us to bring the Internet and advanced services to cable television—further enabling our vision of smart TV.
+Security
+More effective ,ecurity approache, are needed to protect the growing number of connected devices against increasingly sophisticated viruses and malicious attacks. In 2010, as part of our effort to improve security across the range of computing devices, we announced plans to acquire McAfee, the world', large,t dedicated ,ecurity technology company. We believe that the combination of hardware- and software- based security that will result from the acquisition will help us protect consumers, corporations, and governments before attacks occur.
+Excellence in citizenship
+At Intel, we don’t separate corporate responsibility from our business; it’s part of our overall global strategy. We continue to positively impact people’s lives through our technology, environmental stewardship, and ongoing commitment to transform education around the world.
+For the third consecutive year, Intel was the largest voluntary purchaser of green power in the U.S., according to the U.S. Environ- mental Protection Agency, and our new Intel Israel Design Center earned Leadership in Energy and Environmental Design (LEED) Gold Iertiication for ,u,tainable con,truction. Intel wa, included on the Dow Jones Sustainability Indexes for the 12th year in a row, and received the Chairman’s Award from the Committee Encouraging Corporate Philanthropy for Intel® Teach, our educator development program.
+I am honored to work with the men and women of Intel. They regu- larly deliver groundbreaking technologies, and over the last three years have contributed more than 3 million hours of volunteer service around the world. Intel employees truly make amazing things happen.
+
+Paul F. Otellini, Pre,ident and Ihief Executive Oficer
+ 
+2010 Highlights	Letter From Your Chairman
+
+ 
+
+ 
+22-nanometer
+manufacturing technology ramps up.
+In 2009, we began shipping products built using 32nm process technology, and by year-end 2010, none of our competitors had shipped any. We expect to start volume production with 22nm process technology in 2011. Each generation can en3ble -rocessors 7it2 i,-roved -erfor,3nce 3nd energ9 effcienc90
+
+Over 1million PCs
+sold worldwide per day.
+PC shipments grew by double-digit percentages in 2010, but computing is no longer confned to co,-.ters0 12o.s3nds of ot2er devices -o7ered b9 Intel® tec2nolog9-in c3rs, 2o,es, 2os-it3ls, offces, 3nd f3ctories-3re 3lso i,-roving how we work, live, and play.
+
+More than $1billion
+invested in education in the last decade.
+Intel collaborates with governments, technology companies, NGOs, and other organizations to help transform education. We support education and entre- preneurship programs in over 70 countries to enable young people to acquire the skills they need to succeed in today’s innovation economy.
+ 
+Part of the role of the Intel Board of Director, is to help balance how Intel uses the cash that the company generates to maximize stockholder
+value. Ways that Intel increases stockholder value include periodically repurchasing its own stock in the open market, and returning cash in the
+form of dividends. In 2010, Intel repurchased 70 million shares of common stock for $1.5 billion, and the total dividend payout was $3.5 billion, including a 12.5% increase in the quarterly dividend effective the ir,t quarter of 2010. With conidence in Intel', bu,ine,, going forward, the Board voted in November 2010 to increa,e the quarterly dividend another 15% ,tarting with the ir,t quarter of 2011.
+Intel also works to increase stockholder value by investing in acquisitions, capital additions, and research and development to build capabilities. For example, Intel plans to invest between $6 billion and
+$8 billion to deploy its next-generation 22nm manufacturing process across several existing U.S. facilities and to build a new development factory in Oregon. The company also plans to build a new high-volume manufacturing facility in Arizona. Investments such as these help Intel to remain the most advanced semiconductor manufacturer in the world.
+In 2010, we enhanced Intel’s ongoing commitment to operating at the highest level of integrity by forming a new Compliance Committee at the Board level. Member, of thi, committee help to monitor the highly competitive global environment in which Intel operates, and work to ensure that the company remains in compliance with legal requirements in all geographies where Intel does business.
+I continue to take pride in how Intel’s education and access programs are increasing opportunities for women and underserved minorities around the world. The annual Intel Science Talent Search (Intel STS) and Intel International Science and Engineering Fair, programs of Society for Science & the Public, provide young people with opportunities to showcase their research and compete for awards and scholarships.
+The caliber of the projects at these competitions is impressive: The 2010 winner of Intel FTF, a young woman from New Mexico, developed a navigation system designed to improve spacecraft travel.
+I am also proud of the mentoring and development programs focused on increasing diversity within Intel’s workforce, including targeted initiatives addressing gender diversity and underrepresented minorities. For example, since the creation of Intel’s Women’s Initiative in 2004, the number of women in technical mid- to senior-level Intel jobs has grown by 24%. I am committed to supporting continued progre,, in the,e area, in the coming year,, including at the Board level.
+Over the past year, I have had many opportunities to interact with Intel employees, during the course of business and at annual award events celebrating the extraordinary creativity and high quality of their work. Intel’s future is in excellent hands.
+
+Jane E. Fhaw, Ihairman of the Board

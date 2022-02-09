@@ -1,0 +1,146 @@
+Dear Shareowners:
+As we enter fiscal 2010, we are a very different company than we were at the beginning of the last cycle, despite the fact that fiscal 2009 was clearly a very difficult year. Today, we have more growth opportunities, a broader portfolio, more domain expertise, enhanced industry knowledge, stronger global presence, and a mature productivity culture. Our six growth accelerators, which you will read about in this report, increase my confidence in the
+future. Process control, OEMs, safety, information, emerging markets, and sustainability will be key drivers of new value creation.
+Keith D. Nosbusch
+Chairman of the Board and Chief Executive Officer
+ We have been working hard to manage through challenges in order to be strongly positioned when the industrial economy recovers. Over a year ago, we saw a slowdown coming and took early cost reduction actions in September 2008. However, business conditions deteriorated more rapidly than we expected and, for most of the year, we were mired in the deepest and broadest global recession of my career. The turmoil in the financial markets exacerbated the economic decline and contributed to most industrial companies’ decisions to slow down production, cut spending and conserve cash.
+In this economic environment, we experienced a full-year organic revenue decline of 19 percent5, resulting in sales of $4.3 billion and diluted earnings per share from continuing operations of $1.53. By the end of the year, demand levels in our product businesses stabilized. In our solutions businesses, order rates declined throughout the year.
+Despite these challenges, I want to highlight several key accomplishments in 2009:
+• We acted decisively to right-size the cost structure, achieving $300 million of savings.
+• We struck a balance between cutting costs in the short term and preserving long term investments in our core technologies, global domain expertise, and commercial investments, particularly in emerging markets.
+• We also generated strong free cash flow of $431 million4 by quickly aligning inventory levels to lower demand, effectively managing receivables in a difficult credit environment, and appropriately constraining capital spending.
+We have demonstrated our ability to execute through the downturn and are well positioned to outperform the underlying markets during the recovery.
+ At a glance
+  Annual Sales:
+$4.3 billion
+ Global Headquarters:
+Milwaukee, Wisconsin, USA
+ Trading Symbol:
+NYSE: ROK
+  Employees:
+19,000
+ Serving customers in more than 80 countries
+ 1
+
+ Our Long-Term Growth and Performance Strategy
+Our long-term strategy hasn’t changed:
+• Generate sustainable, above-market organic revenue growth
+• Drive 3-4 percent annual cost productivity to fuel disciplined reinvestment while maintaining operating leverage
+• Build intellectual capital and deploy human and financial resources to the highest Return On Invested Capital (ROIC) opportunities
+Throughout this challenging year we continued to adhere to our strategy, and believe we are well positioned for the years ahead of us. Success will be measured by how well we perform against our long-term financial goals:
+• Revenue growth of 6 – 8 percent
+• Double digit EPS growth
+• Greater than 20 percent ROIC
+We believe we have the innovative technology, great employees and partners, along with the financial strength to achieve these goals by capitalizing on manufacturing trends that will give birth to a new era of industrial productivity.
+ 22
+
+ Manufacturing and Technology Trends
+We are seeing an important new manufacturing trend – the transformation of IT-connected manufacturing to an optimized plant and supply network. Three important drivers comprise this new trend: plant-wide optimization, the agile supply chain, and sustainable production. All three drivers intersect inside the factory.
+Plant-wide optimization helps our customers improve productivity, achieve faster time to market and higher quality at a lower cost. It is where control, power, communication and information technologies converge, enabling manufacturers to continuously improve performance throughout the plant lifecycle. The factory floor becomes a focal point for close interaction with the entire value chain and external organizations.
+The supply chain is becoming an increasingly important link in an optimized plant and supply network, one that can produce to demand and minimize inventories. Sustainable production allows companies to manufacture goods in a way that is cleaner, safer, and more energy efficient. Each of these drivers comes together to create an optimized plant and supply network
+that helps our customers achieve their business goals.
+  Enterprise Business Systems
+Plant-wide Optimization
+Factory
+   Agile Supply Chain
+Sustainable Production
+Distribution Center
+Customer
+OEMs
+3
+
+4
+Automation markets have historically grown at a rate in excess of GDP growth, primarily because automation investments are not just about capacity expansion.
+In developed countries, investments tend to target getting more output from existing assets and reducing costs. Drivers in developed countries are productivity, operational optimization, and flexible manufacturing.
+In emerging markets, capacity expansion has been and will continue to be a growth driver. As these economies become more consumer-driven, the need for automation to enable choice and manufacturing flexibility will increase in importance. Globally, we are helping customers meet their regulatory compliance requirements and sustainability objectives.
+Logix: Still a Game-changing Technology
+Nearly a decade ago, we redefined the market expectation for control by launching the Logix platform. Prior to Logix, it was accepted that each control discipline would be delivered on a separate platform.
+Logix revolutionized control. It is now the leading plant-wide control platform for multi-discipline, scalable, information-enabled control, based on open communication standards. With Logix as the foundation, we have also invested in premier compatibility with our intelligent motor control and information portfolio to build our industry-leading integrated architecture. As we continue to invest in Logix and our integrated architecture we broaden our capabilities in three key areas:
+• Expanded scalability to support a broader range of applications such as machine builders with simpler machines
+• Converged, secure Ethernet and integrated information
+• Energy as a new integrated discipline
+
+ Our Logix products keep industries productive and moving
+The growth opportunity for Logix is still great because it is a dynamic platform with an ever-growing range
+of capabilities.
+        A core technology enabler of Logix for enterprise and supply chain connectivity is the secure infrastructure built upon standard, unmodified Ethernet. This is essential to unify plant floor control and IT and the reason why we are partnering with Cisco. This Ethernet infrastructure will support unified communications where multiple modes of business communication can be seamlessly integrated – data, voice, video and mobility.
+The evolution of Rockwell Automation’s integrated architecture, Logix and intelligent motor control products addresses these technology trends to help us deliver greater value to our customers.
+5
+
+Process Control
+Expansion of DCS capabilities
+Safety
+Employee and property protection, product safety
+Next Cycle Growth Accelerators
+Process control, OEMs, safety, information, emerging markets, and sustainability will be the major growth accelerators as we emerge from the recession. We have invested in these areas before and through the downturn. Indeed, the revenue diversification strategy that we began executing six years ago anticipated the importance of these growth accelerators.
+Process Control
+Process remains our largest growth opportunity. As a $20+ billion market, this opportunity is attractive for its sheer size and our anticipated ability to expand the portion we can serve. We are
+investing in new platform capabilities and adding domain expertise to continue to expand our served market deeper into continuous process applications.
+ICS Triplex and Pavilion Technologies, two acquisitions
+with unmatched expertise in process applications, provide differentiation to plant-wide control capabilities and allow us to serve a full breadth of safety and advanced process control applications.
+Our strategy is working. In the past five years we have significantly increased our served process market. Many process customers now recognize us as a Distributed Control System (DCS) provider. PlantPAx® – our process automation system – is gaining traction across our customer base. In 2009, Control magazine’s Readers’ Choice gave us 31 first place finishes for process control.
+Our systems and solutions capabilities allow us to serve significantly larger continuous process applications. During 2009, we acquired Rutter Hinz, a Canadian engineering company with strength in oil and gas and other process industries. Finally, we have on-boarded a number of new solutions partners who are using PlantPAx with new customers. Now more than ever, you should see us winning in heavy industries and continuous process applications.
+ OEMs
+Scalable and flexible solutions for multiple machine types
+    Information
+Software for optimization and decision making
+ Emerging Markets
+China, India, SE Asia, Latin America and emerging EMEA
+ Sustainability
+Energy, environment, safety
+6
+  
+Original Equipment Manufacturers (OEMs)
+The machine builder industry is a large available market for Rockwell Automation products. EMEA comprises about 50 percent of our total opportunity. Asia-Pacific has grown to become the second largest OEM market. Both regions represent a significant opportunity for Rockwell Automation to continue to expand its reach beyond North America. Scalable, intelligent, information-enabled solutions for machines is one of the keys to success.
+Other key success factors include an OEM engagement model that concentrates on delivering the right mix of resources, competency, and execution to help OEMs lower their total cost to design, develop, and deliver machines to end users.
+During the past year, we worked with OEM customers to design more Rockwell Automation products into their machine designs; we expect to benefit as the economy improves and machine volumes return. Our field sales realignment dedicates resources that are knowledgeable about OEM customers’ requirements and focused on conversion to our products and platforms.
+  7
+7
+
+  8
+Safety
+Safety is a large market that is growing faster than general automation. We serve the machinery and process safety segments, which are both attractive as they demand a highly differentiated portfolio and application expertise.
+Our strategy is to extend our leadership position by expanding our product portfolio
+and organizational competency. In 2009, we experienced continued success in our safety business. While safety sales did decline year-over-year, the decline was less significant than that experienced in the broader automation market. We made considerable progress in expanding our already broad offering with the launch of advanced motion safety and our light curtains from the CEDES acquisition.
+We have the most comprehensive safety offering in the industry. In 2009, we reached the number one overall position in machine and process safety. Safety is a great success story for Rockwell Automation and will be an exciting business in 2010 and beyond.
+
+  Information
+Automation software and information software are two core capability areas required to serve current and future customer needs and are a logical extension of our foundation in control.
+Automation software is primarily configuration and visualization software and is closely aligned to the control platform. Information software is a broad range of capabilities that sit above the automation layer and utilize real-time data generated by the control system and plant-floor devices to optimize assets and integrate the plant floor, the enterprise business system, and the supply chain.
+We group information software into three solutions areas that allow our customers to optimize their enterprises:
+• Operations and manufacturing intelligence
+• Real-time compliance and sustainability
+• Model-based control and optimization
+In the near term, we are still in development and investment mode for what we believe is an attractive long-term opportunity, with a market size of over $3 billion and growing faster than automation markets as a whole. Our Pavilion and Incuity acquisitions greatly expanded our portfolio of solutions in the information software space. The market is still highly fragmented, and some of the growth will come from conversion and upgrades of customers’ aging homegrown systems that are costly to support and maintain.
+Our long-term goals in software are to significantly increase market share in the next cycle, improve margins by developing and delivering repeatable applications, and accelerate our growth with niche acquisitions and partnering.
+99
+
+    10
+Emerging Markets
+As the manufacturing world shifts its center of gravity toward emerging markets, Rockwell Automation is shifting as well. Automation growth rates in emerging markets are expected to be 50 percent higher than growth rates in developed countries.
+There are several fundamental drivers of this growth.
+First, these economies are evolving into consumer economies with improving standards of living and greater demand for manufactured goods. Second, the population in emerging markets is placing additional strain on energy resources, which simultaneously spurs sustainability improvements and capacity investments. And lastly, there is still stimulus-related infrastructure spending occurring, particularly in China.
+Today about half of our sales are earned, and over half of our employees work, outside the United States. Our results reflect the benefits of our investments in the emerging markets; we ended the year with almost 20 percent of our sales in emerging markets.
+This percentage more than doubled over the last decade.
+In 2009, we acquired Xi’an Hengsheng Science & Technology Limited. This acquisition strengthens our ability to deliver engineering solutions primarily to our customers
+in China.
+Growth in the emerging markets is the linchpin to achieving our goal of generating 60 percent of our revenue outside the United States by 2013.
+
+  Sustainability
+Sustainability is the newest growth accelerator. It presents an exciting opportunity for Rockwell Automation, given our core expertise in improving efficiency and reducing waste throughout the manufacturing process.
+The next generation of smart technology will help manufacturers meet environmental goals such as reducing emissions and can transform a factory into a smart node on the Smart Grid. Utilizing power from renewable sources, reducing power consumption, and adopting eco-friendly waste and recycling initiatives are required to make factories more environmentally friendly.
+By capitalizing on Smart Grid initiatives with existing industrial technologies, we estimate that companies will be able to save about 10 percent of their total industrial electrical energy costs.
+Rockwell Automation’s vision is to transform factories from passive to active energy management through sensing, communication, control and optimization. Our new portfolio of solutions for industrial energy management includes an integrated system based on industrial automation and information technology. Manufacturers can now measure the energy input into products, treating it as part of the ingredients of the product, not just an overhead cost.
+Most important to consumers, sustainable production will allow manufacturers to produce safer products. This is all about helping our customers manage risks and protect their brand integrity.
+11
+
+The Future
+Our strong balance sheet and liquidity position provide the financial flexibility needed to manage through the economic cycle without compromising our long-term strategy or our commitment to innovation. At the end of 2009, our net debt-to-capital ratio was 17 percent. Our free cash flow was extremely strong in fiscal 2009 at $431 million or nearly 200 percent of net income4. We had no short-term borrowings outstanding at the end of 2009, and our next long-term debt maturity is not until 2017.
+In addition, we have a wealth of intellectual capital with 19,000 dedicated employees and domain expertise about a diverse range of industries and applications. We work in more than 80 countries and leverage a PartnerNetwork of more than 5,000 companies worldwide.
+We have the integrity to stand behind our promises. Our annual Corporate Responsibility report, available on our website, provides the highlights and metrics of our progress to make our operations cleaner, safer, and more energy-efficient. It also outlines what we are doing to underscore the importance of ethics and integrity to our business success. We were pleased to be recognized by Ethisphere as one of the World’s Most Ethical Companies for the second consecutive year.
+Finally, we have the technology leadership, industry experience, and customer relationships to accelerate growth through the six strategic
+areas we have outlined. This is a powerful combination and alignment
+of resources. We are cautiously optimistic about the return of economic stability in 2010 and highly confident of our ability to capitalize on new opportunities. We are committed to our long-term growth and performance strategy and expect the end result will be a superior long-term investment.
+Thank you for your continued support and trust in Rockwell Automation.
+          12 12
+Keith D. Nosbusch

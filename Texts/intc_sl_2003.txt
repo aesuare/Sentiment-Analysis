@@ -1,0 +1,58 @@
+ LETTER FROM YOUR MANAGEMENT
+  Craig R. Barrett
+Paul S. Otellini
+In 2003, we turned a key corner in our pursuit of growth. Over the last few years, we have worked to lay the ground- work for the future: investing in leading-edge technology and developing innovative products that make us more competitive, while controlling non-essential spending. This year’s results show that our efforts are beginning to pay off.
+We ended 2003 with substantial improvements in revenue and profit over 2002. Revenue of $30.1 billion was up 13% over 2002, with net income of $5.6 billion, up 81% over 2002. We spent $3.7 billion on capital assets, mostly factories and equipment, and had $4.4 billion in research and development expenses. Despite challenges in our Wireless Communications and Computing Group resulting in a $611 million goodwill write-off, 2003 operating income of $7.5 billion was up 72% from 2002.
+As the worldwide economy begins to show signs of recovery, many companies and consumers are increasing their investments in innovative
+architectural innovation that can increase system-level performance by allowing a single processor to handle two streams of data instructions simultaneously (in systems designed to take advantage of the technology).
+Our server business continues to grow, with record revenue from sales of Intel® XeonTM processors, and shipments of more than 100,000 units of Intel® Itanium® processors, in 2003. In high-performance computing, the number of Intel processor–based systems in the TOP500*list of the world’s fastest supercomputers grew by nearly 50% over a six-month period, with supercomputers based on Intel processors outnumbering those based on any single RISC architecture for the first time.
+GROWTH THROUGH TECHNOLO
+                  We are proud of our strengths in four key areas:
+PRODUCT INNOVATION
+Our products advance the convergence of computing and communications functions, and are helping to spread wireless networking capabilities.
+ADVANCED MANUFACTURING
+As we move to our next generation of advanced manufacturing process technology, we reap significant competitive advantages.
+WORLDWIDE O
+Emerging markets infrastructures, and many showing signs of upgr
+     technologies that improve how people live, work and play. These technologies frequently combine computing and communications functions in an integrated product solution, often including wireless communications capability. This convergence of computing and com- munications presents significant opportunities for Intel. Research firm IDC projects double-digit shipment growth in PCs, servers and cell phones in 2004 compared with 2003. If this forecast proves accurate, this level of growth offers substantial opportunities for our business, given our position as a leading silicon supplier for these technologies. We are proud of our accomplishments in a variety of key areas:
+Product innovation. In 2003, we focused significant effort on helping to advance the wireless mobile computing environment with the introduction of Intel® CentrinoTM mobile technology, designed specifically to optimize the wireless computing experience for mobile PC users. The technology includes the Intel® Pentium® M microprocessor, its supporting chipset, and wireless network capabilities, which together combine computing and communications functions, enabling extended battery life and improving the performance of wireless mobile PCs. In 2003, we shipped more than 5 million units of Intel Centrino mobile technology. We are pleased to have such a successful solution for the fast-growing mobile PC market segment.
+In 2003, the Intel® Pentium® 4 processor was our highest sales-volume desktop processor. During the year, we introduced several new desktop Pentium 4 processors incorporating our Hyper-Threading Technology, an
+We continued extending our product offerings into growth areas related to the computing platform: wireless networking products, wireless handheld devices and communications infrastructure products. We entered the wireless networking silicon arena in 2003 with a product for 802.11b wireless networking, and by year’s end had also introduced an 802.11a/b product and had begun shipping an 802.11b/g product (802.11a, 802.11b and 802.11g are industry-standard specifications for wireless data transmission). We expect to introduce a tri-mode 802.11a/b/g product in 2004, and are focusing on developing products for future wireless networking specifications. In products for handheld communications devices, Intel XScale® processors are delivering the low-power, high-performance processing capability for today’s data- enabled mobile phones and PDAs. We are also one of the leading suppliers of network processors.
+Advanced manufacturing. Our investments in advanced man- ufacturing are paying off. We believe we were the first to begin ramping microprocessors in high volume on a new 90-nanometer technology process using 300mm silicon wafers (300mm wafers can yield more than twice as many chips per wafer as 200mm wafers). We introduced these microprocessors, formerly code-named “Prescott,” in 2004.
+Our goal is to be one generation ahead of the rest of the industry in process technology. As we move to each succeeding generation of manufacturing process technology, we use less space per transistor, which lets us put more transistors on an equivalent size chip, decrease
+ P
+ar es ad
+  G
+P
+ 
+. ,
+    the size of the chip or offer an increased number of integrated features, which can result in faster microprocessors, products that consume less power and/or products that cost less to manufacture. We believe that our advanced manufacturing capabilities represent a significant competitive advantage in the marketplace.
+Worldwide opportunities. In 2003, we sold to an increasingly worldwide market: 72% of our sales came from geographies outside the Americas. Sales were particularly strong in geographies such as China, Russia and eastern Europe, as these areas continued to build their IT infrastructure. In many cases, emerging markets are leapfrog- ging older technology to take advantage of the competitive benefits of leading-edge technology, particularly wireless capabilities, creating opportunities for our products. Our expanding local presence in emerging markets gives us a solid foundation in these geographies, the fastest growing regions for our technology. We also saw a rally in IT investing in more mature markets. In Japan and western Europe in particular, we saw increased investment to upgrade aging technology and remain competitive for growth. We are poised to take advantage of appropriate growth opportunities worldwide.
+GY LEADERSHIP
+Andrew S. Grove
+In last year’s Annual Report, I discussed our Board’s organization and operations. This year, I want to comment on our independent directors
+LETTER FROM YOUR CHAIRMAN
+                                                                                            PPORTUNITIES
+are building their IT established economies are
+ading their technology.
+THE INTEL BRANDS
+Our branding programs educate consumers about the benefits of Intel® technology, with a focus in 2003 on the Intel® CentrinoTM mobile technology brand.
+and how we expect them to both oversee our business and operations and use their collective skills and experience to assist management. Directors are most valuable when they exercise informed, independent judgment. We try hard to support this by providing access to information as well as the time and the environment for that information to be analyzed, discussed and acted upon.
+Our Board receives information before, during and after Board meetings. We are always asking the Board if we are providing them with the most useful information, and our meeting agendas and materials evolve over time in response to the feedback we receive.
+Sometimes, the most valuable information the Board receives comes to them outside the Board meeting context. Board members attend Intel events and visit Intel sites on a worldwide basis, speak at employee forums, and use direct access to all of our employees to maintain their understanding of our operations at several levels. In 2003, independent directors visited and were briefed at 14 separate Intel sites, including sites in China, Russia and Ireland. The entire Board attended our annual Sales and Marketing Conference, where they spoke at major sessions and at employee Open Forums. Of course, our Board also attends our Annual Stockholders’ Meeting and is prepared to answer questions from the audience. At the May 2003 meeting, the independent directors who chair our Audit and Compensation Committees delivered reports on the work of those committees.
+To aid in providing quality time at Board meetings, and maintain the balance between strategic discussions and other agenda items, more of the Board’s workload is moving to the committees. 2003 was a particularly busy year for the Board’s Nominating Committee, for example. Two of our directors will retire in May, and we have added two new independent directors to take their seats. The Board must represent a portfolio of skills and experi- ence, and each time we have a vacancy the Committee needs to consider then-prevailing environmental factors in looking for candidates. The recent additions of Charlene Barshefsky and John Thornton to our Board reflect our focus on international trade and the emerging markets.
+Informed, independent judgment is the key attribute that makes a Board successful in its work and most valuable to stockholders and management. The Board and the employees of Intel work hard to nurture and support this attribute, to the benefit of all of us who are the stockholders of Intel.
+Andrew S. Grove
+Chairman
+The Intel brands. In 2003, we continued to invest heavily in pro- grams to educate consumers and IT purchasers about the advanced technology and innovation associated with Intel products. Our Intel Centrino mobile technology brand program comprises advertising, co- marketing programs and point-of-access displays identifying products optimized with Intel Centrino mobile technology as well as highlighting the locations of thousands of wireless networking hotspots worldwide. We also focused our branding efforts in emerging markets, with pro- grams to establish Intel Inside® brand preference around the world.
+Poised for growth. In 2003, we redeployed resources to areas of higher productivity and strategic importance. We have substantial cash reserves and the ability to invest heavily to support our major technologies. And we have a highly skilled workforce dedicated to our goals of providing better products for our customers, delivering growth and creating value for our stockholders.
+We are in a strong position for the future. We are optimistic about the outlook for new technologies and our potential for continued leadership and growth in an increasingly digital world.
+Craig R. Barrett Paul S. Otellini
+Chief Executive Officer President and Chief Operating Officer
+     O
+ts y gr
+- -
+,
+  O
+e n p
+ 

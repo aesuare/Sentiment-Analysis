@@ -1,0 +1,73 @@
+
+Letter From Your Management
+
+ 
+
+ 	 
+Craig R. Barrett	Paul S. Otellini
+ 
+Researchers at a panda preserve in China use an Intel® architecture-based wireless computing network to chronicle the animals' activities and share data, images and video with colleagues around the world. A Russian bus manufacturer uses Intel-based servers to shorten vehicle development cycles and boost product quality. Doctors access patient records bedside
+ 
+
+gram, through which we make investments in other companies that support our strategic objectives. For example, we invest in companies developing solutions in support of the digital home and in companies working on net­ working, WiMAX technology and other communications solutions that help create a high-performance communications infrastructure.
+Global presence. Our ability to serve a wide range of customers is strengthened by our global presence. We have offices or factories in close to 50 countries. More than 7,000 Intel employees conduct research and development activities in over 20 countries outside the U.S. We have
+ 
+at a hospital in Israel using Intel technology-based wireless computers. At community learning centers in northern Mexico, PCs powered by Intel processors are helping to raise literacy rates. Digital technology is transform­ ing lives around the globe, and Intel is helping to enable that transformation.
+Worldwide growth is our story for 2004, a year in which more than 75% of our revenue came from geographies outside the Americas, up from 57% just five years ago. The digital transformation is only beginning to reach the billions of people in countries where the build-out of the communica­ tions and computing infrastructure is in its infancy.
+ 
+can result in faster microprocessors, or products that consume less power, cost less to manufacture, have better performance or offer more capabilities. Our researchers have already demonstrated working silicon for several future generations  of process technology, and we believe that we can con­
+tinue extending Moore's Law-which predicts that the number of transistors on a chip will double every couple of years-for at least another 10to15 years. Architectural and platform innovation. We drive the development of technology platforms to meet the needs of customers in varying market segments. With each platform, we deliver a full set of technology ingredients,
+ 
+established strategic marketing programs in some 1,200 cities , up from just 300 in 2002, and have built a huge distribution network to supply Intel silicon to customers around the globe.
+Our brand. The reputation established through the Intel® brand has helped us build a strong preference for our products worldwide . Our branding strategy is designed to associate Intel with advanced technology and innovation that can transform the way people live. The Intel brand is rated fifth among the world 's most valuable brands, according to the 2004 BusinessWeek/lnterbrand ranking.
+ 
+Core Strengths -+ Worldwide Growth
+ 	 	 	 	 	 
+
+ 
+Manufacturing & Technology
+With leading-edge manufacturing technologies, we benefit from significant product performance and cost advantages.
+ 
+Architecture & Platforms
+We design our products with end users in mind, delivering platforms with
+full sets of technology ingredients.
+ 
+Ecosystem Development
+By investing in the development of comple­ mentary technologies and education, we help bring the digital transfonnation to more people.
+ 
+Global Presence
+With offices or factories in close to 50 countries, we can address the unique
+needs of local markets worldwide.
+ 
+Our Brand
+We continue to invest in branding programs that help build a strong preference for Intel" products .
+ 
+Corporate Excellence
+Our ongoing commitments to good corporate citizenship and ethical business principles contribute to our success.
+ 
+
+ 
+Growth in 2004 occurred across a wide spectrum of market segments in both emerging markets and established economies. Unit sales of our processors designed for the mobile computing market segment were up more than 35% compared to 2003. In the high-performance computing arena, the portion of the world's fastest supercomputers powered by Intel processors climbed to almost two-thirds , a 15-fold increase over the past three years. And, in the increasingly important digital home arena, several manufacturers began shipping a new category of Intel processor-based entertainment PCs that allow users to keep digital content such as music, movies, TV programming, games and high-definition video in one central location accessible via remote control or wireless keyboard.
+Moving forward, we are well-positioned to take advantage of further growth opportunities as a result of the combination of our strengths:
+Manufacturing and technology leadership. We currently manufacture our leading-edge microprocessors using 90-nanometer process technology on 300mm (12-inch) wafers and are working on the next-generation 65- nanometer process technology. A 300mm wafer can  yield  more  than twice as many equivalent chips compared to  the 200mm (8-inch)  wafer still used throughout much of the industry.
+ 
+such as processors, chipsets, communications chips, embedded software and other tools , optimized to  work together. Early in 2005, we announced a broad company reorganization that reflects our platform orientation, with product groups specifically addressing growth opportunities in the mobility, digital enterprise, healthcare and digital home market segments.
+Our product development efforts focus on bringing benefits to end users beyond higher speed-features such as improved computing security, power management, multitasking and manageability. Key to this strategy are multi-core architectures, which include two or more processor cores on a single chip. Multi-core architectures can, over time , allow us to improve the price/performance per watt of power consumed, while reduc­ ing the heat and power issues typically associated with smaller transistor sizes and higher frequencies.
+Worldwide ecosystem development. We have a number of programs designed to help enable a worldwide computing ecosystem, with particular focus on emerging markets. Our comprehensive approach includes training, software development tools, hardware platform planning and other services that make it easier for customers worldwide to design solutions based on Intel architecture. We are working with governments in several countries
+ 
+Corporate excellence. We have reported 18 consecutive years of profitabil­ ity. Part of our success rests on our ongoing dedication to corporate excellence, including financial strength, and adherence to well-honed management practices and ethical business principles. We maintain strong commitments to workplace safety, promotion of diversity among our employees, safeguarding the environment and improving lives in the communities where we operate.
+In the midst of our accomplishments in 2004, we experienced some execution issues that resulted in the cancellation or delay of a few prod­ ucts. We believe that we have recovered from those missteps and are now well positioned to take advantage of the ongoing build-out of the computing and communications infrastructure in emerging markets, the rising demand for mobile products, the growing importance of the digital home and other opportunities.
+We are optimistic about our future worldwide growth and believe we have the core strengths that will allow us to continue to help transform the way people work, play, learn and communicate.
+
+ 	 
+ 
+With each new generation of process technology, we use less space per transistor, which allows us to place more transistors on an equivalent size chip , decrease the size of the chip or offer more integrated features. This
+ 
+on programs aimed at increasing PC and Internet literacy, and making computing more accessible to larger segments of the population.
+Our ecosystem development efforts also include the Intel Capital pro-
+ 
+Craig R. Barrett
+Chief Executive Officer
+ 
+Paul S. Otellini
+President and Chief Operating Officer

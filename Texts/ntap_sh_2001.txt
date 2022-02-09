@@ -1,0 +1,42 @@
+               T
+O
+O
+U
+R
+A
+R
+E
+HO
+L
+D
+E
+R
+S
+             Fiscal 2001 was a year of challenges, but also a year of record-breaking accom- plishments for Network Appliance, three of which are particularly noteworthy:
+• NetApp generated revenues of more than $1 billion in fiscal 2001, a 74% increase over fiscal 2000, and shipped a total of four million gigabytes of networked storage.
+• NetApp continued to command the #1 position in the market for network- attached storage* and dramatically grew its content delivery solutions business.
+• NetApp also substantially broadened its solutions portfolio with scalable, reliable, high-performance products that accelerated our expansion into the enterprise space.
+These were enormous achievements, but what energizes us at NetApp is our future potential. We serve companies across an increasingly broad range of market sectors. We have created a unique approach to the challenge of storing, protecting, managing, and delivering high volumes of data. And it is clear to us—and increasingly accepted by the markets we serve—that our approach is the best one for enterprises of all kinds. Even in today’s uncertain economic environment, we remain optimistic about the long-term future of NetApp and our brand of enterprise storage solutions.
+The information technology (IT) world is accelerating its transition from direct-attached storage to network-centric storage, the model that we pioneered and that is gaining broad acceptance. NetApp’s vision of storage on the network delivered by a simple, reliable, appliance-based architecture has powered our billion-dollar growth. Our confidence about NetApp’s potential stems from
+our accomplishments and the fact that our original vision has been validated
+as the right one for managing enterprise data efficiently and effectively. Data storage is critical for enterprises of all kinds, but global information management has emerged as even more important in today’s networked economy. Content delivery—getting data into the hands of users who can put it to work quickly, efficiently, and reliably—is increasingly critical to the success of any enterprise. As a result, NetApp’s vision of network storage has expanded to embrace
+the challenge of global information management and content delivery. Our capabilities—which allow us to move and manage data, not just store it—are vital to our customers’ growth and success, and fuel our excitement about the future of our company.
+NetApp’s Center-to-Edge strategy brings the benefits of network storage to the global enterprise. Center-to-Edge solutions integrate our software and hardware products in a way that enables high-performance, seamless information
+                   *Source: Gartner/Dataquest
+                                                                           SH
+                                                                                          
+                            †Source: INPUT
+                                             distribution, allowing customers to build a global data fabric, from the data center to the outermost edge
+of the network, from corporate or divisional headquarters to remote offices and workers in the field. This approach delivers several powerful benefits: simplicity, flexibility, scalability, reliability, and performance. Each of these is valuable in its own right, and together they give NetApp solutions a strong competitive advan- tage: lower total cost of ownership.
+An independent study found that NetApp solutions reduce the total cost of ownership by up to 75% when compared to our most significant competitor in enterprise application environments running Oracle.† The study also demonstrated that our solutions deliver higher performance and better availability, which translate into improved user productivity.
+In other words, NetApp today offers
+a uniquely powerful solution to an increasingly important issue facing the enterprise: global information management and content delivery. Our platform architecture is optimized to meet this challenge. We are the only company to provide a single, integrated data management and content delivery solution, from the data center to the edge of the network and back. Our solutions are proven in the field, delivering unparalleled performance and reliability. The combination of
+our approach and an expanding penetration into new enterprise markets is reinforcing NetApp’s position as a market leader. Our momentum in
+tapping new markets continues to increase. NetApp’s enterprise-related database business has grown from 18% to 27% over the last 12 months.
+Of course, we recognize the challenges of the current economic environment, and we are being prudent in the way we manage our business. We remain confident about the long-term prospects for Network Appliance. Our customers, representing some of the world’s most sophisticated technology companies and leading-edge enterprises in all kinds of industries, are embracing the simplicity of an integrated, cost-effective appliance that can effectively serve the entire spectrum of content management requirements. We believe NetApp is in the right place at the right time. By sticking to our vision, by continuing our commitment to technology and product R&D, and by aggressively attracting new customers and effectively addressing their needs, NetApp will continue to redefine enterprise storage.
+We want to thank our more than 2,400 NetApp employees around the world for their commitment, enthusiasm, intelligence, and creativity in fiscal 2001. And, as always, we thank our shareholders, our customers, and our partners for their continued support. We aim to keep earning your confidence in the quarters and years ahead.
+Sincerely,
+Daniel Warmenhoven Chief Executive Officer Network Appliance, Inc.
+Thomas Mendoza President
+Network Appliance, Inc.
+                                                                                                              

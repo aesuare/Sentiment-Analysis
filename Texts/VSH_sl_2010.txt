@@ -1,0 +1,52 @@
+Letter from
+the executIVe chaIrman and the ceo
+In year 2010, Vishay had its best performance in 10 years. With sales close to pre-crisis levels, reduced fixed costs, and excellent business efficiencies, Vishay reached new levels of profitability. Vishay generated $401 million in “free cash”* during 2010, an all- time record for the Company. In a move that demonstrated confidence in the long-term prospects of Vishay and a commitment to creating long-term value for stockholders, Vishay repurchased 21.7 million shares of its common stock.
+yeaR 2010
+Vishay’s revenues for 2010 were $2.725 billion, an increase of approximately 33.4% compared to 2009. Vishay reported net earnings attributable to stockholders for the year ended December 31, 2010 of $359.1 million, or $1.89 per diluted share. Adjusted net earnings** for 2010 were $299.6 million, or $1.58 per diluted share. During 2010, cash generated from continuing operations was $545.3 million, compared to $290.4 during 2009.
+Year 2010 was a very good year for Vishay. the industry- wide upturn that started during the latter part of 2009 continued during 2010. thanks to sales close to pre-crisis levels, reduced fixed costs, and excellent efficiencies in all divisions, Vishay reached new levels of profitability during 2010.
+In 2010, at a pre-crisis sales level, we more than doubled our earnings power.
+Vishay, by fundamentally restructuring its business, has lowered the operational break-even point by about $450 million. In 2010 we kept our fixed costs at the announced target levels. In 2010, total employment excluding Vishay Precision Group grew by 11% or 2,300 people; fixed personnel, as part of this total, was increased by just 3%, mostly in the context of manufacturing capacity increases.
+during the last two years we generated cash from operations of $836 million and had capital expenditures of $196 million. In 2010, at close to pre-crisis sales levels, we achieved gross margin of 30% of net revenues, operating margin of 15%
+of net revenues, and adjusted earnings per share of $1.58, meaning we more than doubled our earnings power.
+On July 6, 2010, Vishay Intertechnology successfully completed the spin-off of Vishay Precision Group, Inc. (VPG) to its stockholders as an independent, publicly- traded company. VPG is a leading designer, manufacturer, and marketer of resistive foil technology products such as
+resistive sensors, weighing modules, and control systems for a wide variety of applications. the spin-off created value for stockholders of both companies. Vishay is now a pure-play discrete electronic components company that will focus on strengthening its position as a global technology and market leader in discrete semiconductors and passive components.
+during the fourth quarter, we completed a repurchase of 21.7 million shares of our common stock, demonstrating our confidence in the long-term prospects of Vishay
+and our commitment to creating long-term value for our stockholders. our healthy balance sheet and strong cash flow generation allowed us to use a low-coupon convertible debenture offering to finance the buy-back, which was more efficient than using our cash, most of which is off-shore.
+TeChnology InnoVaTIon
+r&d programs throughout all of our divisions generate a steady stream of new components to help designers create innovative end products — from tablet Pcs and e-book devices to hybrid and fully electric vehicles to wind and solar power systems. Some of the many new components launched by Vishay during 2010 include the following:
+• Diodesinultra-compactpackagesthatminimizethe space needed to protect against electrostatic discharge in devices such as portable gaming systems, digital cameras, and mobile phones.
+• Additions to Vishay’s series of TMBS® rectifiers, which reduce power losses and improve efficiency in computing, consumer, and other applications, with a focus on the renewable energy market and hybrid vehicles.
+        * “free cash” refers to the amount of cash generated from operations in excess of our capital expenditures and net of proceeds from the sale of assets, a measure which we use to evaluate our operations and our ability to fund acquisitions and repay debt. “Free cash” does not have a uniform definition, is not recognized in accordance with generally accepted accounting principles (“GaaP”), and should not be viewed as an alternative to GaaP measures of performance or liquidity. this measure, as calculated by Vishay, may not be comparable to similarly titled measures used by other companies.
+**See the information and table on page 35 of Vishay’s Annual Report on Form 10-K for the calculation of adjusted net earnings and adjusted net earnings per share.
+Dr. Felix Zandman Dr. Gerald Paul
+executive chairman chief executive officer of the Board
+ Vishay Intertechnology
+
+ • A range of power MOSFETs, including industry-first devices that maximize battery life in drug delivery systems, pacemakers, defibrillators, and other implantable medical devices.
+• Infraredreceiversforactive3Dglassesthatensure the glasses’ LCD shutters open and close in proper synchronization to create the 3D effect.
+• DevicesinVishay’spatentedfamilyofPowerMetal Strip® resistors with high power and low resistance values. Uses include automotive systems such as engine controls, climate controls, and anti-lock brakes.
+• Thin film chip resistors and resistor networks with industry-first maximum storage temperature capability for applications such as down-hole drilling and aviation.
+• New IHLP® power inductors that serve as high- performing, space- and power-saving solutions in next- generation mobile devices, PCs, servers, automotive systems, and other end products.
+• Tantalumchipcapacitorsthathaveindustry-high capacitance and feature a robust design specific for pulsed operation in wireless modems.
+• Powerfilmcapacitorsforsystemsandproducts including rail traction for trains and subways, medical and industrial equipment, and inverters for solar
+fuel cells.
+FINANCIAL CONDITION AND LIQUIDITY
+As of December 31, 2010, Vishay had cash and cash equivalents of $897 million, and debt with a total carrying value of $432 million. The debt consists of the following: $95 million of long-term exchangeable notes with a 91-year maturity due on December 12, 2102, with an interest rate of 90-day LIBOR plus 0%; $275 million of convertible senior debentures due on 2040, issued during the fourth quarter with a fixed-interest rate of 2.25%. These debentures
+have a carrying amount of $97 million, which includes approximately $178 million of unamortized discount on the debentures. This discount will be amortized as non-cash interest over the term of the debentures. In addition, we have a new $450 million revolving credit facility entered
+into during the fourth quarter and maturing on December 1, 2015, with an interest rate of 30-day LIBOR plus 1.65% and facility fee of 0.35%, approximately $210 million of which was unused on December 31, 2010. There are no principal payments due on our debt until the new revolver expires in December 2015.
+LOOKING AHEAD
+Our excellent performance during 2010 set the stage for 2011 and years to come. For 2011, we expect to see
+the continuation of a friendly business climate, but we will remain prepared to react quickly to any slowdown. During 2011, we will continue to invest in new products, new technologies, and manufacturing capacities, particularly for our specialty products. We expect that strong market demand will continue, and that promising growth opportunities will continue in areas such as tablet computers, smartphones, and alternative energy. In addition, we will continue to pursue acquisitions as part of our growth strategy.
+Our R&D programs are on target. With our strong balance sheet and good liquidity, we are able to pursue acquisitions in passive components and discrete semiconductors. There was no material restructuring in 2010, and we do not expect any in 2011. We anticipate that in 2011 Vishay will continue to be an excellent generator of “free cash.”
+During 2010, Vishay emerged from the crisis stronger, more streamlined, more effective, motivated, and even more focused on the essentials of the business. The Company’s strength is based on having a broad product portfolio
+with strong market positions in a number of product lines, a balanced geographic position, the right mix of sales channels, a contribution margin of 45%, a break-even point lowered to approximately $1,850 million, and reliable generation of “free cash.”
+Vishay is committed to creating shareholder value by improving earnings per share through organic growth, acquisitions, and stock buy- backs, while maintaining a prudent capital structure.
+Vishay’s performance during the last two years has shown that the Company knows how to manage both strong downturns and strong upturns. Vishay is well positioned for the future.
+Vishay is committed to creating shareholder value by improving earnings per share (EPS). We aim to do this through organic growth, acquisitions, and stock buy-backs, while maintaining a prudent capital structure.
+Vishay sincerely thanks its many employees, customers, vendors, strategic business partners, and shareholders for their support during our very successful year 2010. We look forward to ongoing success and continued support in 2011 and future years.
+Dr. Felix Zandman
+Executive Chairman of the Board
+Dr. Gerald Paul
+Chief Executive Officer
+      vishay intertechnology
+1

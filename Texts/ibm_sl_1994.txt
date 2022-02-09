@@ -1,0 +1,495 @@
+
+
+
+
+CHAIRMAN'S LETTER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dear Fellow
+Investors:
+
+ 
+
+LAST YEAR I told you that, as we worked to transform IBM and return it fully to industry leadership, we had four clear priorities:
+•	to be profitable;
+•	to become more competitive;
+•	to increase shareholder value;
+•	to grow.
+We have a lot of work ahead on many fronts - growth, speed to market and re­ engineering, to name three. We're  not the industry leader yet - at least by my definition. Still, I believe we did make significant progress on  our  priorities and that 1994 was the year a new IBM began to emerge.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lours V. GERSTNER, JR. Chairman and Chief Executive Officer
+ 
+Starting with profitability. Last year was a solid one financially. We earned $3 billion - our first profitable year since 1990 and, compared with 1993,  a  profit swing of $11 billion.
+Last year we also achieved our first year of re enue growth since 1990. Total revenue was $64.1 billion,  up 6 percent after the sale of the Federal Systems Co.
+We reduced annual expenses by $3.5 billion, or 15 percent. In the past two years, we reduced expenses a
+ 
+total of $6.3 billion, and we are on course to achieve the additional $1.7 billion toward our total goal of $8 billion no later than mid-1996.
+We finished 1994 with more than $10 billion in cash. Our cash flow was exceptionally strong, even after paying out $2.8 billion in restructuring costs. Just as important, we reduced our core  debt - debt in support of operations - by $3.3 billion, to a total of $2.9 billion. Our key report card - market value - reflec ted all
+ 
+FINANCIAL   HIGHLIGHTS
+Intearntional Business Machines Corporation and Subsidiary Companies
+
+
+
+
+
+
+
+
+
+(Dollars in millions except per share amounts)
+
+For the year:	1994	1993
+Revenue	$ 64,052	$ 62,716
+Earnings (loss) before income truces	$	5,155	$	(8,797)
+Income taxes	$	2,134	$	(810)
+Net earnings (loss) before change in accounting principle	$	3,021	$ (7,987)
+Per share of common stock	$	5.02	$	(14.02)
+Effect of change in accounting principle*	$	$	(114)
+Per share of common stock	$	$	(.20)
+Net earnings (loss)	$	3,021	$	(8,101)
+Per share of common stock	$	5.02	$	(14.22)
+Cash dividends paid on common stock	$	585	$	905
+Per share of common stock	$	1.00	$	1.58
+Inves tment in plant, rental machines and other property	$	3,078	$	3,232
+Average number of common shares outstanding (in millions)	585	573
+At end of year:		
+Total assets	$ 81,091	$ 81,113
+Net investment in plant, rental machines and other property	$ 16,664	$ 17,521
+Working capital	$ 12,112	$	6,052
+Total debt	$ 22,118	$ 27,342
+Stockholders' equity	$ 23,413	$ 19,738
+Number of regular, full-time employees	219,839	256,207
+Number of stockholders	713,060	741,047
+
+*1993, cumulative effect of Statement of Financial Accounting Standards (SFAS) 112, "Employers' Accounting for PostemploymentBenefits."
+
+
+this.  In  1994  our   market  value  increased more than	about IBM is no 1.onger one of sur vival. We've stabili zed
+$10 billion,  an  increase  of 32 percent.		the compa ny financially and, beyond that, strengthened We  had our problems  too,  most  notably the perfor-	it. IBM is back, and we're here to stay. The quest ion mance  of  our  PC unit. We are aggressively overhauling		now is, ca n IBM grow? I believe it can and that it will,
+and refocusing the  whole operation. Also, we didn't do	for many reasons, but mostly these two:
+well  in forecasting demand for  products. Demand out-		First, our industry - infor mation technology (IIT) - stripped supply in mainfr ames, storage devices and cer- is a growth industry. In fact, it's just beginning to rev up. tain PC models.	Year  by year,  even  month  by month, we make breath-
+1 think  it's fair to say, however, th at the question	taking advances in computing power, speed, size, stor-
+N
+0
+
+0 3
+ 
+
+
+
+
+
+revenue
+(inbillion.1)
+
+ 
+age capacity and more. According to one estimate, in the U.S. in the early 1990s, more was investe d in 1/T hardware and software than in industrial, agricultural and mining equipment combined. The cost of microelectronics in some cars has now passed the cost of stee l.
+I have spent a good bit of time in our IBM labs, and I can tell you that right now, we see no limit to the pace of change for at least the next decade. And IBM will be a pacesetter. Last year we were No. 1 in the number of U.S. patents issued for the second year in a row, and our 1,298
+ 
+
+70 -
+
+
+60 -
+
+
+50 -
+
+
+40 -
+
+
+30 -
+
+
+20 -
+
+
+10 -
+
+
+0 -
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+92 93 94
+ 
+possible is not always desirab le - particu­ larly if it costs too much money. Nor do many people ride on highways just for the sheer joy of spending a day in traffic.
+The information revolution will hap­ pen, but only when the industry stops worshipping technology for its own sake and starts focusing on real value for its customers. We must provide products and services that improve customers' competi­ tive position; that enhance their own cus­ tomer service; that increase their produc­ tivity; that enrich their personal lives. These benefits are what will drive the rev-
+ 
+patents   last   year   were    the  most   ever		olution, not faster and faster silicon or issued  to  any company in any year.	millions of miles of fiber optics.
+Information technology will revolutio nize every insti-			There's no reason why our products shouldn't be as tution  in  our  society  -   governments,  schools,  post		simple to use as household appliances - and a whole lot offices, libraries and, of course, every form of comm er-		simpler than programming a VCR. In the pages that fol- cial enterprise. 1/T will fund ament ally alter the way indi-		low, you'll see how we' re making technology easier to use, viduals deal with these institutions and with each other.		easier to manage and how we' re helping customers of all But it will not happen the way,  or as fast as, predict-	sizes embrace advanced technology and put it to work in
+ed by the  pied  pipers of this indust ry,  who are obsessed the real world. In  the years ahead, you  will be seeing and with and  endlessly pro mote  electronic utopias and who     hearing more  from  IBM on these subjects because  I  am are covered breathlessly by some in the media. What is making this - translating technology into value for cus-
+
+
+IBM	strategic  imperatives
+
+1)	Exploiting our technology.
+2)	Increasing our share of the clienVserver computing market.
+3)	) Establishing leadership in the emerging network-centric computing world .
+4)	Realigning the way we deliver value to customers.
+5)	) Rapidly expanding our position in key emerging geographic markets.
+6 ) Leveraging our size and scale to achieve cost and market advantages.
+ 
+
+
+
+
+
+net	earnings
+(inbillions)
+
+ 
+tomers - a company-wide c rusade.
+The second reason I am confident IBM can and will grow is beca use we are focusing on doing the things we have to do in order to grow, and we are making real progress.
+Last year , I told you that no company
+- in any industry - is going to succee d without a set of tough-mind ed strat egies grounded in a clear understanding of what' s happ ening in the marketplace. I said that, after making IBM profitable, setting such strategies is our single-high­ est priority because they are critical to growth and building shareholder value.
+ 
+4 -
+3 -
+2-
+1 -
+
+0 -
+- 1 -
+
+-2 -
+-3  -
+
+-4 -
+-5  -
+
+-6  -
+
+-7  -
+
+-8  -
+
+- 9 -
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+92 93 94
+ 
+technology lice nsing agreements con­ tributed nearly $640 million in cash last year, up from $345 million in 1993. Sales of IBM technology products to other manufacturers grew to $3.3 billion in 1994, up from $1.3 billion in 1993 and more than five times the 1992 figure.
+Establish leadership in network-cen­ tric computing: We're moving on many fronts to define  this new market and this
+new model of  computing.  We created  the
+IBM Global Network, the world's largest data network, with presence in 700  cities in more than 100 countries. Working with telephone  and cable TV companies,  we' re
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+..,.
+0
+
+05
+ 
+For more than a year now, we have bee n wor king on a dozen or so business and technology strategies. We' ve made a great deal of progress on some, and on others we've just started. I have grouped these strategies into six "strategic imperatives" - our roadmap for IBM's near-term future. Here's a status report on each of them:
+Exploit technology: Getting  technology  out  of  our lab s and into the market place, and doing it quickly, is important to success in a fast-changing industry. New products introduce d in the past 12 to 18 months accounted for almost half our hardware revenues last year. We roll ed out entir ely new generations of key IBM product families: a new class of mainframes, AS/400s, storage devices and networking hardware and software. We' re exp loiting our technology in the indus­ try  throu gh  technology  agreements  with  companies like  Hitachi, Toshiba,  Canon  and  Cyrix.  Our  patent and
+ 
+field testing IBM technologies that deliver interactive
+services to consumers and businesses. We' re embracing the Internet and helping customers do the same, pro­ viding encryption technology, anti-virus software and "firewall" security products to support heavy-du ty commercial transactions while protecting vital data from intruders.
+
+
+ 
+
+
+
+
+
+total expenses
+(inbillions)
+
+ 
+Realign the way we deliver value to cus­ tomers: Responding to what our cus­
+tomers said they wanted from IBM -
+global solution s - we created a single, worldw ide sales and services organiza­ tion, and organized it by i ndustry and technology special ization. Almost every person tn IBM's field  force  today  is aligned by product , serv ice or industry. Our direct  marketing  activities  continue to expand. IBM Dir ect, our largest U.S. telesales operation, grew almost 750 per­ cent in revenue s last year.
+Leverage IBM's size and scale for com- petitive advantage: We are rapidly moving
+ 
+30 -
+
+
+
+25 -
+
+
+
+20 -
+
+
+
+15 -
+
+
+10 -
+
+
+5 -
+
+
+0 -
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+92 93 94
+ 
+employees and reducing work locations, we've eliminated nearly 20 million square feet of office space worldwide. We're doing common-sense things, too, like consolidat­ ing how we purchase goods and serVlces across the company.
+Expand market  share in  client / server
+computing: We now have 42 Open Systems Centers in 34 countri es, where we help cus­ tomers design and implement client/server applications. Our work with customers in these centers grew more than 50  percent last year, to about the $1 billion revenue mark. We' re focusing on ease of use, sys­ tem s  management  and  software   tools that
+ 
+to  common  technolo gy " building blocks"  across  IBM
+hardware units to take advantage of economies of scale and to give custo mers greater interoperability across our systems. Every month, new IBM products and services are being introduc ed with technologies and features contributed from multiple IBM laboratories. We conso l­ id ated more than 100 advertising campaigns adminis­ tered by dozens of agencies, and now have a single voice with one worldwide ad agency. We consolidat ed work done by 89 data centers and now have 58 - saving near­ ly  $1   billion.  By   increa sing our  nu mber  of mobile
+ 
+improve the way products from IBM and other vendors
+work together. Independent observers are noting our progress: IBM's VisualAge tool for creating c)je nt/server software was named best application development prod­ uct of 1994 by both Datamation and PC lfeek maga­ zines. And Datamation readers picked etVie w for AlX as systems management product of the year.
+Expand  rapidly  in  key emerging geographic markets:
+We sign ed several contracts in China to help build an advanced information infrastructure. We opened seven subsidiaries in Eastern Europe and North ern Asia, and
+ 
+
+
+
+
+
+Last year IBM was No. 1 in the number of U.S. patents issued for the second year in a row, and our 1,298 patents were the most ever issued to any company in any year.
+ 
+
+
+
+
+
+cash and mar ket abl e sec u r i t i e s
+(in billion,s)
+
+ 
+re- es tablished  IBM  South  Africa. We' ve	11 -
+
+10 -
+
+9 -
+
+8-
+
+7 -
+
+6 -
+
+5 -
+
+4-
+
+3-
+
+2-
+
+1  -
+
+0-
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+92 93 94
+ 
+We, all of us at IBM, have a lo t of work, a lot of change, a lot of  rebuilding left  to do if we are to complete our transforma­ tion. But we are beginning to sense some momentum, and it feels good.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+0"'
+07
+ 
+
+some new perspect ives - more than 60 new executives in 1994 alone.
+Even as we make all these changes, I want to empha­
+size just how much of an asset we h ave in our people. IBM people are smart. They are tough and durable and resilient. They are proud of th is company, proud of their own contributions, and their commitment to suc­ cess is rock-solid.
+ 
+
+
+
+
+
+Louis V. G E RST NE R, J R.
+Chairman and Chief Executive Officer

@@ -1,0 +1,94 @@
+                                        CHAIRMAN’S LETTER
+Pitney Bowes is a stronger, more focused company today than it was a year ago at this time.
+  Thanks to an exciting portfolio of integrated mail and document solutions, our brand promise of “Engineering the flow of communicationTM” is taking hold in the marketplace.
+More and more, businesses of all sizes understand that they can connect better with their own customers
+and drive business results
+through an integrated approach to communications — and that Pitney Bowes is an expert in this area.
+For example, in 2003 alone, through our marketing efforts we more than doubled the acceptance of Pitney Bowes as a solutions provider among senior executives.
+More on this in a moment. But first a word about the numbers.
+Diluted earnings per share
+excluding special items
+increased to $2.41 vs. $2.37 a
+year ago, in line with the guidance
+we provided Wall Street. We also generated over $850 million in cash from operations and exceeded our target for free cash flow. (See page 29 for the reconciliation of reported consolidated results to adjusted results.)
+Our stock price increased 25 percent in 2003. Adding our dividend, we delivered a total return of more than 28 percent.
+For a full discussion of our 2003 financial numbers, I invite you to read the letter from Bruce Nolop, our Chief Financial Officer, on page 27 of this
+report. Bruce outlines how we delivered solid results and established greater financial
+flexibility for our growth strategies.
+For several years, I have talked about our initiatives to enhance our core mailing
+business and execute our growth strategies by
+expanding our range of solutions across the
+entire integrated mail and document management
+market — an opportunity we size at $250 billion. We made progress on
+both fronts in 2003.
+Enhancing the Core
+Customers of our core mailing business are clearly
+excited about our advanced new solutions combining speed, versatility and software-driven intelligence.
+For example:
+•
+•
+Demand for our networked, digital mailing systems remained strong throughout 2003, and by year-end the new digital systems made up
+more than two-thirds of our U.S. meter base. We continue to progress well ahead of the
+U.S. Postal Service transition schedule.
+Our IntelliLinkTM software for our DM SeriesTM Digital
+Mailing Systems is also a
+hit. We are pleased with the percentage of new customers
+4
+ 
+                                        signing up for its value-added services, including access to Delivery ConfirmationTM, Signature ConfirmationTM, Priority Mail® and Certified MailTM.
+• Our Small Business Solutions group remains a major contributor to our revenue and profits, thanks to its strong performance in customer acquisition and retention, product management and cross selling. At year-end, we had a customer base of 825,000, representing a net increase of 100,000 small business customers since the beginning of 2002. The growth in the customer population has also driven small business ancillary revenue to record highs. Our effective use of new distribution channels, including outbound telemarketing, direct mail, the Internet, e-mail and co-marketing with partners like the U.S. Postal Service and Sprint, is helping fuel
+this success. With over 20 million small businesses in the U.S., there is clearly room for continued growth.
+• Our Document Messaging Technologies business, which provides high-end mail and document systems for our largest corporate customers, delivered its strongest six-month performance
+in several years in the second half of 2003.
+Among our strong portfolio of integrated mail and document solutions, our APSTM Series Advanced Productivity System merits special mention. This high-speed intelligent inserter processes up to 22,000 mail pieces an hour and can be integrated with the DFWorksTM suite for online management of all document processes.
+RR Donnelley, the largest printer in North America, for example, is using the APSTM system to expand its capacity and efficiency without adding floor space. Each APSTM system does the work
+RR Donnelley previously needed up to three systems to do.
+Executing Our Growth Strategies
+We made good progress in executing our growth strategies in 2003, particularly in two areas — expanding our participation in the mailstream and better defining our areas of opportunity for enterprise document management solutions.
+• Mailstream Expansion
+Mail will continue to be a vital component of the communication flow for organizations of all sizes. Our vision is to enhance the value of mail for all users by making it more affordable, accessible, information rich and secure. Both the U.S. Postal Service’s 2002 Transformation Plan and the 2003 President’s Commission on the United States Postal Service validate this vision for the future of mail.
+We expect the report to be a catalyst for the continued transformation of the mailing industry on a number of fronts, including broader partnerships with the private sector to promote work-sharing discounts; increased retail access to mail services; increased use of technology to add value, reduce costs and enhance security; and continued price stability coupled with increased price flexibility.
+It is in the context of this transformation that I would like to discuss our strategy for mailstream expansion.
+We are expanding our participation in the mailstream beyond solutions for sending out First-Class, transactional business mail. Our intent is to add value at every point in the mail process and to more types of mail, such as marketing mail and consumer-originated mail. Two achievements in 2003 illustrate our success.
+Our successful integration of PSI Group has made us a leader in the $3.6 billion presort market, an exciting new area for us. PSI Group consolidates and presorts mail before it enters the U.S. Postal Service mailstream, helping our customers earn postage discounts and expediting delivery. We have doubled the number of PSI Group presorting facilities from 12 to 24 since the 2002 acquisition. We are now processing about 6 billion pieces of mail a year through our PSI Group network alone — more than most national postal systems around the world.
+We also recently entered into an agreement with eBay® to provide Internet postage services for eBay users. You can learn about this exciting alliance with eBay on page 11.
+5
+ 
+                                        “We are particularly excited about Customer Communication Management, which we estimate is a $4 billion opportunity.”
+ In addition, hundreds of retail sites have installed our DeliverAbilityTM shipping system, giving their customers seven-day-a-week access to carrier shipping services.
+• Enterprise Document Management
+We have determined that this very large marketplace really consists of a series of markets in which the winners will be those who become experts in unique vertical market applications or who help customers master specific critical business processes.
+A good example is technology that is helping our customers create documents that can be delivered in paper or electronic form with equal ease. We recently adapted our D3® Digital Document Delivery software to accommodate the characters of the Thai alphabet for Thailand Post, paving the way for international use of D3® software. The installation reflects another trend that plays to our strengths — the move by a number of national posts to offer value-added services like Electronic Bill Presentment and Payment.
+We are particularly excited about Customer Communication Management, which we estimate is a $4 billion opportunity. CCM describes how a business can link its customer communications with other business processes, from billing and collections to marketing. This helps strengthen customer relationships and creates opportunities for cross selling.
+We were the first company to be validated by Siebel Systems, Inc., a leading provider of business applications software and a strategic partner of Pitney Bowes, to link its Siebel 7 Call Center and Siebel 7 Marketing with mailing operations. We are using this technology in our own call centers and service management systems.
+TSYS®, a global payments processor with a leading print and mail facility, is using our OnRouteTM Mail Tracking Solutions to obtain more real-time information regarding the status of mail within the U.S. Postal Service system. You can learn about this solution on page 15.
+A word here about our Management Services operation, which has a critical role in our enterprise document management strategy. Growth in our outsourcing business was hampered in 2003, as business in the legal and financial services industries remained sluggish, resulting in declining mail and copy volumes.
+Our plan is to standardize our offerings and sharpen our focus in select vertical markets.
+We launched our first vertical offering in 2003
+with the acquisition of DDD Company, now operating as Pitney Bowes Government Solutions, providing federal government outsourcing services.
+Streamlining Our Infrastructure
+Over the last three years, we have been upgrading our internal systems to give us the scalability needed to grow revenue and improve quality without growing costs. This work will also help provide the internal controls needed to meet the end-of-2004 deadline for complying with provisions of the Sarbanes-Oxley Act — the governance reform law whose main provisions tighten corporate controls and financial reporting requirements.
+In 2003, we made significant progress in upgrading and automating our customer-facing processes and integrating our North American product and parts distribution system. We also implemented SAP enterprise software to automate our human resource systems. This enabled us to consolidate multiple payroll systems and create auditable,
+6
+ 
+                                         streamlined processes for time and attendance recording, payroll processing and online recruiting.
+Our adoption of Six Sigma methodology is helping to improve our internal operations, better serve our customers and achieve significant ongoing savings.
+These process improvements helped us reduce general and administrative expenses by more
+than $24 million in 2003 and moved us closer to our goal of reducing G&A expense as a percentage of revenue by 2 percentage points.
+Improved processes also helped boost customer satisfaction with the post-sale installation of our new hardware and software to over 96 percent, the highest ever.
+Developing Talent and Promoting Diversity
+CEO Magazine and Hewitt Associates ranked
+us among the top 20 companies for leadership development in 2003, reflecting our strong commitment to identifying and developing future leaders from our diverse and talented community of employees.
+We now have candidates ready to succeed the incumbent for 90 percent of our senior positions, an all-time high that reflects our commitment to succession planning. We will continue to focus on our ultimate goal of having two candidates ready to succeed each incumbent for 100 percent of our key positions.
+Adhering to the Highest Standards
+of Corporate Governance
+The Board of Directors takes pride in its independence, well-crafted governance practices and oversight of company management and strategy. The Board recently updated the Governance Principles to reflect the final New York Stock Exchange listing standards. The Governance Principles are reprinted in the proxy statement and are also available on the Company’s governance website at www.pb.com/corporategovernance.
+In addition to protecting long-term stockholder interests, the Board is attentive to stockholder concerns. In the fourth quarter of 2003, at the
+recommendation of the Governance Committee, the Board terminated the Rights Plan, commonly known as a poison pill. The Governance Committee had evaluated the Rights Plan in light of many factors, including the increased level of interest by stockholders in reconsideration of the Plan. The Board has a fiduciary responsibility to the stockholders, which includes protecting them from a sale of the Company at an inadequate price. However, the Directors concluded that continual maintenance of a Rights Plan in the absence of such a threat is not necessary.
+Looking Ahead to 2004
+As you can see, we demanded a lot of ourselves in 2003. I am proud to say that the people of Pitney Bowes proved themselves up to the challenge. You will find some of them pictured in this Annual Report. But I want to thank all Pitney Bowes employees for their good work.
+We are confident that the rewards of our work in 2003 will be sustainable, long-term growth and enhanced shareholder and customer value.
+Our priorities in 2004 are to continue our transformation programs and execute on our mailstream and document management growth strategies. Since 2000, we have transformed the Company in a difficult economic environment. If we continue to execute successfully, we are well positioned to grow in the years ahead.
+Michael J. Critelli
+Chairman and Chief Executive Officer
+     7

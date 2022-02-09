@@ -1,0 +1,135 @@
+2 014 S U M M A R Y A N N UA L R EP O R T A N D 2 015 A N N UA L M E E T I N G D O C U M EN T S
+
+To Our Shareholders
+
+New ways of living and working ­ made possible by centralized computing, mobile access and high-speed networks ­ are transforming our economy. The exciting potential of this transformation became increasingly clear in 2014. In this new economy, businesses operate with greater efficiency and agility. Consumers work, play, shop and are entertained anytime, anywhere, on numerous devices.
+
+2014 Highlights
+
+240,000
+route-mile U.S. fiber network
+
+58
+data centers
+
+6.1M
+broadband customers
+1
+
+To Our Shareholders (cont.)
+
+CenturyLink is providing services and technologies that are major catalysts in this innovation-driven, fast-moving world. We hold a unique position in our industry with the people, technologies, assets and financial strength to help enable this new world of information and communications. As a result, we are transforming our company into an integrated provider of advanced IP-enabled network, cloud/hosting and IT services. Our transformation is directly aligned with the tremendous shift underway in the business market for advanced IT solutions. Solutions that integrate centralized computing, mobile access and high-speed networking are changing how businesses operate. Companies are increasingly looking to receive these solutions on demand, which lowers costs, increases flexibility and eliminates traditional barriers. We are able to differentiate our services and meet these demands by combining our network, cloud/hosting and IT service capabilities to help businesses fully realize these benefits. In 2014, we added key network and IT solutions to enable the transition to these new ways of doing business. We launched more than 20 products and services ­ including CenturyLink Private Cloud, Managed Office and Managed Enterprise ­ and expanded our Multiprotocol Label Switching (MPLS), Ethernet, Wavelength and Voice over Internet Protocol (VoIP) service offerings. Compelling customer benefits, including simplified operations and lower costs, drove growing interest and demand from businesses of all sizes. We also acquired Cognilytics and DataGardens
+
+to gain capabilities in advanced predictive analytics and Big Data solutions as well as Disaster Recovery as a Service ­ high-priority areas for our customers. In 2014, we invested $3 billion in our business, primarily to strengthen our network, cloud and hosting capabilities and support continued growth in advanced IT solutions. At yearend 2014, our gigabit service was available in 16 cities. We added more than four terabytes to our IP backbone capacity in 2014, bringing our total capacity at year-end to 20 terabytes per second. We deployed fiber to 2,745 cell sites, bringing the total number of cell towers we serve with fiber-based solutions to more than 21,000 at year-end. We also opened new data centers in Minneapolis and Toronto, and launched managed services in Shanghai. In addition, we changed how we deliver and market services to drive increased revenues and provide a better customer experience. We worked with an increasing number of partners to expand our distribution reach and accelerate demand for our services. We opened our Cloud Development Center in Seattle to foster collaboration among employees, customers, partners and industry influencers, and we released new resources for the open-source community on CenturyLink Cloud ­ including Panamax, a Docker management platform ­ to simplify application development and deployment. At the end of 2014, we restructured our organization ­ combining our network and hosting sales and marketing teams, clearly defining our product development and
+
+$18,376
+
+$18,095
+
+$18,031
+
+$6,065
+
+$15,351
+
+$5,559
+13
+
+$7,042
+
+10
+
+11
+
+12
+
+13
+
+14
+
+10
+
+$2,045
+
+$4,201
+
+11
+
+12
+
+Operating Revenues in millions
+2 · CenturyLink 2014 Summary Annual Report and 2015 Annual Meeting Documents
+
+Net Cash Provided by Operating Activities in millions
+
+$5,188
+14
+
+Glen F. Post, III Chief Executive Officer and President
+
+technology team, and establishing a single global operations team to drive revenues, innovation and operational excellence. Our new organization further facilitates our transformation into an integrated provider of network, cloud/hosting and IT services. We expect our transformation to continue in 2015. In March, we opened our Technology Center of Excellence in Monroe, Louisiana, where employees will collaborate on innovative solutions to enable new ways of living and working for our customers. We are developing service bundles for health care, finance and other specialized industry segments as well as fully integrated solutions ­ a streamlined but very robust, highly reliable portfolio. We are also working to develop a new service delivery platform that is automated, programmable and offers self-service for customers. We anticipate it to enable automated activation of network services, network simplification and product consolidation. We received industry recognition in 2014 that further validates our direction ­ specifically, the completeness of our vision and our ability to execute. The analyst firm Gartner, Inc. recognized CenturyLink as a visionary in the Magic Quadrant for Cloud Infrastructure as a Service; as a visionary in the Magic Quadrant for Cloud-Enabled Managed Hosting, Asia Pacific; and as a leader in the Magic Quadrant for Cloud-Enabled Managed Hosting, Europe. CenturyLink also received five Wholesale Service Provider Excellence Awards from ATLANTIC-ACM. It's the ninth consecutive year our network-related services have been recognized by our wholesale customers.
+
+With $6 billion in revenues, the consumer segment represents a very important business for us, and here, too, we are transforming our services. In 2014, we increased network speeds, growing the number of households enabled to receive 20 megabits and 40 megabits by more than 45 percent each from 2013. We expanded availability of our gigabit service to nearly 240,000 businesses and residences, and we added 91,000 high-speed Internet customers, ending 2014 with more than six million customers in service. We also added 67,000 CenturyLink® Prism® TV customers, ending the year with more than 240,000 customers. We expanded our Prism® TV footprint by approximately 385,000 addressable homes in 2014, bringing our total addressable homes to 2.4 million at year-end, and we anticipate adding more new households and markets in 2015. We continue to enhance our Video On Demand library and TV Everywhere capabilities, and we are developing over-the-top services to further enrich the customer experience and improve profitability.
+
+$33.66
+
+$31.61
+
+$30.82
+
+$29.45
+
+$26.42
+
+10
+
+11
+
+12
+
+13
+
+14
+
+10
+
+2,349
+
+5,655
+
+11
+
+5,851
+
+12
+
+13
+
+5,991
+
+Book Value per share
+
+Broadband Subscribers in thousands
+3
+
+6,082
+14
+
+To Our Shareholders (cont.)
+
+Achieving operating efficiencies is an important component of our transformation. As our revenue mix continues to shift from legacy services to lower-margin strategic services in an increasingly competitive operating environment, we have focused on driving efficiency in our business. We are simplifying, rationalizing and modernizing our network and improving process automation to reduce costs. We are also implementing applications and work tools to improve sales efficiency. In recent years, we consolidated our internal IT operations from more than 10 data centers to four, and, by year-end 2015, we expect the vast majority of our new and strategic internal IT applications to be hosted in the cloud. Transformation is hard work, but it is not new for CenturyLink. We are a company that has successfully transformed itself a number of times as our industry and growth opportunities have changed over the years. We are confident that we have the experience and the financial strength to continue our transformation. CenturyLink has continued to grow and expand in a dynamic and challenging industry environment, and, while much has changed, our commitment to our Unifying Principles and the communities we serve remains constant. Our employees have proven their capacity for change and their dedication to the ongoing transformation underway in our company.
+
+We also have the financial strength to invest in our transformation. In 2014, we generated operating cash flow, excluding special items, of $7.1 billion, and we returned approximately $1.9 billion to our shareholders through our dividend and share repurchase program. I hope you share my confidence and enthusiasm for CenturyLink and our potential. We have a clear vision of how our integrated network, cloud/hosting and IT services can enable new ways of living and working in an innovationdriven, fast-moving world. We hold a unique position ­ the people, technology, assets and financial strength ­ that gives us a clear advantage in enabling this new economy. We will work diligently in the year ahead to continue our transformation for the benefit of our customers, shareholders, employees and the communities we serve.
+
+Glen F. Post, III Chief Executive Officer and President
+
+"We have a clear vision of how our integrated network, cloud/hosting and IT services can enable new ways of living and working in an innovation-driven, fast-moving world. We hold a unique position ­ the people, technology, assets and financial strength ­ that gives us a clear advantage in enabling this new economy."
+4 · CenturyLink 2014 Summary Annual Report and 2015 Annual Meeting Documents
+
+If you would like more complete information about us or a copy of our 2014 Annual Report on Form 10-K, please refer to the accompanying Proxy Statement (which forms a part of this report) or to our website at www.centurylink.com, or call our Investor Relations Department at the number listed below.
+
+100 CenturyLink Drive Monroe, Louisiana 71203 800.833.1188 www.centurylink.com
+
+This report includes certain forward-looking statements that are subject to uncertainties that could cause our actual results to differ materially. A description of these uncertainties is contained in our 2014 Annual Report on Form 10-K.
+
+

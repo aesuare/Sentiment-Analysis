@@ -1,0 +1,52 @@
+ Letter from the
+Executive Chairman and CEO
+Year 2007 was one of the most successful years in Vishay’s history. Revenues for 2007 were an all-time record. Our adjusted earnings per share in 2007 were in the same range as 2006.
+We invested significantly in expansion and reduced costs
+during 2007. In addition, we successfully integrated the discrete semiconductor product lines from our acquisition of the Power Control Systems (PCS) business of International Rectifier®.
+While we are very pleased with our results during 2007, the general economic outlook for 2008 is not good, and most analysts are predicting a bleak year. At the moment, we have no more than three months’ visibility at best. However, Vishay is prepared to move quickly with any needed corrections.
+Year 2007
+Vishay’s revenues for 2007 were $2.83 billion, an increase of 9.8% compared to 2006. Adjusted earnings per share for 2007 were $0.95, compared to $0.99 in 2006. The adjustments are associated with restructuring and severance costs, related asset write-downs, a contract termination charge, and other items. (For more details about the adjustments, see the table on the inside front cover.) During 2007, cash generated from continuing operations was $354 million, compared to $349 million during 2006.
+In April 2007, Vishay completed its acquisition of the PCS business of International Rectifier, which included selected discrete semiconductor and module product lines. These generate annualized sales of approximately $240 million. The PCS acquisition also included the Automotive Modules and Subsystems Business Unit (ASBU). Vishay has announced that, because the ASBU business does not satisfactorily complement Vishay’s operations and does not provide potential synergies, Vishay intends to sell it. Currently, Vishay is in negotiations with interested parties.
+Vishay also acquired the on-board weighing systems business of PM Group during 2007. This was part of Vishay’s ongoing series of acquisitions to vertically integrate its Measurements Group business, which includes resistance strain gages (in which Vishay is the worldwide leader), transducers (the metallic structures to which strain gages are cemented), electronic instruments that measure and control output of the transducers, and complete systems for process control and on-board weighing applications.
+Vishay’s capital spending during 2007 was $200 million. More than 50% of this was for capacity expansion, primarily for discrete semiconductors. In the area of passive components, Vishay added capacity only for specialty products. These included face-down tantalum chip capacitors that feature
+Vishay’s proprietary multi-array packaging (MAP) technology and film power capacitors.
+In November 2007, Vishay received two awards from the National Electronic Distributors Association (NEDA). Vishay was the first company to win awards for both Active Component Manufacturer of the Year and I, P, and E (Interconnect, Passive, and Electromechanical) Component Manufacturer of the Year.
+Vishay’s research and development (R&D) efforts are on target, and the share of new products released to the market continues to increase. Below are just a few examples of new product platforms and new products released by Vishay in 2007:
+• MOSFETs based on a new version of Vishay’s TrenchFET® technologies that sets a new record for lowest on-resistance per unit area for p-channel load switching devices and provides the highest efficiency for n-channel PWM switching devices. Both types of devices reduce power losses, extend battery run times, and increase functionality in portable end products
+• The MicroSMPTM miniature package for Schottky rectifiers and transient voltage suppressors that provides more power in a smaller package for consumer, telecommunications, automotive, and industrial applications
+• An industry-first 8-diode array in Vishay’s ultra-compact
+LLP leadless package that protects against electrostatic discharge while saving space in portable electronics for mobile computing, mobile communication, consumer, industrial, automotive, and medical applications
+• A series of compact infrared receiver modules with the industry’s highest sensitivity-to-size ratio that is designed for long-range operation in infrared remote control, data transmission, and light barrier applications
+• The industry-first HVArc Guard® series of multilayer ceramic chip capacitors that prevents surface arc-over at high voltages, thereby improving the reliability of lighting systems and power supplies for medical, computer, motor control, construction and mining, and telecommunications applications
+• A compact surface-mount resistor that uses Vishay’s patented Power Metal Strip® technology to provide precision current monitoring of sensitive circuits, such as automotive electronic controls including engine, transmission, and pollution controls
+• Ultra-high-precision Bulk Metal® foil resistors built on Vishay’s breakthrough Z- foil technology, which provides a significant reduction of the resistive component’s sensitivity to ambient temperature variations and applied power changes, and improves stability by an order of magnitude compared to any other resistor technology
+2 Vishay Intertechnology
+
+ Vishay products recently were chosen as finalists for the prestigious EDN Innovations Awards and EE Times Annual Creativity in Electronics (ACE) Awards. Vishay products that received industry awards in 2007 and early 2008 include the following:
+• analogZONE Product of the Year award for Best Innovation in Load Switches: Vishay Siliconix SiP4280A and SiP4282 families of p-channel load switches
+• International CES Innovations Design and Engineering Award in the Enabling Technologies product category: SMS8021/RFW8021 UHF antenna chip, developed with Siano Mobile Silicon
+• EE Times / eeProductCenter Most Popular Product of 2007: Vishay HE3 wet tantalum high-energy capacitor
+• Electronic Products China Product of the Year: Vishay HE3 wet tantalum high-energy capacitor
+Financial Highlights
+Net revenues for the year ended December 31, 2007 were $2,833.3 million compared to $2,581.5 million for the year
+ended December 31, 2006. Net earnings for the year ended December 31, 2007 were $130.8 million, or $0.69 per diluted share, compared with net earnings for the year ended December 31, 2006 of $139.7 million, or $0.73 per diluted share. Adjusted net earnings for 2007 and 2006 were $181.5 million and $196.1 million respectively, or $0.95 and $0.99 per diluted share.
+Vishay continued to generate cash from continuing operations during 2007. For the year ended December 31, 2007, the Company’s cash flow from operations was $354.0 million. Purchases of property and equipment for the year ended December 31, 2007 were $200.0 million, and depreciation and amortization for the year ended December 31, 2007 were $214.7 million. Free cash (net cash provided by operating activities minus capital expenditures) generated by Vishay in 2007 was $154.0 million, compared to $166.2 million in 2006. Our cash balance, including short-term investments, at December 31, 2007 was $537.3 million.
+At December 31, 2007, the long-term debt of Vishay was $607.2 million (substantially all in convertibles), and stockholders’ equity was $3,356.8 million, resulting in a debt-to-equity ratio of 0.18.
+Looking Ahead
+In 2008, Vishay will continue to leverage its position as a broad-line manufacturer of discrete semiconductors, passive components, and weighing and measurement products. We anticipate that semiconductor products from Vishay’s PCS acquisition will be a focus of new product development and provide synergies with existing Vishay products.
+The capacity expansion for semiconductors and specialty passive components that took place during 2007 will continue in 2008. As this will be done strategically, we anticipate that capital expenditures will be reduced by approximately 15% in 2008 compared to 2007.
+Vishay revenues in Asia during 2007 surpassed the one billion dollar mark. Year 2008 will provide new opportunities for sales
+Dr. Felix Zandman
+Executive Chairman of the Board
+Dr. Gerald Paul
+Chief Executive Officer
+  in Asia. Vishay has manufacturing plants and sales offices in this region, and will continue to work closely with distribution partners to reach end customers.
+Free cash generation is a major focus at Vishay. We generated substantial amounts of free cash during 2007, and expect to do even better in 2008. During 2008, Vishay will continue to seek opportunities for cost reductions. As always, we will continue to focus on R&D, as new products are vital to the organic growth of Vishay. We also will continue to look for strategic acquisitions to enhance our product portfolio, enter new markets, and gain new customers.
+Although the general economic outlook for 2008 is not good, Vishay’s business strategy has proven to be successful during past downturns in the global electronics industry. As we
+look ahead, we once again express our gratitude to Vishay’s employees, customers, vendors, and strategic business partners for their confidence in Vishay, and thank the Company’s shareholders for their support.
+Sincerely,
+Dr. Felix Zandman
+Executive Chairman of the Board
+Dr. Gerald Paul
+Chief Executive Officer
+  Vishay Intertechnology 3

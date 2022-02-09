@@ -1,0 +1,42 @@
+Symantec Corporation
+10201 Torre Avenue Cupertino, CA 95014
+Gordon E. Eubanks, Jr. President and Chief Executive Officer
+       To our shareholders,
+I’m pleased to report to you that fiscal 1998 was the most successful year in Symantec’s history, with record revenue and profit achieved in each quarter. Through the hard work of our dedicated employees and partners, we met and surpassed the goals we set for ourselves, and consolidated our position as the world leader in providing utility software for business and personal computing.
+We closed fiscal 1998 with our sixth consecutive quarter of record revenue. Revenues in fiscal 1998 grew 22% over revenues in fiscal 1997. We increased gross margins to 85% while reducing operating expenses from 75% to 68% as a percentage of revenue. This resulted in an improvement in profit-before-tax from 7% to 19%. Our international regions contributed strongly to our growth. And by the end of fiscal 1998, the contribution from international revenue grew to 35% up from 27% the year before.
+This strong financial performance is a testament to the importance we place on serving the needs of our customers. The Company’s corporate vision statement says it well: “We will make our customers productive and keep their computers safe and reliable. Anywhere. Anytime.”
+During the year, we undertook several major initiatives to strengthen our leadership role. These included aggressive product and marketing efforts aimed at our retail and corporate markets; programs that both reinforced and reflected our status as a truly global corporation; and finally, the implementation of more efficient administrative and management processes begun over the past several years.
+I’d like to share with you some of the highlights of these efforts.
+AN ENHANCED MARKET PRESENCE
+Symantec’s principal business units—Security and Assistance and Remote Productivity Solutions—showed strong growth in fiscal 1998.
+Security and Assistance
+Led by the continued strength of our Norton AntiVirus and Utilities products, the Security and Assistance unit achieved a 28% increase in sales and comprised 50% of Company revenues. Two new products, Norton Uninstall Deluxe and Norton CrashGuard Deluxe, entered competitive market sectors near the end of calendar year 1997 and took
+I
+
+II
+market share away from established solutions; both products placed high on PC Data’s Top Ten list of best-selling software in early 1998.
+To identify viruses before they become a problem for customers, we opened new Symantec AntiVirus Research Centers in the U.S. and Australia. These state-of-the art facilities are staffed by teams of highly experienced engineers to detect and repair computer viruses.
+Remote Productivity Solutions
+In a market in which a large percent of mobile professionals and telecommuters work significantly more hours while on the road than when in the office, Symantec achieved a 30% increase in sales in fiscal 1998 and comprised 40% of Company revenues. This was due largely to the success of our continuing upgrades to the WinFax PRO and pcANYWHERE product lines.
+Internet Tools
+The remaining 10% of the Company’s revenues is comprised of our third business unit; Internet Tools. Symantec’s Java development tools achieved increased revenues over fiscal 1997 with products such as Visual Café for Java, which provides solutions to companies doing internal development for distributed applications, and Visual Page for Windows, which provides users with a fast and easy way to move important business documents and information to the web. Also, in 1997, Visual Café won the prestigious PC Magazine Technical Excellence Award. For reporting purposes, this business unit also includes royalties and other products nearing the end of their life cycle.
+Symantec is committed to enabling all of our products with web capabilities as part of our focus on delivering the features our customers are demanding. Users of ACT! 4.0, for example, can launch links to customer sites from within the program. Norton Utilities users can download, via our LiveUpdate web service, software drivers that may be missing from their systems, or which are more current than those they presently have. As an indication of the popularity of this feature, LiveUpdate requests average over 5.4 million per month.
+At the end of the fiscal year, Symantec had a total of five programs in the PC Data Top Ten list: Norton Uninstall Deluxe, Norton CrashGuard Deluxe, Norton Utilities 3.0, Norton
+
+      AntiVirus 4.0, and Norton AntiVirus Deluxe 4.0. Beginning the new year this way put Symantec in the enviable and unprecedented position of being the first and only software publisher to have five of the top ten best-selling software packages in a given month. And because we realize that our customers look to us as they migrate to the new Windows 98 and Windows NT operating systems, all of our products, both existing and new, are Year 2000 compliant.
+WORKING TOGETHER FOR SUCCESS
+As part of our strategy to strengthen the Company’s presence in worldwide corporate markets, we announced a joint development, cross-licensing, and distribution arrangement with Entrust Technologies, Inc., the leading provider of Certification Authority (CA) and public- key encryption technology. This agreement will provide PC users with comprehensive security solutions—based on award-winning, open technology from both companies—that offer scalable certificate management and centralized key backup and recovery to the consumer, workgroup, and enterprise.
+The Company’s electronic commerce initiatives also experienced significant activity and growth in fiscal 1998. The current Symantec storefront has 20 localized products—and climbing. Our website, which has been redesigned to reflect the growing international nature of our business, now receives an average of more than 3 million visitors each day.
+INTERNAL IMPROVEMENTS
+In fiscal 1998, we implemented a new product development process that raises the quality not only of the solutions we provide, but also of the relationships we cultivate. We start by allocating both the right people and the appropriate financial resources to the most important step in the development cycle: understanding our customers.
+Far more than just a traditional needs analysis, this process incorporates a significant amount of input from customers at every stage along the way; specifically, what they do, how they do it, and why they do it in that particular manner. And we don’t stop at mere market acceptance. We continue with feedback and customer satisfaction surveys to bring the process full circle, to always ensure that a customer’s experience matches or exceeds original expectations.
+III
+
+On the operational side, in fiscal 1998 we continued our efforts to build excellence within our company by initiating programs that encouraged people to work together for common, customer-oriented results. One example of this was our company-wide management training programs, which we are pleased to say have had a significant impact in helping our managers build effective teams that communicate well across various disciplines. Such cross-functional teams have then subsequently been charged with reporting on corporate concerns—whether improving customer service or maintaining company values—in a timely and objective format.
+A COMPANY ON THE MOVE
+In May 1998, we announced an alliance with IBM to deliver a single family of anti-virus products that will be marketed under the Norton AntiVirus brand name. Symantec will license IBM’s immune system technology and combine it with our own technology to produce powerful new products and solutions. Also, IBM will recommend Norton AntiVirus to its corporate customers worldwide as the anti-virus solution of choice. We are extremely excited about the opportunities that will result from this unique technology and marketing partnership.
+We will continue to drive internal efficiencies by leveraging the scope and scale not only of our products and services, but of our talented workforce as well.
+As we enter fiscal 1999, we are confident that the trust placed in us by our shareholders will continue to be rewarded. And as always, I thank you for your support.
+Gordon E. Eubanks, Jr.
+PRESIDENT AND CHIEF EXECUTIVE OFFICER
+ IV
