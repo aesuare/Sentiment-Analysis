@@ -1,5 +1,4 @@
 import pandas as pd
-from tensorflow.keras.preprocessing.text import Tokenizer
 
 # Read in and store in dataframe
 messages_df = pd.read_csv('../Datasets/Messages.csv')
@@ -11,7 +10,7 @@ for index, row in messages_df.iterrows():
     file_text[row['File Name']] = row['Text']
 file_score = {}
 for index, row in scores_df.iterrows():
-    file_score[row['Merged']] = row['env_a']
+    file_score[row['Merged']] = row['comma_a']
 
 sentences = []
 scores = []
@@ -28,17 +27,8 @@ for key in file_text:
         # print(f"Could not find key {key}")
         pass
 
-# Set model constants
-EMBEDDING_DIM = 16
-MAX_LENGTH = 250
-NUM_EPOCHS = 20
-TRUNC_TYPE = 'post'
-OOV_TOK = '<OOV>'
-VOCAB_SIZE = 50000
+COMMA_A = {}
+for score, sentence in zip(scores, sentences):
+    COMMA_A[sentence] = score
 
-# Give each word an integer key
-tokenizer = Tokenizer(num_words=VOCAB_SIZE, oov_token=OOV_TOK)
-tokenizer.fit_on_texts(sentences)
-word_index = tokenizer.word_index   # dictionary mapping each word to its integer counterpart
-
-print(word_index['<OOV>'])
+# The above constant is a dictionary mapping each paragraph to its score

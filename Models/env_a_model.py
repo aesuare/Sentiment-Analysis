@@ -19,7 +19,7 @@ for key in file_text:
             for word in sentence_list:
                 int_word = word_index.get(word)
                 if int_word:
-                    int_sentence.append(int_word)
+                    int_sentence.append(int(int_word))
                 else:
                     int_sentence.append(1)
         if len(int_sentence) > 0:
