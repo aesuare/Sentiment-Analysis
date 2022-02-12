@@ -9,3 +9,9 @@ Multi-Output Regression
 
 # Good article about Multi-Output Regression with Sklearn
 https://machinelearningmastery.com/multi-output-regression-models-with-python/
+
+# TensorFlow NLP Tutorial
+https://towardsdatascience.com/natural-language-processing-with-tensorflow-e0a701ef5cef
+
+# Masking and Padding with TensorFlow
+https://www.tensorflow.org/guide/keras/masking_and_padding
