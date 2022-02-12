@@ -1,10 +1,4 @@
-from readfiles import messages, scores
-from pprint import pprint
-
-# print(messages, "\n\n\n", scores)
-
-texts = {}
-for index, row in messages.iterrows():
-    texts[row['File Name']] = row['Text']
-
-pprint(texts)
+"""
+There's nothing here yet, but this will be where we execute all the logic built throughout
+the rest of the repository..
+"""
