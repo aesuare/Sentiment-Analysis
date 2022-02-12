@@ -32,10 +32,15 @@ for key in file_text:
 # The first number of each list contains that sentence's env_a score
 # Every other number contains the integer representation of that word via WordIndex
 
+# Holds equal length vectors for the words of each sentence
+padded_inputs = tf.keras.preprocessing.sequence.pad_sequences(
+    all_int_words, padding='post', maxlen=300
+)
+
 scores = []
 paragraphs = []
 
-for sent in int_sentences:
+for sent in padded_inputs:
     # First number is the env_a score
     score = sent[0]
     scores.append(score)
@@ -44,7 +49,7 @@ for sent in int_sentences:
     par = sent[1:]
     paragraphs.append(par)
 
-model = tf.keras.models.Sequential([tf.keras.layers.Dense(units=728, input_shape=[728])])
+model = tf.keras.models.Sequential([tf.keras.layers.Dense(units=129, input_shape=[1])])
 model.compile(optimizer='adam', loss='mean_squared_error')
 
 SCORES = np.array(scores,dtype=int)
