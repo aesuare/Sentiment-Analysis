@@ -24,5 +24,5 @@ for key in DIV_A:
 
 # Holds equal length vectors for the words of each sentence
 padded_inputs = tf.keras.preprocessing.sequence.pad_sequences(
-    all_int_words, padding='pre'
+    all_int_words, padding='post', maxlen=300
 )
