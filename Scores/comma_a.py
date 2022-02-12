@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Read in and store in dataframe
-messages_df = pd.read_csv('../Datasets/Messages.csv')
-scores_df = pd.read_csv('../Datasets/Scores.csv')
+messages_df = pd.read_csv('Datasets/Messages.csv')
+scores_df = pd.read_csv('Datasets/Scores.csv')
 
 # Create dictionaries containing message contents and scores
 file_text = {}

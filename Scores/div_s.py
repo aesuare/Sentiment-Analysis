@@ -10,7 +10,7 @@ for index, row in messages_df.iterrows():
     file_text[row['File Name']] = row['Text']
 file_score = {}
 for index, row in scores_df.iterrows():
-    file_score[row['Merged']] = row['env_a']
+    file_score[row['Merged']] = row['div_s']
 
 sentences = []
 scores = []
@@ -27,8 +27,8 @@ for key in file_text:
         # print(f"Could not find key {key}")
         pass
 
-ENV_A = {}
+DIV_S = {}
 for score, sentence in zip(scores, sentences):
-    ENV_A[sentence] = score
+    DIV_S[sentence] = score
 
 # The above constant is a dictionary mapping each paragraph to its score
