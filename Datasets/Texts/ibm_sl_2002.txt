@@ -1,0 +1,156 @@
+Dear IBM Investor,
+when i joined ibm, it was one of the most respected, innovative and successful companies in the world. That was, in large part, because of the way Tom Watson, Sr., IBM’s founder, had shaped it. He nurtured a unique culture, a progressive set of values and the aspiration to make a difference in the world.
+The company’s position had been further enhanced in the 1960s, when Tom Watson, Jr., took a daring, “bet-the-company” gamble on the System/360 mainframe. It revolutionized computing and transformed the way business was done. It also spurred a radical reinvention of IBM and propelled the company to worldwide commercial leadership for two decades.
+Of course, you know that IBM stumbled badly in the early 1990s, largely because it strayed from its values and stopped listening—to customers and to its own smart people. As a consequence, the company failed to reinvent itself for new realities. Under Lou Gerstner’s leadership, the people
+of IBM rebuilt their company. It has come back
+a long way.
+Today, as I reflect on my first year as chief exec- utive, I believe we stand our best chance in decades of returning IBM to a position of leadership—in all the ways that a business should lead.
+I want to talk to you about that in this letter. It’s important that you understand how we define leadership for IBM, because it is the context for understanding what we accomplished in 2002 and the framework for how we will manage IBM in the decade ahead.
+seizing the moment
+There’s no question that 2002 tested our company. We had to deal with a continuing tough economic climate, particularly for the information technol- ogy industry, which contracted for the second year in a row.
+Although our revenue from continuing operations of $81.2 billion was off 2 percent from 2001 and our earnings decreased 35 percent, to $5.3 billion, all of our core businesses—from servers to storage systems, to middleware, to services—gained marketshare in 2002. This is important. It means we will emerge in an even stronger position, relative to our competitors.
+An environment like this, for all its challenges, is the ideal time to make decisive moves for future growth. Because of our ability to generate strong cash flows, last year we invested $4.8 billion in
+11
+
+ Financial Highlights international business machines corporation and Subsidiary Companies ($ in millions except per share amounts)
+for the year 2002 Revenue $«81,186
+2001
+$«83,067 8,146 (423) 7,723
+4.59 (0.24)
+4.35
+ Income from continuing operations Loss from discontinued operations
+Net income
+Earnings/(loss) per share of common stock: Assuming dilution:
+Continuing operations
+5,334 (1,755)
+3,579
+3.07 (1.01)
+ Discontinued operations
+Total 2.06
+ Basic:
+Continuing operations 3.13 4.69 Discontinued operations (1.03) (0.24)
+ Total 2.10
+4.45
+13,966
+5,400 956 0.55
+6,393 90,303* 7,342 27,151 23,448* 1,723 208,438 120.96 319,876
+Net cash provided by operating activities from continuing operations
+Investment in plant, rental machines and other property for continuing operations
+Cash dividends paid on common stock Per share of common stock
+at year end
+Cash, cash equivalents and current marketable securities Total assets
+Working capital
+Total debt
+Stockholders’ equity
+13,788
+4,753 1,005 0.59
+5,975 96,484 7,102 26,017 22,782 1,722 133,483 77.50 315,889
+   Common shares outstanding —basic
+Market capitalization
+Stock price per common share
+Number of employees in IBM / wholly owned subsidiaries
+* Reclassified to conform with 2002 presentation.
+(in
+millions)
+
+research and development, $4.8 billion in capital expenditures and $4 billion in acquisitions.
+We took advantage of reasonable valuation levels and acquired several companies, including PricewaterhouseCoopers Consulting and six strategic software firms. Early this year, we acquired Rational, a leader in software development tools, for $2.1 billion. We opened the most advanced semiconductor development and manu- facturing facility in the world. And we also improved our competitiveness. We revamped our PC and microelectronics businesses, and both
+our Personal Systems and Technology segments had returned to profitability by the fourth quarter. Our inventory levels now stand at a 20-year low. Through progress on our integrated supply chain, we took $5.6 billion in costs out of the business, and we believe we’ll achieve about the same
+this year.
+One of the most important investments
+we made in 2002 was to contribute just under
+$4 billion, in cash and IBM stock, to fully fund the accumulated benefit obligation of our U.S. pension plan—which was underfunded mainly due to low interest rates and continued weakness in capital markets.
+After all of these investments, we had sufficient cash to return to shareholders directly—$1 billion in dividend payments—and indirectly—$4.2 bil- lion in repurchased IBM common stock.
+Add it up, and the people of IBM turned in a solid performance, despite a most difficult year. That performance was reflected in our market value. While our stock price was down year to year—and no one is pleased about that—it held up better than those of all our principal competitors.
+However, the meaning of 2002 goes beyond the blocking, tackling and individual actions I’ve briefly described. I believe that years from now we will
+see 2002 as the year we fundamentally repositioned IBM for leadership—leadership in an industry
+that will be very different when it comes out of the current economic slump.
+a new game for
+information technology
+In some ways, the IT industry will remain familiar. It will still thrive on fundamental technology innovation—an area of unparalleled strength for your company. In 2002, IBM scientists and engineers scored their tenth straight year as the world’s most prolific inventors, earning 3,288 U.S. patents, nearly double the number of the next closest company. Over the past decade, the U.S. Patent Office has issued IBM 22,357 patents—more than for ten of our top U.S. competitors combined.
+But in other profound ways, the industry will be very different. How? Most people don’t realize it, but the IT industry has always been two, interrelated industries. One, of course, is computing. This is more than the chips, databases, operating systems, application software and other technology elements that are in a constant state of change. This is about computing as an architecture,
+a model, a system—what all of those individual pieces, when put together, make possible. The computing model doesn’t change very often, but it’s changing now.
+The other “industry” is the application of computing to improve or transform some aspect of business (and by “business,” I mean the work of every kind of enterprise and institution).
+This wasn’t visible for many years, because these services—helping customers apply and manage the technology—were bundled with the hardware or software. But it was there all the same, and hugely important. For example, although IBM pioneered the mainframe model of computing,
+chairman’s letter
+13
+
+  it would not have taken the market by storm if we had only brought customers a new machine. We had to bring them a new idea about business, and we had to show them how to apply mainframe systems to transform back-office functions like accounting, payroll and inventory management.
+I don’t think it’s an overstatement to say that IBM has been unique in stepping to the forefront of both these capabilities—computing and its application to business—for most of IT’s history. Today, once again, both are changing in significant and interconnected ways.
+Consider what’s happening in computing. Our customers have stopped thinking of their technology needs just in terms of data centers, or storage systems, or PCs, or even the network. Today, it’s the entire technical infrastructure on which their businesses run, a vital infrastructure that must connect with and support relationships and trans- actions with other businesses, devices of all kinds and all the people using those devices.
+My point is, if customers are going to look to you as the leader in computing, you have to be able to drive forward the entire computing agenda, not just a piece of it.
+We see a parallel situation in how computing is being applied by customers. For the most
+part, businesses and institutions have automated and digitized their standalone operations and processes—the back office, the manufacturing floor, procurement, logistics, customer-facing systems. They’ve extracted great efficiencies by doing so. Now they want to transform processes that cut across all of those systems. Why? Because they want to build a business that can respond dynamically to whatever the world throws at it. And goodness knows, the world has been doing a lot of throwing lately.
+a new game for business
+All of this is what we mean by “e-business on demand,” which you will be hearing a lot about
+in the months and years to come. The promise
+of on demand is that a company or institution
+can provide products, services, information, health care, education, government services and so on—all “on demand” for customers, citizens, patients and students. These “sense-and-respond” or “real-time” enterprises enjoy enormous com- petitive advantages. They are able to convert fixed costs into variable costs. They can greatly reduce inventories. And, most compellingly, they are extremely responsive to the needs of their customers, employees and partners.
+That is obviously very appealing, especially in times like these. However, consider the magnitude of the business transformation it requires. It’s almost as if a business were turned on its side— moving from a collection of vertical “silos” to a seamlessly integrated, horizontal flow across value chains. That’s a major, major shift—in business design and in management thinking—and pulling it off requires deep business expertise and know-how.
+This may sound rather grandiose, to some. And, of course, all technology companies envision ways in which their products will change business and society. Most do so with great bravado. More often than not, though, they are just plain wrong. The dot-com era was just the latest reminder that creators of databases, PCs and printers have no special qualifications to understand the future of serious business. In fact, they are probably the last people customers should look to for this kind of insight.
+To be honest, when we at IBM began to under- stand the future course of technology and its sweeping implications for business, we looked in the mirror and saw some serious deficiencies in our own company. True, we had in recent years built
+chairman’s letter
+
+ comparison of five-year
+cumulative total return for ibm, s&p 500 stock index, and s&p computers index (excluding IBM)
+$500
+400
+300
+200
+100
+0
+1997 1998 1999
+ibm common stock
+s&p computers (hardware)
+index (excluding IBM) s&p 500 stock index
+                     2000 2001 2002
+  
+up quite a bit of consulting capability. But we lacked a critical mass of business expertise to help our customers become on demand enterprises.
+It was this realization that drove us to acquire PwC Consulting. We now have nearly 60,000 professionals in industries ranging from financial services to health care, with business process expertise in areas like supply chain, customer relationship management, human capital solutions and business transformation outsourcing.
+We considered forming a web of alliances to gain the business insight we lacked. Others have chosen this path, and it’s a perfectly respectable strategy—but not for us. IBM’s brand and business model are very different from those of our com- petitors. Fundamental to our identity as a corporation is this fusion of business insight and technology leadership. Our learning in each realm informs what we do in the other. So we need an intimate linkage between them.
+leadership on demand
+We have mobilized the entire IBM company and our expanding network of partners to make our e-business on demand strategy a reality. That work comes down to three main thrusts:
+1. Helping our customers become “on demand businesses.” Through IBM Global Services, we
+are applying IBM’s considerable business process and industry expertise to help customers build businesses that are almost intuitive in their respon- siveness to changes in demand, supply, pricing, labor, capital markets and customer needs. This requires a great deal of integration—of business processes and operations, and of applications and the underlying IT systems. It means making them resilient in the face of changes and threats, from hackers to hurricanes. And it means helping them
+focus on what differentiates them, on their core competencies—and outsource or tightly integrate with strategic partners to supply the rest.
+2. Evolving the computing model to an
+On Demand Operating Environment. On
+demand business creates new rules for IT infra- structure. Computing must be integrated and must support integration of business processes and operations, which is why our WebSphere software is growing so rapidly. Computing must be built on open technical standards and platforms, which is why IBM will continue to be a leader of the open standards movement—a leader in Linux, Web services and other emerging technical standards. Applications must be developed for this new, open model, which is why we acquired Rational; it gives software developers a compelling alternative to proprietary approaches.
+In addition, an emerging technology called grid computing, built around another set of open specifications, allows the sharing and managing of separate computing resources as if they were one huge, virtual computer. This will dramatically increase utilization rates and give customers access to enormous computing capacity. Finally, IBM technologists are also pioneering ways to make IT systems “autonomic”— more self-managing and self-healing. This, too, is critical, as the increasing complexity of systems is making them unrealisti- cally costly to manage and maintain.
+3. Establishing utility computing—computing on demand—as a viable and attractive alternative for accessing and paying for IT. This effort has gotten a lot of attention. Yes, we intend to be a leader in utility computing services, so that customers can acquire computing and applications and pay only for what they use. IBM Global Services is already
+chairman’s letter
+16
+
+pioneering such services — server and storage capacity, as well as business processes like procurement and claims processing — for companies such as American Express, The Dow Chemical Company and Mobil Travel Guide. But we also want to equip and help customers to build their own internal utilities— software to manage and balance workloads, and server and storage systems to provide additional capacity on demand.
+Clearly, the bet we’re placing on e-business on demand is a big one. And part of what makes it big is that it encompasses where both computing and business are headed. Driving both at the same time requires a lot of work, but it’s necessary, if you aspire to lead this industry.
+ibm’s center of gravity
+Throughout IBM’s history, we have reinvented ourselves over and over again. The most visible manifestation of this has been how radically our product line has changed over time—from clocks and scales to tabulating machines, to mainframes, to Selectric typewriters, to everything we do today.
+How were we able to make those transitions without having a jarring identity crisis? It’s because we never defined ourselves as a clock and scale company, or a mainframe company, or a typewriter maker, even when we were the undisputed leader in those markets. We simply committed ourselves to being the leader in inventing state-of-the-art technology and helping customers apply it to solve their problems. When technology and the nature of customer problems change—we do, too.
+As I said earlier, the one time we forgot that and held on too long to products and ideas that were giving way to new ones, we nearly lost the whole ball game. That’s a lesson we will not forget.
+Today, with e-business on demand, we are again redefining the value we bring to customers.
+It’s driving us to grow certain businesses aggres- sively — especially services and software — and to de-emphasize others, as we did in 2002. I have no doubt whatsoever that 15 or 20 years from now, we will be in a bunch of new and different businesses, because technology and customer problems will have marched on, hopefully with our company at the forefront. But we will still be IBM.
+the purpose of a business
+As you might guess by now, we have been doing a lot of thinking about what leadership means for IBM. To lead our industry, we must be the com- pany to which our customers look to understand the future of IT and how it can help them create business value. But there are additional aspects of leadership that are also important aspirations for our company: as an investment, as an employer, as a member of the community.
+Now, companies often say that being a great employer or a responsible citizen is as important to them as creating shareholder value or delighting customers or beating competitors. But they don’t elevate them as business priorities, to be managed with the same kind of investment and discipline— and competitive passion — that they apply to managing R&D, manufacturing and sales. We do.
+Why? Because over time, failure to understand change in these realms can be as damaging as failure to stay abreast of markets or technology. Maybe more so. What do investors value? What will attract and motivate the best workforce in the world? What do communities — nations and neighbors — expect of companies? As with technology and customer requirements, these are all moving targets.
+We believe investors, particularly those who invest in the technology sector, reward companies that adapt, that continually create and lead the high-value spaces — because that’s the only way to
+chairman’s letter
+17
+
+ deliver consistent, long-term earnings growth in
+an industry that is constantly evolving. We believe investors reward companies that manage for the long haul, run highly efficient operations and are man- aged by experienced and disciplined leaders. And, at a time when industry growth projections are highly unreliable, investors reward companies that outper- form their competitors—no matter the rate at which the industry is growing or contracting. This is why we have made marketshare a top priority.
+I joined a company that was the place to work. It was progressive, fair and principled, and it invested in its people and their development. All
+of that stemmed from the commitment to have the best talent in the world, a commitment we reaffirm today. How you achieve that with programs and benefits depends on the times. As the composition of the workforce and their expectations changed, so did IBM, often far ahead of other companies or government mandates.
+We know that employees today value flexibility and mobility, yet they want to feel part of a team, a community of colleagues. They value skill enhancement, but they want lifelong learning, not just classroom training. Most of all, while they are attracted to IBM’s breadth and global presence, they don’t want to get lost in a big company. They want to make a difference, have impact. All of this represents opportunities for us once again to innovate as an employer.
+Finally, we need to adapt if we aspire to be a respected and engaged participant in our communi- ties. This is more, far more, than philanthropy— although IBM takes a back seat to no one in contri- butions and volunteerism. (IBMers volunteered four million hours last year.) It’s about building relation- ships based on respect, trust and integrity—IBM’s bedrock values. And it’s about using our remarkable scientific, managerial and analytic assets—some of
+the best minds on the planet — to help local, national and international communities solve problems and stimulate economic growth.
+Right now, we have as many questions as answers, and more a sense of where we must go as a company than a clear path to get there. Yet we believe these are all appropriate and worthy aspira- tions for IBM and IBMers. They are consistent with the kind of company we want to be and have been for most of our history. This is IBM’s DNA. The challenge, of course, is to bring the best of that for- ward without for a moment taking our eye off the customer, marketplace execution and strong results.
+In the end, this goal of leadership, broadly defined, is what makes our company unique.
+It’s why people come to work at IBM — and why millions more have wanted to be associated with it. There are certainly many places where a person can earn a very good living and build a highly grat- ifying career. You come to a big, complex company like ours if you want to be part of something whose impact is larger. And you come to this particular enterprise to be part of something
+whose impact will last, a company that explores,
+a company that matters.
+That was the company I joined 30 years ago. Yes, the world has changed, and there’s no going back. But my 316,000 colleagues welcome the challenge. We are determined to make IBM a truly great company — a great partner, investment and employer — for our generation and for our times.
+samuel j. palmisano
+Chairman, President and Chief Executive Officer
+chairman’s letter
+ 18

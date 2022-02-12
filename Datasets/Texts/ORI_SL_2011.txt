@@ -1,0 +1,101 @@
+Management Letter
+2011: Annus Miserabilis V Mortgage guaranty claim costs rose with a vengeance in 2011. They led to Old Republic's highest pretax operating loss in the five year history of the Great Recession--a loss of never imagined proportions. The resulting slide in the consolidated bottom line, however, was restrained to some degree by substantial improvements in general and title insurance underwriting performance. In the table below, we show the varying effects of each significant operating segment on consolidated results for the past five years.
+Operations Summary ($ in millions except per share data) 2011 2010 2009 Operating revenues: General insurance Mortgage guaranty Title insurance Corporate and other Total Pretax operating income (loss): General insurance Mortgage guaranty Title insurance Corporate and other Sub-total Income taxes (credits) on operations Net operating income (loss) Realized investment gains (losses) from actual transactions, net of taxes (credits) Net income (loss) from consummated transactions Investment gains (losses) from mark-to-market adjustments, net of deferred taxes (credits) Net income (loss) Net income (loss) per share: Net operating income (loss) Actual realized investment gains (losses) Sub-total Mark-to-market gains (losses) Total $2,547.1 506.1 1,391.8 84.8 $4,529.9 $304.3 (678.1) 36.2 (14.6) (352.2) (133.7) (218.5) 110.7 (107.8) $2,074.9 588.4 1,238.8 91.2 $3,993.5 $172.7 (260.8) 9.4 (2.8) (81.5) (40.8) (40.6) 71.6 30.9 $2,052.7 746.1 914.1 84.3 $3,797.2 $200.1 (486.4) 2.1 4.0 (279.9) (122.7) (157.2) 10.3 (146.8)
+
+2008 $2,255.9 690.0 681.3 96.8 $3,724.2 $294.3 (594.3) (46.3) 13.5 (332.7) (144.6) (188.1) (2.7) (190.8)
+
+2007 $2,438.0 608.3 878.5 95.6 $4,020.6 $418.0 (110.4) (14.7) 15.1 308.0 81.3 226.7 45.7 272.4
+
+(32.6) $(140.5) $(0.86) 0.44 (0.42) (0.13) $(0.55)
+
+(0.8) $30.1 $(0.16) 0.29 0.13 $0.13
+
+47.7 $(99.1) $(0.67) 0.04 (0.63) 0.21 $(0.42)
+
+(367.5) $(558.3) $(0.81) (0.01) (0.82) (1.59) $(2.41)
+
+$272.4 $0.97 0.20 1.17 $1.17
+
+Separating our consolidated operating results into their major components highlights the impact of the underwriting adversities we've experienced. The table below reflects the fairly regular magnitude of losses from our risk-taking underwriting and related services, which overwhelmed the fairly level income contribution from our investment portfolio. The much greater interest charges from a temporarily higher debt load from 2009 forward--and 2011's complete write-off of mortgage guaranty goodwill and previously deferred acquisition cost balances--accentuated the operating loss progression of these years.
+Components of Pretax Operating Income ($ in millions) 2010 2009 2011 Income (loss) from underwriting and related services Net investment income Interest and other charges Consolidated pretax operating income (loss) Composite underwriting ratio for all coverages $(653.4) 364.6 (63.4) $(352.2) 115.8% $(428.6) 379.0 (32.0) $(81.5) 111.4% $(639.3) 383.5 (24.2) $(279.9) 118.5%
+
+2008 $(707.4) 377.3 (2.7) $(332.7) 120.9%
+
+2007 $(64.7) 379.9 (7.3) $308.0 101.5%
+
+Underwriting Proficiency for Earnings Sustainability Old Republic's earnings sustainability rests on long-term underwriting profitability. During the first decade of the new century, the consolidated underwriting account averaged 98.35%. This implies an underwriting profit margin of 1.65% of all premiums and fees earned during the period--not great, but not a particularly bad outcome either. Extending the decade to the 11 years through 2011, the average rises to 99.94%, or just about break-even--a bare existence iv
+
+outcome. By contrast, the average underwriting ratio for the five years ended December 31, 2011, came to 113.62%. This points to a loss of 13.62 cents on each dollar of premiums and fees earned during these Great Recession years. That's hardly the stuff of underwriting proficiency and risk management--a truly unacceptable outcome. Much of the past five years' consolidated underwriting losses stemmed from the serious difficulties we encountered in our mortgage guaranty (MI) and consumer credit indemnity (CCI) coverages. Eliminating these lines' combined underwriting results from the past five years' consolidated accounts brings home their approximate impact, as this next table shows:
+Years Ended December 31, ($ in millions) 2010 2009 2008 $3,573 41 2,278 1,764 4,042 $(428) 63.8% 47.6 111.4% $3,388 24 2,609 1,443 4,052 $(639) 77.0% 41.5 118.5% $3,318 28 2,722 1,332 4,054 $(707) 82.0% 38.9 120.9%
+
+2011 ORI Consolidated* Earned premiums and fees Other income Benefits and claims Sales and general expenses Total costs Gain (loss) from underwriting/services Benefits and claims ratio Expense ratio Composite ratio MI & CCI Lines Combined* Earned premiums and fees Other income Benefits and claims Sales and general expenses Total costs Gain (loss) from underwriting/services Benefits and claims ratio Expense ratio Composite ratio ORI Excluding MI & CCI Lines Earned premiums and fees Other income Benefits and claims Sales and general expenses Total costs Gain (loss) from underwriting/services Benefits and claims ratio Expense ratio Composite ratio $4,050 115 2,764 2,054 4,819 $(653) 68.3% 47.5 115.8%
+
+2007 $3,601 39 2,171 1,533 3,704 $(64) 60.3% 41.2 101.5%
+
+$503 2 1,160 113 1,273 $(768) 230.5% 22.1 252.6%
+
+$586 4 991 82 1,073 $(483) 169.0% 13.3 182.3%
+
+$765 9 1,359 98 1,457 $(682) 177.5% 11.6 189.1%
+
+$796 10 1,445 111 1,557 $(750) 181.4% 12.7 194.1%
+
+$711 11 797 110 908 $(185) 112.0% 14.0 126.0%
+
+$3,546 114 1,604 1,941 3,545 $115 45.2% 51.2 96.4%
+
+$2,986 37 1,286 1,682 2,968 $55 43.1% 54.4 97.5%
+
+$2,623 16 1,249 1,345 2,594 $43 47.7% 50.2 97.9%
+
+$2,521 18 1,276 1,220 2,496 $43 50.6% 47.2 97.8%
+
+$2,889 28 1,374 1,423 2,797 $121 47.6% 47.9 95.5%
+
+* Certain reclassifications of CCI balances have been made to conform to MI presentation.
+
+General Insurance Returns to Underwriting Profitability Old Republic's general insurance (GI) business returned to good underwriting profitability in 2011 after a two-year hiatus. The composite underwriting ratio--the relationship of claims and other costs as a percentage of earned premiums--came to a very acceptable 96.9%. Excluding the segment's consumer credit indemnity line, the underwriting results have been highly favorable for each of the past five years depicted in the following table.
+General Insurance Group Underwriting Highlights ($ in millions) 2011 2010 2009 Net Earned Premiums: With CCI Without CCI Composite Ratio: With CCI Without CCI $2,167.7 $2,109.4 $1,782.1 $1,694.2 1,782.5 1,661.1
+
+2008 1,989.3 1,785.0
+
+2007 2,155.1 1,961.7
+
+96.9% 94.4%
+
+103.0% 94.7%
+
+102.1% 95.6%
+
+97.2% 93.1%
+
+91.9% 91.3%
+
+v
+
+In the first decade of the new century, the CCI line--a specialty business niche developed in the early 1950s--had evolved from its original focus. It moved from indemnifying low value home improvement loans to insuring much greater home equity-based consumer borrowings. As a result, the line assumed many of the same risk characteristics as the mortgage guaranty business, and it registered similarly poor underwriting results. Of necessity, the line was placed in a run-off operating mode in 2008. Early in 2012, we are arranging to effectively combine it with the mortgage guaranty segment, which has also been operating in run-off since August 2011. Most other GI coverages registered positive operating trends. 2011 consolidated operations were favorably affected by a full year of the PMA Companies business, which was merged into ours in the final quarter of 2010. Excluding the PMA accounts, pre-merger GI net premium revenues registered growth of approximately 4.5% in 2011. As we've noted in the past several years, the combination of ongoing recessionary conditions--and a generally soft pricing environment in the commercial insurance arena--has constrained premium growth. As 2011 progressed, however, premium rates began to strengthen to varying degrees for many coverages. At a minimum, these pricing improvements should counterbalance the ongoing inflationary pressures on claim costs most susceptible to them. Cost-based GI invested asset balances grew by 2.5% during 2011, while net investment income rose by 4.0%. The relatively higher investment income contribution reflected both a greater commitment to taxable fixed income securities and a slight extension of maturities. Substantial Operating Issues have Lingered in Mortgage Guaranty As already noted, Old Republic's MI segment experienced greater operating difficulties in 2011. Most of these were driven by much higher claims. This development contrasted with 2010, when claim costs appeared to be abating. Since the advent of the current economic crisis, new mortgage guaranty production has not added significantly to the Company's net risk in force inventory. There have been several reasons for this. These included ongoing weakness from the downturn in overall mortgage originations, lower industry-wide penetration of the nation's insured mortgage market, and the effects of more selective underwriting guidelines used since late 2007. Together with premium refunds related to claim rescissions, and the termination of certain pool insurance contracts that effectively ended subsequent periods' premium inflows, these factors led to a continued decline in earned premiums in 2011. Capital constraints, which had been building for several years, brought new business production to a halt in August 2011. The Company's flagship MI carrier, Republic Mortgage Insurance Company (RMIC), had been operating under a waiver of minimum state regulatory capital requirements since late 2009. This waiver expired on August 31, 2011. As a consequence, we stopped underwriting new policies, and the existing book of business was placed in run-off operating mode. This was followed by RMIC's receipt of an Order of Supervision from its North Carolina Department of Insurance regulator on January 19, 2012. The Order instructed RMIC to reduce the cash payment on all claims by 50% during an initial period not to exceed one year. The remaining 50% is to be included in RMIC's statutory capital, and will be paid as and when the necessary funds are available. In these circumstances, the run-off will devolve within constraints of Old Republic's year-end 2011 investment in this segment. That investment consisted of intercompany debt of $175 million and a common equity balance of $16.2 million, or total capitalization of $191.2 million for the segment. The long-term profitability of the MI and the similar CCI insurance lines has been erased since the recession took hold in 2007. The substantial financial losses incurred in the past five years have fully depleted the capital funds identified with these business units at year-end 2006. In combination, the events of August 2011 and January 2012 sealed our resolve to stop any short or long-term capital funding of these coverages. In mid-March 2012, management and the board of directors concluded that a necessary recapitalization of a combined MI and CCI business could best be accomplished by separating these operations from the ORI holding company system. We intend to execute a plan to do this as quickly as we can, hopefully before mid-2012. Continuing Improvement in Title Insurance Title insurance reflected positive operating momentum as 2011 came to a close. Growth in premiums and fees benefitted from a combination of factors. Key among these were market share gains emanating from 1) title industry dislocations and consolidation during the past three years, and 2) greater levels of refinancing activity in more recent times. 2011 claim ratios were slightly lower in relation to 2010's, as claim frequency and severity abated. Year-overyear expense comparisons benefitted from continued rationalization of the expense structure. Capital Allocation to Enhance Enterprise Risk Management Old Republic's involvement in insuring many forms of mortgage and consumer credit financial exposures goes back to the very foundation of our enterprise in the 1920s. It has been one of our core competencies. For many years this business delivered profitable growth for our shareholders and other constituencies. But the systemic faults and moral hazards that crept into this economic sector--and the virulent impact these could have on our institutional wellbeing--were obviously not foreseen. Without doubt, we've seen them now--to much humbling effect. vi
+
+As already noted, we will in short order separate this catastrophe-exposed part of our business from the Old Republic holding company system. The following table reflects the revised capital allocation objectives we have set in response to the strategic separation of these lines.
+Current Long-Term Objectives General Insurance Housing Mortgage Guaranty Title Life & Health / Other 85.0% 0.0% 12.5% 2.5% 90.0% 0.0% 15.0% 2.5% Capital Allocation Objectives* Actual Allocations as of December 31, 2010 2009 2008 2011 79.3% 4.5% 11.0% 5.2% 100.0% 71.0% 13.4% 10.2% 5.4% 100.0% 67.6% 17.4% 10.2% 4.8% 100.0% 61.9% 24.6% 9.6% 3.9% 100.0%
+
+2007 60.4% 27.1% 8.7% 3.8% 100.0%
+
+* Percentages based on the inclusion of all capital instruments.
+
+Continued Dividend Payments to Shareholders Paying regular cash dividends pegged to Old Republic's long-term growth prospects is always a key objective in our management of the shareholders' account. As a result, the steady growth of cash dividends has been an important component of the total return posted by Old Republic's common stock. The reduction of earnings experienced in the past several years has not negated our ability to continue a modestly growing cash dividend on the common shares. The MI losses notwithstanding, the relative stability of GI segment net income has enabled a steady stream of funds to the Old Republic holding company parent. This has been done without diminishing that segment's financial strength. The table below shows the various elements affecting annual changes in the common shareholders' account. Since year-end 2006, book value per share has declined by $4.15 or 22%. A little more than 80% of this decline is represented by total cash dividend payments of $3.37 in the past five years.
+Shareholders' Account Reconciliation Per Share 2011 2010 2009 Common shareholders' equity, beginning of year Changes for the year: Net operating income (loss) Realized investment gains (losses): From securities sales From mark-to-market impairments Sub-total Unrealized investment gains (losses) Total realized and unrealized investment gains (losses) Cash dividends paid Effect of PMA merger Other ­ net Net change for the year Common shareholders' equity, end of year $16.16 (0.86) 0.44 (0.13) 0.31 0.03 0.34 (0.70) (0.18) (1.40) $14.76 $16.49 (0.16) 0.29 0.29 0.40 0.69 (0.69) (0.19) 0.02 (0.33) $16.16 $15.91 (0.67) 0.04 0.21 0.25 1.59 1.84 (0.68) 0.09 0.58 $16.49 2008 $19.71 (0.81) (0.01) (1.59) (1.60) (0.33) (1.93) (0.67) (0.39) (3.80) $15.91 2007 $18.91 0.98 0.20 0.20 0.05 0.25 (0.63) 0.20 0.80 $19.71
+
+Sound Capitalization for Future Growth Early in 2011 we raised $550 million in the capital markets. The new funds were in the form of 3.75% convertible debentures maturing in 2018. Their conversion into Old Republic's common shares may take place at any time at the rate of 64.3407 shares for each $1,000 debenture. The basic purpose of raising this capital was to add sufficient liquidity to fund the redemption of an earlier $316 million convertible debenture due in May 2012, and to refinance approximately $110 million of debt assumed through the 2010 acquisition of PMA. In anticipation of repaying the $316 million issue in May 2012, our debt to equity ratio of 24.2% at year end 2011 will most likely drop to the high teens by the middle of this year. This debt level is very manageable, given the renewed profitability we currently expect for our reconfigured business mix.
+
+vii
+
+Business Outlook Improving The separation of our catastrophe-exposed lines serves to re-orient Old Republic's business model. In this light, long-term earnings flows should be in close harmony with the capital allocation objectives we have reset for ourselves. We fully expect Old Republic's general insurance segment to lead to near-term earnings improvements. The productive side of the U.S. economy is reflecting hesitant steps toward modest but sustainable growth. With this, the base elements of premium growth--greater sales activity, rising employment levels, more vigorous consumer spending, and more abundant credit availability and extensions-- should fuel our general insurance top line. These same elements will be highly positive to the improving prospects of our title insurance business. Taken together, these two segments contain the restorative power of sustainable earnings growth.
+
+Respectfully submitted on behalf of the Company and its Board of Directors,
+
+Aldo C. Zucaro Chairman and Chief Executive Officer Chicago, Illinois February 29, 2012 (Except as to references to the separation
+of the mortgage guaranty segment, the date of which is March 21, 2012)
+
+viii
+
+

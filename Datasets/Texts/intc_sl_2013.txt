@@ -1,0 +1,211 @@
+Letter From Your CEO
+I am very excited to be Intel’s sixth CEO. In my first letter to you, I would like to share how we are building on Intel’s strengths to accelerate innovation and drive growth. But first, let’s look at the results for fiscal year 2013. Intel delivered revenue of $52.7 billion, net income of $9.6 billion, and earnings per share of $1.89. Client computing products generated $33 billion in revenue and approximately $12 billion in operating profits. Our datacenter business revenue grew to more than $11 billion, driven by rising demand for cloud services, high- performance computing, storage, and networking. We generated almost $21 billion in cash from operations and returned $6.6 billion to our stockholders in the form of dividends and share repurchases.
+These are solid results in a time of rapid industry transformation, but we must do better. We are refocusing our efforts to reignite growth by driving Intel innovation to market faster.
+Leading in the pursuit of Moore’s Law
+The relentless pursuit of Moore’s Law is Intel’s foundation and continues to be our driving force. We lead the industry as the only semiconductor manufacturer in the world offering Tri-gate transistors and 22-nanometer (nm) technology-based products. The benefits of Moore’s Law can be seen across our product lines in the form of higher performance, lower energy requirements, and lower cost per transistor. In 2013, we introduced our 4th generation Intel® CoreTM processors, which deliver the largest generation-over-generation gain in battery life in Intel’s history, and a new family of low-power Intel® AtomTM processor-based System-on-Chips (SoCs) designed for high-performance mobile devices. We will continue this manufacturing leadership as we begin production of our 5th generation Intel Core processors (code-named “Broadwell”) on our next-generation 14nm process technology this year.
+Accelerating mobility
+The world of mobile client computing is expanding to include not only notebook computers and tablets, but also 2 in 1 devices that combine the best features of notebooks and tablets. We are taking aggressive steps to move swiftly in all of these market segments and to grow with them. Last year, we established a footprint in the tablet market with the shipment of more than 10 million micro- processors, and for 2014 we have set an aggressive goal to increase that number to 40 million. We also made significant advances in our 3G and 4G (LTE) communications capabilities in 2013. This year we are driving faster integration of these communications technologies into our SoCs.
+Reinvigorating innovation
+We are reinvigorating innovation at Intel and bringing it to market faster. For example, in September 2013 we introduced Intel® QuarkTM technology. This technology is designed for applications in fast-growing markets such as wearables and the “Internet of Things,” where the priorities are extremely small size and very low power consumption. We also announced innovative products such as
+the Intel® Galileo development board, the first Intel architecture-based Arduino*-compatible board to support the maker and education communities; and the Intel® Edison development platform, a general-purpose computer housed in a tiny form factor designed to enable rapid innovation by inventors, entrepreneurs, and product designers. Neither of these products was on our roadmaps before mid-2013. You will continue to see a faster pace of innovation moving forward.
+Our commitment to corporate responsibility
+Corporate responsibility is an enduring Intel value that delivers returns for our company, stockholders, and society. In 2013, we continued to expand education opportunities for millions of students around the world, we were again the largest voluntary purchaser of green power in the U.S., and our employees donated more than 1 million volunteer hours to their communities. I am especially proud of our leadership in the area of “conflict minerals.” We have worked for five years to ensure that our products do not contain tantalum, tin, tungsten, or gold that finances or benefits armed groups in the Democratic Republic of the Congo (DRC) and adjoining countries. In 2013, we accomplished our goal to manufacture microprocessors that are DRC conflict-free.
+Prepared for the opportunities ahead
+I believe we have great opportunities ahead of us. Intel has leading products and technologies for growing markets, a strong work- force, and a heritage of leadership in driving Moore’s Law. We have sharpened our product focus and are accelerating the pace of our innovation. I look forward to growing stockholder return by delivering industry-leading products for a dynamic and changing marketplace and ensuring that “If it computes, it does it best with Intel.”
+Brian M. Krzanich, Chief Executive Officer
+Past performance does not guarantee future results. This Annual Report to Stockholders contains forward-looking statements, and actual results could differ materially. Risk factors that could cause actual results to differ are set forth in the “Risk Factors” section and throughout our 2013 Form 10-K, which is included in this Annual Report. These risk factors are subject to update by our future SEC filings and earnings releases.
+  
+Letter From Your Chairman Financial Results
+ When I joined Intel in the early 1980’s, the company was respected Net Revenue
+Dollars in billions 60
+Dilut
+Dollar
+2.50 2.00 1.50 1.00 0.50
+Divid Capit Dollar Plant
+Dollar 1.00
+ as an innovator whose founders had developed a strong and ethical
+culture. As the decade progressed, Intel faced life-threatening
+challenges, including a shortage of capital, operating losses and 50 fierce competition. With tough-minded strategies and a determi-
+nation to lead, the company adapted and built a vibrant future 40 38.8
+with its core values intact. In technology, those who continue to 30 34.2 innovate create new opportunities. In the years since, I have seen this pattern of 20 regeneration often repeated. Today is another defining time for Intel, with big issues,
+big possibilities, and a resilient culture.
+Intel enters 2014 with leadership positions in important business segments, includ-
+ing client computing, the data center, software, embedded systems, and NAND flash 04 05 memory. These businesses generated significant financial results in 2013, indicated
+by high levels of profits, strong cash generation, and a healthy balance sheet. This
+performance enabled Intel to deliver tangible value for stockholders, with $4.5 billion
+54.0 53.3 52.7
+     2.13
+2012 2012
+Dollars in billions Dollars Dollars
+things as they are, not as we hope they would be. As always, we insisted on a person
+Capital Additions to Property,
+50
+25 2.13 12 43.6 1.89
+38.8
+38.3 0.63
+0.78 37.160.85
+who would put Intel’s success and stockholder return first.
+2.00 40 38.8 38.3 20
+2.01
+2010 2010
+tablets. We must also protect and grow Intel’s core businesses while at4t3h.6e same time pursuingnewopportunitiesforgrowth.Andweneedtod3o5.4moretoprovidethe 1.50
+43.6 38.3 37.6
+            Net Revenue Diluted Earnings Per Share
+paid in dividends and $2.1 billion spent to repurchase shares, bringing the cumulative
+return to stockholders from dividends and repurchases to $125 billion.
+While these accomplishments are notable, w60e need to do more. 2.50
+Dollars in billions Dollars
+10
+  Cash from Operations
+06
+07 08
+09
+10
+11
+12
+13
+  54.0 53.3
+50 52.7
+2.39
+2011 2011
+It is imperative that we move swiftly to be more competitive in the market for 25
+12 1.89 0.80
+Dollars in billions
+  34.2 37.6 35.1
+09.60
+0.40 6
+0.20 3
+Dilut
+Dollar
+ 30
+computing devices will continually get smaller, lower cost, and higher performing, and
+10
+can also be more mobile. The tablet is an extension of our history, and we should have
+integrated solutions customers increasingly seek.
+Just as important, we must never forget wha2t0Moore’s Law tells us about the future:
+15 1.00
+10 0.50
+5
+01.17.72
+2009 2009
+   recognized its potential sooner.
+These considerations were top of mind in 2013 as the Board of Directors searched
+2013 2013
+54.0 53.3 52.7
+ 04 05 06 07 08 09 10 11 12 13
+for a new CEO. We wanted someone who would look at markets from a fresh perspec-
+tive. We needed to be a leaner, more agile company attuned and reacting to the world Net Revenue
+around it. And we needed a renewed focus on accountability and results—and to see
+Net Revenue Diluted Earnings Per Share Dividends Per Share Paid
+Cash from Operations Plant and Equipment
+Rese
+60
+Dollars in billions Dollars in billions
+2.50 Dollar
+60 2.50 1.00
+2.39 50 The challenges Intel faces are not new. Every year, nay-sayers predict that technology
+0.90
+2.00 12
+1.50
+9 1.00
+Dollars in billions
+  54.0 53.3 52.7
+has reached its limits and opportunities have d2i.m00inished. Y2e.0t1 innovation never stops, 04.080
+0.87 43.6
+  4a0nd technology continues to transform the way20people go about their lives. I believe
+35.4
+30
+34.2
+16.7
+15 20
+38.8 38.3 37.6 18.9 30 35.4 35.1 1.50 09.60
+the opportunities are as big and interesting as at any time in Intel’s history.
+21.0 20.8
+34.2
+  Before the microprocessor was invented, Intel founder Gordon Moore predicted that
+1.00 0.40
+66 20 0.50
+ 01.17.72 10 integrated electronics would one day be available throughout all of society. Even
+10today Gordon is surprised to see this technology extend beyond anything he and his 5
+33 0 13
+10
+0.50 0.20
+ colleagues imagined. You see technology everywhere, and silicon is the foundation. As technology has become more pervasive, the responsibility for how it is made
+ 04 05 06 07 08 09 10 11 12 13 2009 2010 2011 2012 2013 2009 2010 2011 2012 2013
+and deployed has become more important. The people who work at Intel share the
+2012
+public’s concerns about safety, security, privacy and sustainability. They are highly
+motivated by the prospect that the products they make can be used to improve the
+waypeoplelive.Thequestion,“WhatisgoodforCoapuirtabluAsdindeitsiosn?”sitsoaPnroswperrteyd, withaneye
+Cash from Operations
+Capit Plant Dollar
+12 9 6 3
+2009 2010 2011 2012 2013 2009 2010 2011
+2013
+20.8
+Cash from Operations Plant and Equipment Research and Development
+to what is good for the people who own our shares, the people who use our products,
+Dollars in billions Dollars in billions Dollars in billions
+and the people who work with us around the world.
+Our clarity on this front has allowed the five Intel CEOs with whom I’ve worked
+25 25 12 12
+21.0
+Dollars in billions
+ 11.0 20 to make more confident strategic decisions, because they know w10h.8at matters1t0.o7 the
+ 20 21.0 20.8
+company. Nothing gives18m.9e greater confidence in our future.
+16.7
+15 10 5
+16.7 11.2
+10 66
+5.2
+4.5 5
+33
+2009 2010 2011 2012 2013
+11.2
+9
+195
+     Andy D. Bryant, Chairman of the Board
+2009 2010
+2009 2010 2011 2012 2013
+2009 2010 2011 2012 2013
+35.4
+2011
+2012
+2013
+35.1
+   16.7
+21.0
+18.9
+20.8
+    3
+80
+.1
+11.0
+01
+10.7
+2
+ 0.56
+4.5
+40
+  50
+5.2
+60
+6.6
+70
+91
+18.9 10.1
+11
+   8.4
+10.6
+   5.7
+e
+s
+e a s
+s
+e
+s
+a
+s
+a
+s

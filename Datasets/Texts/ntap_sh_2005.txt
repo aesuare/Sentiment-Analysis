@@ -1,0 +1,72 @@
+NetApp again achieved outstanding growth by providing simple, innovative solutions and an absolute commitment to customer success.
+ DEAR FELLOW STOCKHOLDERS:
+By all measures Network Appliance posted an impressive year in fiscal 2005. We achieved tremendous annual revenue growth of 37%—generating record revenues of $1.6 billion and record net income of $226 million— which was 48% higher than last year. Cash and investments on our balance sheet ended at nearly $1.2 billion and deferred revenue increased 61% to $449 million. A clear indicator of the financial strength of our business model was the $462 million of cash generated from operations.
+Last year we stated that our goal
+was to invest in our business in order to maximize revenue growth, grow
+our market share, and at the same time maintain our target operating margins. The fundamental strategy
+for accomplishing this was to provide our customers with unprecedented value through simple, innovative solu- tions and give them the best vendor interactions in the industry. Network Appliance successfully achieved these goals, again demonstrating the highest organic growth rates in the storage industry and taking share in the fastest growing segments of the market.
+Market forces are moving in our direction. We predicted that storage would emerge as a separate and distinct data center infrastructure purchase, and that has in fact played out. Customers no longer think of storage as peripheral to the server, and the market is moving toward pure-play storage vendors. We anticipated and chose to invest in the emerging market areas with
+the strongest growth potential, like modular storage, data protection, iSCSI, and still-nascent grid comput- ing. These growth segments are in their early stages, so with continued investment in our business—particularly in sales, services, and engineering— we expect to profitably capitalize on these opportunities and grow faster than the market and our competitors for the foreseeable future.
+Simplifying Data Management
+Our vision is straightforward: to simplify the data management challenges our customers face by delivering innovative storage solutions. Our greatest com- petitive advantage in achieving this is our single architecture. By offering one operating system across all of our storage systems, we give our customers
+DAVE HITZ
+Executive Vice President Founder
+JAMES LAU
+Executive Vice President Founder
+1
+
+2
+Our team excels at predicting and capitalizing on emerging market trends, and we have the best people and partners in the industry to lead our growth.
+ the flexibility to grow at their own pace, design the optimal implementation
+for their specific needs, and retain the freedom to change direction or utilize their NetApp products in different ways in the future. NetApp is the only vendor that offers customers the ability to run SAN, NAS, and iSCSI concur- rently in one system, giving them the flexibility to deploy the most cost- effective solutions in the industry, both in terms of upfront costs and ongoing administration.
+This flexibility is provided in part through modular storage. There is a growing trend in the market away from large, inflexible frame arrays and from inef- ficient direct-attached storage (DAS) toward modular unified storage. These legacy market segments are on the decline, and NetApp is squarely positioned to capture share as the mar- ket continues in this direction. NetApp specializes in modular storage. We deploy it through an appliance, driving simplicity in complex customer envi- ronments and helping them to solve business problems cost-effectively.
+One of the most prominent data man- agement problems customers
+face today is that of data protection.
+As our customer base shifts deeper into the enterprise, data protection has become one of the largest drivers
+of our growth. During the past year our NearStore® secondary storage system and related software product revenue grew 115% over last year, driven primarily by corporations begin- ning to implement disk-to-disk backup, replicated data for business continuance, and regulatory compli- ance initiatives. Offering a single architecture allows customers to back up many storage devices to one system easily and cost-effectively, compared to the cumbersome like-to-like backup methods that other storage vendors offer. Network Appliance is the only company that can converge solutions for backup, business continuance, regulatory compliance, and archival storage all into one architecture that solves all four customer problems.
+Network Appliance maintains a customer-centric focus in our innova- tion, including consciously developing ways to help customers protect and leverage investments they have already made in their storage infrastructure. With our software capabilities, cus-
+
+ tomers can virtualize heterogeneous storage systems and also back
+up data from other vendors’ storage devices to NetApp products. Along that line, we announced the acquisi- tion of Alacritus, which provides virtualized tape library (“VTL”) solutions. In addition to our advanced backup capabilities, we now offer VTL technology to give customers the ability to reap the benefits of backing up to spinning media without disrupting their existing backup pro- cesses. We also announced deeper integration with VERITAS, bringing
+joint disk-based backup and e-mail archiving capabilities to market and expanding our footprint in the open systems arena.
+Another expansion area of our business is the traditional Fibre Channel SAN and newer iSCSI markets. These “block-based” protocols have grown extremely fast for us. As the trend toward unified storage continues to accelerate, Network Appliance remains the primary beneficiary: exiting the fourth quarter of 2005 they were included in over 30% of our business. Our leadership in iSCSI storage has driven this growth. For example, cus-
+tomers choose our solutions because they can back up a SAN implementa- tion using iSCSI across their existing Ethernet-based network infrastruc- ture. iSCSI has also stimulated the movement away from inefficient direct-attached storage as customers discover they can now cost-effectively and efficiently move storage to the network. Microsoft has also been
+a leading proponent of iSCSI adop- tion, driving demand for our Microsoft® Exchange and SQL Server data management software.
+We see the future of storage moving toward a storage grid architecture, which provides a quantum leap
+in scalability and increases storage consolidation. The company that offers the most flexible and extensible solutions will be the biggest winner. With our single operating system and the ability to run multiple protocols concurrently, NetApp is poised to capitalize on this coming trend as
+it unfolds. And in fiscal 2006 we will deliver a converged, next-generation operating system integrated with
+the “near-infinite scale-out” technol- ogy acquired last year from Spinnaker
+Networks. This next-generation OS will bring true “storage grid” functionality to the market.
+Effectively Managing Growth
+NetApp holds the enviable position where our degree of growth is gated primarily by our ability to hire people fast enough to capitalize on the con- verging market opportunities in front of us. In fiscal 2005 we added nearly 1,000 people to the NetApp team, ending the year with 3,800 employ- ees. While this appeared to be a major undertaking, with focus and the implementation of effective pro- cesses, the NetApp team successfully accomplished this goal. We are confident we have the seasoned leadership team and systems in
+place to continue hiring at this rate as long as growth opportunities remain ahead of us.
+Hiring additional talent enhances our capacity to bring new innovations to market quickly and further increases our competitive differentiation. Assisted by the additional resources in engineer- ing, this coming year we will introduce product refreshes across our entire storage platform, while at the same
+3
+
+4
+We will continue to prudently invest in our business to maximize revenue growth and long-term profitability.
+ time keep resources devoted to long- term growth catalysts like our next- generation operating system.
+One of our top areas of focus in sales during fiscal 2005 was to further penetrate global enterprise accounts. We increased our business with our top enterprise customers by 37% compared to last year. Approximately half of our business now comes
+from enterprise customers. These customers tend to buy longer-term hardware maintenance and software maintenance subscriptions, which translate into the very healthy growth you have seen in our deferred rev- enues. As a result, deferred revenue should continue to outpace our revenue growth. In fiscal 2006 we plan to significantly increase the number
+of top enterprise accounts we focus on in order to grow this important segment, and we will make appropri- ate investments in sales to keep those customers growing and happy.
+The NetApp Global Services orga- nization is focused on accelerating the adoption rate of our technol- ogy, ensuring customer success, and enhancing customer loyalty and retention. We grew the number of
+professional services staff over 50% this year, and we still have further to
+go in order to respond to the demand from Global 1000 companies. We will prudently invest in our services busi- ness over the next few years as long as the demand continues to exceed supply. At the same time, we will also invest in training our systems integra- tion and reseller partners to help them further extend our reach.
+Our reach will certainly be extended with the most significant partnership
+in our history. In April we announced that IBM will OEM the NetApp storage system product line. IBM will integrate and sell our products as they are refreshed over the coming year. This partnership is expected to extend coverage into geographies and verti- cals where we currently have little or no direct sales presence. It also helps us right away because it is a terrific endorsement of our technology.
+Other notable partners that contributed to our growth this year include Arrow and Avnet, who manage the relation- ships with the many NetApp resellers and distributors. These partners grew to account for 9% of our total busi- ness this year. On the technology side,
+Oracle, Microsoft, and Symantec/ VERITAS top the list of influential partners having a positive impact
+on our business. Our SAP and IBM partnerships are early in their develop- mental stages and should continue
+to grow for us in the coming years. The investments we have made to stimulate growth in the indirect chan- nel are paying off, with that segment growing even faster than our overall business this year.
+Investing for the Future
+As we reflect on fiscal 2005, we are proud of our accomplishments and confident that our strategy of investing in our business to maximize revenue growth and long-term profitability is an effective one. The results speak for themselves, and the NetApp team has demonstrated the ability to effectively manage our growth while ensuring that NetApp maintains its remarkable culture. For the third year in a row we were recognized in Fortune magazine’s list of 100 Best Places to Work.
+As we look ahead and evaluate our prospects, with innovative products effectively targeted at the highest growth segments of the market, and with the best people and partners
+
+ focused on capitalizing on the opportu- nities in front of us, we expect NetApp to continue to grow faster than the market and our competitors. We plan to continue to invest prudently in our business through hiring, buying back NetApp stock, and thoughtfully considering acquisitions of related technologies.
+Our customers reinforce our belief that we are making the right invest- ments to help them simplify their complex environments and take costs out of managing their business. Our objectives going forward are to continue to deliver exceptional value to our existing customers and make sure more global corporations learn how NetApp can help them solve their data management challenges.
+On behalf of the Network Appliance leadership team, we would like to congratulate our employees on their success this year and thank them for their contributions toward maximizing shareholder value. We are excited to be part of a team where our opportuni- ties abound and our growth prospects are gated only by the aspirations and efforts of our people. We look forward to another great year in fiscal 2006.
+DAN WARMENHOVEN
+Chief Executive Officer
+TOM MENDOZA
+President
+  5

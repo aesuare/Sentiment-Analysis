@@ -1,0 +1,191 @@
+2004 ANNUAL REPORT
+
+Dear Shareholders:
+Fiscal year 2004 turned out to be one of the strongest years in our history. Revenue grew by 29% to $2.6 billion, exceeding the growth rate we planned at the beginning of the year. Our revenue growth over the past two years has averaged 25% per year, at the high end of what we believe is the long-term growth rate of our business. We also made great progress in expanding our gross margins to a record 60% for the second half of fiscal year 2004 and we maintained gross margins of 59% for the year, which represented a more than 400 basis-point improvement over fiscal 2003. We continued to invest heavily during the year to support new product development programs in analog, digital signal processing (DSP), and micro-electromechanical systems (MEMS). For the year, R&D expenses increased by 14% to over $500 million.
+New Product Revenue ($ in Millions)
+
+For the year, revenue from new products increased 45% year-over-year and totaled 21% of sales, a good leading indicator of growth in future years.
+
+$600 $500 $400 $300 $200 $100 $0
+FY2003
+Source: Company Data
+
+% 45
+
+Gro
+
+h wt
+
+As a result of high sales growth, gross margin expansion, and good expense control, operating profits for the year grew to approximately $700 million, up 87% from last year, which was three times the growth rate of our sales. Diluted earnings per share grew to $1.45, up from $0.78 last year. Cash flow from operations for the year totaled $778 million and we spent $146 million on capital expenFY2004
+
+ditures. During fiscal 2004, we provided additional returns to our shareholders by paying $75 million in cash dividends and we bought back $137 million of our stock on the open market during the fourth quarter.
+
+ADI has continued to invest aggressively in new product development, fueling the company's above industry growth rates.
+
+Diversity in the Markets We Serve
+Revenue from our broad base of industrial customers, representing many diverse end markets, grew by approximately 32% year-over-year and totaled approximately 36% of sales in fiscal year 2004. The breadth and performance of our product portfolio and our leading brand continue to differentiate ADI from competitors in this broad market. In 2004, we further strengthened our position with the introduction of a multitude of general-purpose converter, amplifier, power management, MEMS, and DSP products for a wide range of applications across the industrial markets.
+
+1
+
+ANALOG DEVICES, INC.
+
+For the fiscal year 2004, revenue from products sold to communications customers grew approximately 30% year-over-year and represented approximately 37% of sales. We experienced strong growth from a variety of communications applications, including cellular base stations, wireless handsets, and many types of networking equipment. Consumer electronics products are increasingly integrating high-performance audio, video, and imaging technology from ADI and, in fiscal year 2004, revenue from consumer customers increased approximately 34% year-overyear. Consumer applications represented approximately 13% of sales for the year. In fiscal 2004, revenue from computer customers grew approximately 14% year-over-year and represented approximately 14% of sales. We have continued to diversify our power management products toward notebook and other portable systems and our temperature monitoring technology for both Intel® and AMD® processors is increasingly important in PC motherboard design. For the fiscal year 2004, revenue increased in all regions. North America represented approximately 25% of sales, Europe 20%, Japan 19%, China 14%, and the rest of Asia approximately 22%. Worth noting is the fact that over the past two years, our sales into China have grown by over 70% per year. Our sales and applications teams have done a tremendous job in this important, long-term growth market for electronic equipment. Financially, we are accomplishing exactly what we planned to do. We are achieving solid revenue growth with excellent earnings leverage and we still have significant operating leverage ahead of us as utilization increases and expense control remains tight. In addition, we are generating significant cash flow as is inherent in our business model. We believe we are in a strong product cycle, particularly as signal processing technology is increasingly the prime differentiator and enabler of electronic equipment in every end market we serve. Most importantly, we believe the market for our products remains strong, supported by good economic growth in most regions of the world. Therefore, we are planning for 2005 to be a good year for ADI, accentuated by the celebration of the company's fortieth anniversary.
+FY2004 Revenue By Application
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source: Company Data
+
+ADI technology is pervasive across virtually all types of electronic equipment, leading to diversity and breadth in the customer base.
+
+The Growth Equation
+As the digital world expands, high performance analog and DSP are likely to continue to be amongst the highest growth product categories in the
+
+2
+
+2004 ANNUAL REPORT
+
+semiconductor industry. This is a direct result of the increasing pervasiveness of signal processing technology in virtually every type of electronic equipment in every end market. The foundation of our business strategy remains our core analog and DSP technology which we provide to 60,000 customers worldwide. This strategy not only provides the core technology to enable new applications but also generates high profits and strong cash flow. We believe two trends are combining to drive our growth. We are increasing ADI content in existing applications and there are new applications that require signal processing products. A few examples will illustrate the point. Five years ago, film cameras dominated photography. Early digital cameras were somewhat crude by today's standards, but nevertheless required our
+ADI Digital Camera AFE Market Share
+
+highest speed analog-to-digital converters (originally developed for radar signal processing applications) to convert analog images into digital format. Other camera functions relied on several customized digital chips. The total opportunity for ADI in cameras five years ago was perhaps 5 million cameras using an ADI converter that sold for less than $5 per unit. In the 2004 calendar year, we estimate that more than 65 million digital cameras have been sold, not including camera functionality now routinely included in 30% of cell phones. Today we supply not only the analogto-digital converter, but a complete camera front end, and we are developing a Blackfin® DSP for color correction,
+
+100%
+
+75%
+
+50%
+
+25%
+
+0%
+
+2003
+
+2004
+Source: IDC and Company Data
+
+2005E
+
+digital zoom, and functions such as motion video. Further, we are adapting our core power management and MEMS
+
+Today, most digital cameras feature ADI's technology to satisfy other emerging requirements in the converter technology in the analog front newest cameras. In total, the opportunity for ADI in digital end (AFE) and there are many emerging opportunities within digital cameras for ADI cameras has increased from under $5 to now between DSP, MEMS, and power management products.
+
+$10 and $15 per camera. Therefore, the total opportunity
+
+has expanded not only in terms of a more than ten-fold increase in units, but also in terms of much higher ADI content per unit. Demand for advanced digital consumer products such as cameras, advanced audio systems, and advanced television systems has helped accelerate our growth rate over the past few years. Large-screen advanced digital televisions are an application that did not exist two years ago. ADI has evolved from historically providing no content in analog televisions to now providing many new signal processing functions throughout new LCD and plasma TVs, one of the hottest growth markets of the decade. The advanced TV market, which includes digital TVs,
+
+3
+
+ANALOG DEVICES, INC.
+
+audio/video receivers, and high-definition video recorders, has tremendous signal processing challenges which will require the highest performance analog, mixed-signal, and DSP technology. Wireless products have also undergone a significant evolution requiring more and more of ADI's advanced signal processing technology per system. In cellular telephones and personal digital assistants (PDAs), we have evolved from historically supplying a converter to today supplying the converter, DSP, radio transceiver, and power management. We are currently ranked third in the world for GSM/GPRS baseband ICs, up from the 8th position three years ago. Our market share gains for these products over the last few years have been driven by the multiplicative effect of unit growth and increasing content per unit. In Asia, cellular phone manufacturers are rapidly adopting the original design manufacturing (ODM) model, the same model that led to the rise of Asia in the global PC market. Private labeling of ODM telephones by major cellular phone brands, as well as by the network service providers, significantly reduces R&D costs. The ODM model favors ADI's Softfone® solution. Because ADI can supply the entire signal chain and reference design with an architecture that can rapidly support new features, such as higher data rates and multimedia capability, we believe we have an advantage over single function suppliers. The unit growth rates and increasing ADI content within cellular phones continues to be a good source of growth for ADI. The tens of thousands of customers represented in our industrial applications group are also designing more ADI content into their products. Factories, hospitals, and office buildings are pushing for better operator interfaces, wireless connectivity, and hand-held form factors in products as diverse as weigh scales, patient monitors, and security scanners. These are just a few examples of the diverse types of applications that are driving our growth today and this is why we are so enthusiastic about our long-term future. The real growth engine for ADI is not any one of these applications -- it is the great diversity of applications that we serve and our ability to service these increasingly global customers. We believe that it is the combination of these signal processing applications that is the "killer application" for the semiconductor industry. ADI is among the very few semiconductor companies with the technology base, experienced engineerInstrumentation 23%
+Source: Company Data
+
+FY2004 Industrial Revenue By End Application
+
+Automotive 16%
+
+ATE 14%
+
+Defense/ Aerospace 11%
+
+Process Control 36%
+
+Tens of thousands of customers across a wide variety of industrial and instrumentation applications rely on ADI high-performance analog and DSP technology in generation after generation of their systems.
+
+4
+
+2004 ANNUAL REPORT
+
+ing community, and financial strength to win in these diverse applications over an extended period of time.
+
+Innovative Products Are the Foundation of Our Success
+Converters, amplifiers, and power management products all grew strongly in fiscal 2004, driven not only by new products but also by the steady growth of our long life cycle products within our highly-diverse customer base. Converters and high-performance amplifiers together, continue to represent nearly 60% of our sales and we enjoy over 40% market share in each category. We are also encouraged by widespread design activity and high customer acceptance of our newest DSP products. We now have Blackfin and TigerSHARC® products in a wide range of applications, including digital cameras, cellular telephones, cellular base stations, set-top boxes, automotive telematics, and hundreds of other industrial, instrumentation, and defense applications.
+
+World's Leading Converter and Amplifier Manufacturer
+ADI Data Converter Market Share
+
+Through continuous, aggressive investment in product innovations, our converter and amplifier franchise strengthens year after year. More and more electronic equipment must interface with the real world of analog signals, increasing the industry growth rates of converters and amplifiers and the market share of ADI. Our converter revenue grew by 32% in 2004 with sales to a wide diversity of applications, including medical imaging, test and measurement, consumer entertainment systems, wireless communications, networking, and digital cameras.
+
+50% 40% 30% 20% 10% 0%
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+The breadth and depth of our portfolio is unmatched in highspeed converters. We believe no competitor has mastered the art of combining high speed with high signal integrity, and that is why customers continue to choose ADI data conversion technology. In precision converters, our leadership position also continues to strengthen as the result of many significant new product introductions. Notable products we announced this year include a new con-
+
+Source: Gartner/Dataquest, includes converters, switches, and multiplexers
+
+Rising use of digital photography, movies, music, and communications make converter technology the critical bridge between the real world of analog signals and the digital world of electronic equipment. ADI is the converter market leader by an ever widening margin.
+
+verter that breaks the one million sample per second speed barrier. Our 14-bit AD9736 digital-to-analog converter combines the industry's fastest sampling rate with leading accuracy and energy specifications for applications as diverse as instrumentation, ATE, wireless infrastructure equipment, RADAR, and avionics. New 18-bit converters announced this year are four
+
+5
+
+ANALOG DEVICES, INC.
+
+times faster than the closest competition, while improving accuracy versus competitors by a factor of three. Customers in every market are designing applications that must be portable. Whether for instrumentation, entertainment, or communications, these handheld digital systems rely on digital-toanalog converters for interfacing with the real world. In 2004, we launched the nanoDACTM family which provides all the performance of ADI converters while reducing the power consumption by 80% and the physical area of the chips by 70% compared to previous generations. High-performance amplifier technology is applied across ADI's portfolio. We are not only the world leader in stand-alone amplifier products, we are also aggressively embedding our amplifier core technology into system solutions to make it easier for our customers to achieve the signal processing performance their applications require. In March of 2004, the electronics industry honored ADI by naming the AD8099 operational amplifier as the 2003 "Innovation of the Year" for analog products. The AD8099 continues our 40-year track record of helping customers realize their design ideas by pushing analog technology to new levels of performance.
+The industry recognized ADI's leading analog technology by awarding our AD8099 high-speed amplifier with the coveted "Innovation of the Year" title.
+
+Expanding MEMS into Consumer, Computing, and Industrial Applications
+Our MEMS design and manufacturing capabilities continue to strengthen and the profitability of our MEMS business continues to improve. Over the last five years, our MEMS revenue growth has averaged 20% per year. We are diversifying and expanding from our leadership position in airbags to new inertial sensors, including gyroscopes, for applications in consumer, computing, and industrial products. IBM® has expanded its MEMS-based hard disk drive protection feature to encompass ThinkPad® R, T, and X computers. InFocus® Corporation, the leader in PC projectors, selected our ADI iMEMS® chip to automatically sense and correct image distortion. Toshiba® Corporation's popular tablet PC uses ADI iMEMs ICs to automatically resize the screen and scroll the page in response to how the user is holding the tablet. This strategy to diversify the applications for MEMS technology should continue to accelerate the growth of sales and profits for our MEMS products.
+
+6
+
+2004 ANNUAL REPORT
+
+Embedded Media Processing Drives Adoption of ADI DSPs
+Digital photographs, movies, music, and communications are just some of the types of media that ADI engineers had in mind when defining our next generation of DSPs, the Blackfin and TigerSHARC processors. Customers across every application area are designing products that incorporate sound and images, high-speed communications, and power-sensitive form factors. Our DSP technology is well positioned to capitalize on these trends. We now have approximately 10,000 customers who have ordered evaluation kits for our newest DSPs. Many of these customers are planning products for production in 2005. Sometimes our DSPs are replacing custom digital ICs in these products and other times they are replacing embedded microprocessors and conventional DSPs.
+ADI DSP Developer Kit Cumulative Shipments through FY2004
+
+During 2004, we commercialized our Blackfin DSP and demonstrated our innovative design capability with new DSP core technology that exceeds competitive benchmarks by a wide margin. Customers have repeatedly applauded the combination of speed, memory integration, and on-chip peripheral connections that make our DSPs not only high performance, but also easy to use.
+
+10,000 8,000 6,000 4,000 2,000 0
+1Q 2Q 3Q 4Q
+
+We also had a good year in vertical DSP products, particularly in cellular communications where we expanded our Blackfin Softfone portfolio to include the fast growing EDGE and 3G cellular standards. On the infrastructure side, our TigerSHARC products are combining with our highspeed data converters to enable software-
+
+Source: Company Data
+
+Approximately ten thousand customers are developing with our new Blackfin and TigerSHARC DSPs for applications as diverse as digital cameras, cellular telephones, cellular base stations, set-top boxes, automotive telematics, and hundreds of industrial, instrumentation, and defense applications.
+
+defined radio architectures in 3G base stations. This architecture appeals to manufacturers because it reduces overall engineering costs while creating a platform that can support multiple standards and evolving features through software programmability rather than costly custom chip redesign. Our product definition and development process improves each year and 2004 was no exception. With an engineering culture that emphasizes deep understanding of the customer's system challenge, aggressive R&D investment, and unmatched mixed-signal design expertise, ADI has year after year brought leading edge products to market ahead of our competitors.
+
+7
+
+ANALOG DEVICES, INC.
+
+40 Years of Innovation
+As we enter our fifth decade, it is appropriate to look back with pride at our many accomplishments and also to set the course for an even better future. Research indicates that the average life expectancy of a large multi-national company is only 40 to 50 years. Approximately 50% of all companies in the S&P 500 in 1970 no longer exist today. The same research indicates that there are many common characteristics among the few companies that survive and prosper for a very long time, and at ADI, we are committed to becoming one of those companies. First and foremost, companies that survive and prosper over the long term aggressively manage transitions in their environment. At ADI, we have proven time and time again our ability to anticipate and adapt to technology and customer transitions. From our roots in modular amplifiers and converters in the 70's, we transitioned to amplifier and converter integrated circuits. Throughout the 80's, we diversified our signal processing technology to include analog, mixed signal, and ultimately DSP and MEMS technology. Customer solutions have also transitioned from general-purpose building blocks to application-specific solutions for emerging high-volume applications, and more recently to total system-level solutions. We broadened our available market from serving primarily defense and industrial customers to today also serving communications, computer, consumer, and automotive customers. Globally, our business has expanded from a US- and European-centric customer base to serving many of the largest Asian customers. We expect there will be many other transitions that will provide significant opportunities for ADI. We, as an organization, are well positioned and have the expertise to continue to capitalize on these transitions. Companies that survive and prosper over the long term also have a strong corporate identity. At ADI, because of our diversified product and customer base, we employ a decentralized organizational structure. This has allowed rapid decision making by people closest to the action and a profound sense of accountability throughout the organization. With a strong corporate identity, our organization maintains alignment, despite our decentralized structure. Our strong corporate identity stems from many things, including a tendency to promote from within, fostering employees who think of ADI as a life long career, not as a short-term job. Our corporate identity is strengthened by people throughout the organization who consider themselves the "stewards" of the culture. With the increasing globalization of our customers and resources, and with many customers now requiring ADI technology from different groups within the company, we need to
+
+8
+
+2004 ANNUAL REPORT
+
+increasingly rely on our employees to think of ADI as a single company dedicated to providing advanced signal processing solutions to our customers. Companies that survive and prosper over the long term also embrace risk. The markets we serve move quickly and somewhat unpredictably and it is difficult to anticipate the next big wave. Each of our moves to diversify and transition ADI over the past 40 years was generally the result of bold initiatives, often undertaken by "champions" and supported by ADI for many years before success was clearly demonstrated. For example, over the last 40 years we have invested more than $4 billion in R&D. These investments have in turn generated net income of 13% of total sales since the company was founded. We need to continue to push for innovation and champion new initiatives, confident that while not all will be successful, we have a solid track record of investing in many that will succeed. Lastly, companies that survive and prosper over the long term tend to manage their finances conservatively and do not risk their capital without clear objectives. At ADI, our high margins and significant cash balance allows us to continue to invest consistently across the peaks and valleys of the semiconductor cycles, which seem to occur with increasing amplitude and frequency. Our philosophy is to manage the company according to our long-term secular growth rate, rather than react to short-term conditions. This constancy of investment has provided consistently innovative products to our customers, more security to our employees, and high long-term returns to our shareholders. In aggregate, we are ready for the next decade of our journey, with the technology portfolio, the organizational skills, the financial resources, and the resolve to meet the inevitable challenges in the years ahead.
+
+Ray Stata Chairman of the Board
+
+Jerald G. Fishman President and Chief Executive Officer
+
+9
+
+

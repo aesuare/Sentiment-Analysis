@@ -1,0 +1,141 @@
+  2011 Annual Report
+
+ 
+A Letter from
+the President and CEO
+I am pleased to report that IBM had another strong year in 2011. Your company continued to outperform our industry and the market at large.
+We capped IBM’s first century by achieving record revenue, profit, free cash flow and earnings per share.
+At the same time, we continued to deliver superior returns to you, and we are well positioned for future growth in a globally integrating economy.
+Revenue and income: Our revenue in 2011 was $107 billion, up 7 percent. We grew operating pre-tax income by 9 percent, to $21.6 billion, our highest ever.
+Margins: IBM’s operating pre-tax income margin rose for the ninth consecutive year —to 20.2 percent, up 10 points since 2000. We achieved this by continuing to shift our business mix to more profitable segments and by driving productivity. More than 90 percent of our segment profit in 2011 was from software, services and financing.
+Earnings per share: We have continued to achieve strong EPS growth. Last year was another record, with diluted operating earnings per share of $13.44, up
+15 percent. This marked nine straight years of double- digit EPS growth.
+Cash flow: IBM has consistently generated strong cash flow, a key indicator of real business performance. In 2011 our free cash flow was $16.6 billion. We have improved our free cash flow by nearly $10 billion over the past decade. We ended 2011 with $11.9 billion of cash and marketable securities.
+Investment and return to shareholders: Our cash flow has enabled us to invest in the business and to generate substantial returns to investors, while spending
+$6.3 billion on R&D. In 2011 we invested $1.8 billion for five acquisitions in key areas of software and $4.1 billion in net capital expenditures. We were able to return
+$18.5 billion to you—$15 billion through share repurchases and $3.5 billion through dividends. Last year’s dividend increase was 15 percent, marking the 16th
+year in a row in which we have raised our dividend, and the 96th consecutive year in which we have paid one.
+A road map to the future
+This performance was the result of disciplined execution by more than 400,000 IBMers and the strategic repositioning of the company over the past decade. We have steadily realigned our business to lead in a
+new era of computing and to enable our clients to benefit from the new capabilities that era is creating. As a consequence, our investors benefit from a business model that is both sustainable over the long term
+and fueled by some of the world’s most attractive high- growth markets and technologies.
+1
+
+2
+ Virginia M. Rometty, President and CEO Samuel J. Palmisano, Chairman of the Board
+
+You see this expressed in financial terms in our EPS road maps. We introduced our first in 2007, and surpassed our 2010 objectives. Now, we are well on track toward our 2015 Road Map goal of at least $20 in operating earnings per share.
+As before, the road map is not simply a list of targets,
+but a management model built on exploiting multiple ways to create value. Operating leverage will come
+from our continuing shift to higher-margin businesses and improving enterprise productivity —expected to
+be $8 billion over this five-year period. We will create value for shareholders through an anticipated $50 billion in share repurchases and $20 billion in dividends.
+When it comes to growth strategies, we are focused on four high-growth spaces that should drive approximately $20 billion in revenue growth by 2015:
+1. Growth Markets. Revenue for our Growth Markets Unit was up 11 percent at constant currency for the second year in a row. Growth markets contributed 22 percent
+of IBM’s geographic revenue in 2011, up from 11 percent in 2000, and we expect them to approach 30 percent by 2015.
+2. Business Analytics. Our analytics business grew
+16 percent for the year. Having spotted early the emergence of “big data,” IBM built the world’s leading
+analytics software and consulting practice, and we are translating it into powerful new capabilities, which enable our clients to identify, manage and even predict outcomes that matter to their success.
+3. Cloud. IBM has helped thousands of clients adopt aspects of cloud computing, where IT resources are virtualized, highly automated and accessed by self-service. Our cloud revenue in 2011 was more than three times
+the prior year.
+Our strong strategic positioning, solid balance sheet, recurring revenue, robust profit streams and unmatched global
+reach give us confidence that we will achieve success in
+the next five years, as we have during the past decade.
+4. Smarter Planet. All of this comes together in our solutions to build Smarter Planet systems, transforming systems such as supply chains, retail, energy, transportation, telecommunications, food and water. It includes the successful establishment of large new market categories, such as Smarter Cities and Smarter Commerce. Smarter Planet revenue grew by almost 50 percent in 2011.
+A Letter from the President and CEO 3
+ 
+4
+In sum, our strong strategic positioning, solid balance sheet, recurring revenue, robust profit streams and unmatched global reach give us confidence that we will achieve success in the next five years, as we have during the past decade. The information on pages 9 to 15 —“Generating Higher
+Value at IBM”—explains how.
+The decade ahead
+The next decade holds enormous promise for IBM,
+most importantly because of what it holds for business and society at large. We are uniquely positioned to deliver the benefits of a vast new natural resource —a gusher
+of data from both man-made and natural systems that can now be tapped to help businesses and institutions succeed in an increasingly complex and dynamic global economy. Together, we can create economic and societal value of incalculable potential, across the developed
+and developing worlds, as well as in new global markets such as those in Africa.
+Without question, the world is undergoing disruption. But IBM now stands out among our industry peers
+and in business at large as distinctively able to keep moving to the future, and to keep generating differentiating
+value for our clients, our employees and the citizens of the world. And that, in turn, promises to continue generating high value for our owners.
+The fact that we enter IBM’s second century with such strength and confidence is a testament to the extraordinary leadership of Sam Palmisano as IBM’s CEO. I will leave
+to Sam the description of our historic transformation.
+But there is no doubt that IBM today is far stronger than it was a decade ago, in both its performance and its impact on the world.
+Let me close by expressing my pride in the worldwide IBM team for bringing us to this point, and my gratitude to you, our shareholders, for your unwavering support.
+I trust you share our excitement about your company’s performance and the way in which IBMers are building on our storied past to build an even brighter future.
+Virginia M. Rometty
+President and Chief Executive Officer
+  This letter includes selected references to certain non-GAAP financial measures that
+For information about the company’s financial results related to (i ) operating pre-tax
+flow, which are in each case non-GAAP measures, see the company’s Form 8-K submitted to the SEC on January 19, 2012 (Attachment II—Non-GAAP Supplementary Materials).
+are made to facilitate a comparative view of the company’s ongoing operational performance. income, operating pre-tax income margin and operating earnings per share and (ii ) free cash
+
+A Letter from
+the Chairman of the Board
+As we look back on our strong performance in 2011—the culmination of an impressive decade —Ginni
+and I thought it would be appropriate for me to share a perspective on this most recent phase of IBM’s 100-year journey, and to offer some thoughts
+on what it has taught us.
+I recently took a look at my notes from my first meeting with IBM’s senior leadership after becoming chairman in January 2003. I was surprised to see how little I had written down. At the top were just four questions:
++ Why would someone invest in us?
++ Why would customers buy from us?
++ Why would society allow us to operate?
++ Why would someone work here?
+Our history teaches us that IBM became one of the world’s great companies by continually creating value for all
+of these stakeholders. Certainly, that was the IBM I joined 38 years ago. And as IBM’s incoming chairman nine years ago, I couldn’t imagine an agenda that wasn’t built on that multidimensional goal.
+Let’s consider how we have done against each of these fundamental questions.
+First, how have we done in answering: Why would someone invest in us? Some technology companies, particularly start-ups, are attractive to investors because they grow meteorically —but often without profit or positive cash flow. Others provide a broad portfolio
+of products and services —but their very breadth makes them mystifying to the investor.
+A decade ago we committed to providing our owners
+with clarity about our business model, strategies, finances and governance principles. We would manage and grow IBM through the basics —revenue, profit, earnings, cash and margins. And we pledged to deliver consistent investor returns through dividends and repurchased shares.
+At the same time, we believed we could provide a unique investment opportunity —participation in attractive
+new growth areas in technology and in emerging markets, with confidence that IBM would safeguard shareholders’ investments.
+It all came together in our 2010 Road Map, and we
+are continuing to demonstrate progress against our 2015 Road Map. The results for investors speak for themselves. Over the past five years, we have increased our market capitalization by $70 billion, and returned $50 billion to shareholders in net share repurchases and $14 billion in dividends —creating approximately $135 billion in value for our owners.
+5
+
+6
+Second, why would customers buy from us?
+IBM’s business model has always been to provide value to our clients that they cannot get from anyone else — value that gives them a competitive advantage. This model is not universal in our industry—where some choose to compete on the basis of greater efficiency and lower cost. But it was ours.
+Adecadeago,however,westraddledtwoworlds—of enterprise and consumer technology — at a time when computing was starting to move beyond the PC. This emerging model of technology, in which intelligence was being infused into all the ways our world works, could be of enormous value to our clients. But delivering this potential meant we had to transform our portfolio
+of technologies and skills.
+We did so. We got out of PCs and disk drives, and increased our presence in key areas of software, industry expertise and process know-how, increasing software
+and services from 65 percent of IBM’s segment profit in 2000 to 84 percent today. We invested nearly $70 billion in R&D since the beginning of 2000, shifting research into new areas and generating more than 47,000 patents — extending IBM’s streak of leadership in U.S. patents to
+19 years. And we acquired 130 companies, in strategic areas of software and services.
+The result? Client after client —from Bharti, which is accelerating the modernization of Africa through mobile telecom; to Macy’s, which is redefining the online shopping experience; to the city of Rio de Janeiro, which is inventing the Smarter City of the 21st century—is saying, “We couldn’t have done it without IBM.” This is music to our ears.
+At this institution, an individual can actually change the
+world, can learn something new every day, can collaborate
+with some of the smartest people on the planet, can work in a progressive environment and can truly be a global citizen.
+Third, why would society allow us to operate?
+Over the past decade, we have increasingly sought to address the world’s biggest problems, driven by the idea of building a smarter planet. Without question, we do this in pursuit of large new profit opportunities. But it
+is more than that. It represents the fusion of IBM’s business and citizenship goals. And that shows up not only in our broad strategies, but in how we work as individuals around the world.
+ 
+We hear again and again from schools, governments, nongovernmental organizations and communities that the thing they value most is the expertise of IBMers — more even than donations of cash or technology (although those are also welcome, and plentiful). IBMers bring expertise in engineering, finance, marketing, management and more to help cities actually become smarter; to reimagine existing school models, as with P-TECH in New York City; and to develop global citizens and leaders, as we’re doing through Corporate Service Corps.
+One consequence of this business-citizenship fusion is that we can deliver its benefits at increasing scale. Our
+On Demand Community, for example, has grown ninefold in volunteers since it began. In one example alone —
+our Centennial Celebration of Service—more than 300,000 IBMers performed more than 4 million hours of service across 120 countries.
+Fourth, why would someone work here? In an earlier era, this had a lot to do with job security and stability. We learned the hard way that that was unsustainable. And yet, IBM today remains an employer of choice.
+Why? I believe it is because, at this institution, an individual can actually change the world, can learn something new every day, can collaborate with some of the smartest people on the planet, can work in a progressive environment and can truly be a global citizen.
+Since 2002 we have invested about $100 billion in non-salary employee compensation — bonuses, commissions, benefits and employee equity —including
+more than $5 billion in employee learning and development. In 2005, we became the first corporation to guarantee our employees’ genetic privacy. The way we develop leaders was ranked number one in the world by Fortune. And we have received widespread recognition for our diversity, work/life, environmental and collaboration policies and programs.
+In the end, it comes back to our values as IBMers. It was no accident that the first major work effort I launched at that senior leadership meeting nine years ago was a collective “jam” on who we are and why we exist. What resulted —the values IBMers themselves shaped —has held up remarkably well as a distillation of what it means to be “an IBMer.”
+We still have a long way to go to fully realize these values in our work, our management systems and our behavior. But I think it’s safe to say, after nearly a decade, that we laid the right foundation. I am also convinced that the transformation we have carried out since then was only possible because we first undertook this deeper dive
+of self-discovery.
+The road ahead
+None of these shifts was easy —but that comes with the territory, when you choose to live at the intersection of all of your company’s key constituencies. You must accept —indeed, embrace —the inherent tensions. And you must balance continual forward motion with a clear understanding of what must never change.
+A Letter from the Chairman 7
+
+8
+The result is a fundamentally different IBM than existed
+a decade ago —one that is delivering historic results despite a global economic downturn, even as it more fully exemplifies the company’s century-old character. We have outperformed our industry and the market as a whole, and we did it the hard way—through technology breakthroughs, the creation of client value, and driving change in how the company operates. That record is something of which we can all be proud.
+The fact that we enter our second century on such a high note is a testament to a unique institution and a remarkable group of people. For nine years, it has been my privilege
+to be the temporary steward of that institution. For 38 years, it has been my even deeper privilege to have worked with those women and men.
+Clearly, 38 years with one company is rare these days. However, there is benefit to developing deep under- standing of an industry and the culture of a company, even if this sort of longevity is not valued as highly in today’s world. I believe such knowledge is what made it possible to transform IBM and position it for the future.
+Both my own experience and the promise of our new CEO give me enormous hope for the decade ahead. Ginni Rometty is a brilliant leader who has also spent her entire career with IBM. I could not be prouder or happier for her, or more optimistic about IBM’s future in her hands.
+This is a fundamentally
+different IBM than existed
+a decade ago—one that is
+delivering historic results despite
+a global economic downturn,
+even as it more fully exemplifies
+the company’s century-old
+character.
+To IBM’s steadfast investors, to our clients, and to the citizens of all the communities where IBMers work to build a smarter planet, please know that you have my deepest thanks. I am confident that our second century together will be even more remarkable than our first.
+Samuel J. Palmisano
+Chairman of the Board
+  

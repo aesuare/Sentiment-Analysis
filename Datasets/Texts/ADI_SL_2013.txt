@@ -1,0 +1,75 @@
+2013 Annual Report
+
+Dear Shareholder,
+In 2013, ADI delivered solid profitability and shareholder returns despite the uncertain macroeconomic environment that transpired. While fiscal year 2013 revenue of $2.6 billion was 2% below the prior year, net income increased by 3% and sales in the second half were 6% higher than the first half, which we believe are positive signs for the year ahead. Net income for fiscal year 2013 totaled $673 million. Diluted earnings per share were $2.14, rising slightly from 2012. Cash flow from operations was $912 million, or 35% of revenue; and over $460 million was returned to shareholders, primarily through cash dividends. ADI shareholders earned $1.32 per share in dividends, a 15% increase over the prior year, and the total shareholder return was 28%.
+
+Strong, Consistent History of Dividend Growth
+$1.40
+
+Cash Dividends Paid Per Share
+22%
+
+15%
+
+$1.20 $1.15
+
+$1.32
+
+$1.00 5% $0.76 5% $0.80 12% $0.84 $0.94
+
+$0.80 25% $0.60 75% $0.56
+
+9% $0.70
+
+$0.40 60% $0.20 $0.20 $0.32
+
+$0.00 FY2004 FY2005 FY2006 FY2007 FY2008 FY2009 FY2010 FY2011 FY2012 FY2013 Percentages are year-over-year growth.
+
+As always, we were guided in 2013 by our long-term strategy to drive superior results through superior innovation. During the year, we sharpened our focus on developing the signal processing systems most critical to our customers, with the highest potential to sustain the returns we expect of our investments. As such, we increased investments in industrial, communications infrastructure, and automotive applications, which together accounted for 85% of our revenue in fiscal year 2013. We also increased investments in the advanced technologies that we believe will secure ADI's leadership position far into the future. These increases were primarily achieved by redirecting resources, enabling us to keep expenses under tight control in the uncertain economic climate.
+
+Focused on Sustainable and Highly Valued Signal Processing Innovation
+$3,500
+
+Revenue ($M)
+$3,000 $2,500 $2,000 $1,500 $1,000 $500 $0 FY2008 FY2009 FY2010 FY2011 FY2012 FY2013 Industrial, Automotive, Communications Infrastructure Pro/Consumer A/V, Imaging, Smartphone, Tablet 74% 75% 78% 81% 83% 85%
+
+26%
+
+25%
+
+22%
+
+19%
+
+17%
+
+15%
+
+ADI's enduring stability stems from a 71% of Revenue from Products with diverse business and a strong technology #1 Market Share Position foundation grounded by exceptionally % of FY2013 d 71 Rev talented employees who thrive on creating ine en b m u o innovative solutions to our customers' Market Share in Market Share in toughest challenges. Technical innovation High Performance #1 #1 Converters Amplifiers/RF Converters Amplifiers is deeply rooted in our culture and is our primary strategy for not only maintaining leading market share in converters and Other Analog and high performance amplifiers, which MEMS together represented 71% of revenue in fiscal year 2013, but also advancing our Power DSP portfolio of complementary technologies. Importantly, we are also increasingly Source: ADI FY2013 financial reports; industry analyst extending our culture of innovation beyond market share report May 2013. circuit design and analog manufacturing process technology into architecting signal processing systems to meet our customers' need for more complete solutions. These newest areas of innovation are creating higher barriers to entry for competitors and strengthening the ADI brand among customers, partners, and industry experts.
+C
+
+During 2013, ADI was recognized by many of our customers for providing the industry-leading technology, quality and reliability that make high performance, mission critical applications possible. In one notable example, a world leading provider of telecommunications equipment singled out ADI as its "Supplier of the Year," citing ADI's cutting edge technology and consistent and excellent support at every level, and describing ADI as the very definition of what it means to be a collaborative supplier. In 2013, ADI's EngineerZone® technical support community received top honors from Forrester Research, Inc., a global research and advisory firm, for outstanding use of social media to engage customers in technical design support, thereby increasing customer loyalty and value. In the EngineerZone® community, our technical support expertise is accessible to engineers all over the world, all the time, and in an interactive way. And Thomson-Reuters included ADI for the third consecutive year in its prestigious list of the Top 100 Global Innovators. In every aspect of our business, by focusing on driving superior results through superior innovation, we are uncovering new sources of growth and value creation, and proving that the cycle of innovation that has fueled the ADI franchise for decades will continue to fuel our prosperity in the future. The cycle begins by attracting and nurturing the best engineering minds who create superior innovations with high value for customers and high profits for ADI. Strong profitability and financial performance then affords us the flexibility and stability, regardless of the cyclicality of our industry, to continue the cycle by attracting and nurturing top talent and building superior innovations.
+
+Improving Margins Reflect Value of Innovation and Operational Efficiency Gains
+70% 68% 66% 64% 62% 60% 58% 56% 54% 52% 50% FY2008 FY2009 FY2010 FY2011 FY2012 FY2013 40% 37% 34% 31% 28%
+
+e
+
+Gross Margin (% of Revenue)
+
+25% 22% 19% 16% 13% 10%
+
+Operating Margin (% of Revenue)
+
+FY2008 FY2009 FY2010 FY2011 FY2012 FY2013
+
+Excluding special charges; product revenue from continuing operations.
+
+Few worked harder than the late Jerry Fishman to nurture the culture of innovation that Ray Stata founded at ADI. Jerry led ADI as CEO from 1996 to 2013, was an employee since 1974, and was my mentor and friend for many years. I know that long into the future I will continue to draw deeply on the learning that he imparted to me as I challenge our people to reach ever increasing levels of performance. This year we made steady progress executing against our long-term plan to grow sales, earn extraordinary profits, and use our cash generation to increase shareholder returns. Tremendous opportunities lie ahead for our great company. ADI provides an essential technology portfolio that enables pervasive sensing, automation, and communication across myriad applications that can improve how businesses operate and people live. Our brand is stronger than ever and our capabilities more complete and more focused, providing us a great platform on which to keep building. I firmly believe that our best is yet to come. Sincerely,
+
+v
+Vincent Roche President and CEO Analog Devices, Inc.
+
+This letter may be deemed to contain forward looking statements intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. These forward looking statements include, among other things, our statements regarding expected growth and performance of our business and the markets and customers we serve, expected R&D investment levels and returns, technology development and achievements, and product development efforts, expected profitability and margins, and other financial results, expected cash generation and shareholder returns, and expected executive performance and employee retention, that are based on our current expectations, beliefs, assumptions, estimates, forecasts, and projections about our business and the markets in which Analog Devices operates. The statements contained in this letter are not guarantees of future performance, are inherently uncertain, involve certain risks, uncertainties, and assumptions that are difficult to predict, and do not give effect to the potential impact of any mergers, acquisitions, divestitures, or business combinations that may be announced or closed after the date hereof. Therefore, actual outcomes and results may differ materially from what is expressed in such forward looking statements, and such statements should not be relied upon as representing Analog Devices' expectations or beliefs as of any date subsequent to the date of this letter. We do not undertake any obligation to update forward looking statements made by us. Important factors that may affect future operating results include: any faltering in the global economic conditions or the stability of credit and financial markets, erosion of consumer confidence and declines in customer demand or spending, unavailability of raw materials, services, supplies, or manufacturing capacity, changes in geographic, product, or customer mix, adverse results in litigation matters, and other risk factors described in our most recent filings with the Securities and Exchange Commission. Our results of operations for the periods presented in this letter are not necessarily indicative of our results for any future periods. Any projections in this letter are based on limited information currently available to Analog Devices, which is subject to change. Although any such projections and the factors influencing them will likely change, we will not necessarily update the information, as we will only provide guidance at certain points during the year. Such information speaks only as of the original issuance date of this letter.
+
+

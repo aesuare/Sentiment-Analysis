@@ -1,0 +1,83 @@
+  TO OUR STOCKHOLDERS, CUSTOMERS, AND EMPLOYEES
+       Timothy E. Guertin, President and CEO
+   Varian Medical Systems 2006 Annual Report | 1
+Fiscal year 2006 was a period of major
+transition and continued rapid growth
+for Varian Medical Systems. With the
+retirement of Dick Levy, my boss and
+friend for more than 25 years, I assumed
+the responsibilities of CEO. The markets
+accelerated their shift toward new tech-
+nology and products for image-guided radiotherapy, radiosur- gery, filmless X-ray imaging, and automated cargo screening. We began targeting new sectors and expanding production capacity in new geographies, and we launched several enter- prise-wide initiatives to better support a global business that has tripled in size since our emergence as a freestanding medical business more than seven years ago.
+GOOD NUMBERS
+Comparing fiscal year 2006 totals with corresponding totals for the preceding year, net orders rose 14 percent to $1.8 billion and revenues increased 16 percent to $1.6 billion. Our year- end backlog climbed 19 percent to $1.4 billion, setting up the company for another year of solid growth in fiscal year 2007. Annual operating earnings, after excluding $41 million in options expensing from our reported total of $309 million, rose 15 percent to $350 million. Reported net earnings were $245 million. Non-GAAP net earnings rose 22 percent to
+$251 million, excluding options expensing, discrete tax items, and a discontinued operation.1
+We ended the year with $366 million in cash and market- able securities and $57 million in total debt, continuing our tradition of maintaining a strong and conservative balance sheet that can support continuing stock buybacks and strategic acquisitions. Stockholder equity at the end of the year was $797 million, up 21 percent from the same point in the previous year.
+The company’s annual cash flow from operations was a healthy $202 million.
+We spent $271 million during the year
+to repurchase 5.4 million shares of stock, helping to reduce average diluted shares outstanding by more than 2 million shares.
+We are gratified by the numbers. They reflect our success at developing and commercializing compelling technology and products that give our customers new capabilities.
+BETTER MEDICINE
+Varian’s On-Board Imager® device for image-guided radio- therapy (IGRT) and image-guided radiosurgery (IGRS) is a
+hit with customers around the world, and it was among the
+top 100 new product designs recognized by R&D magazine in 2006. This X-ray imaging accessory for improving the precision and effectiveness of treatments was included in more than
+60 percent of the orders we received during the year for our high-energy Clinac® and Trilogy® linear accelerators. As of the end of the fiscal year, we had completed or initiated more than 325 On-Board Imager installations, leaving an installed base of more than 4,300 machines that can be replaced or upgraded with this new technology. IGRT adoption is occurring three times faster than what we experienced with the introduction
+of our highly successful products for intensity-modulated radi- ation therapy (IMRT) earlier this decade. The surprising strong demand for On-Board Imager devices led to unexpectedly high product ramp-up costs and an approximately one-point decline in our annual gross margin, which we hope will recover in
+the coming year. We have shortened On-Board Imager instal- lation times and created an additional growth opportunity for upgrades on newer accelerators in clinics that are eager to initiate IGRT programs.
+Our year-end backlog climbed 19 percent to $1.4 billion, setting up the company for another year of solid growth.
+1.Reported net earnings of $245 million include an expense, net of taxes, of $27 million for stock options, a $19 million gain from discrete tax items, and a $2 million gain from a discontinued operation, which, when excluded, results in non-GAAP net earnings of $251 million.
+   
+     2 | Varian Medical Systems 2006 Annual Report
+ It is clear that with the
+On-Board Imager as well as our
+respiratory gating product, new
+accelerators, and enhancements in
+our software products for treatment
+planning, image processing, and
+information management, we are
+empowering clinics to change medicine. Doctors, including radiation oncologists and surgeons, are now using our prod- ucts for image-guided techniques to control early-stage meta- static cancers, treat nonmalignant neurological conditions, and achieve promising results in previously untreatable cases. For example, the MIMA Cancer Center in Melbourne, Florida, has achieved an astounding two-year, 100 percent survival
+rate using gating technology among a small group of elderly patients with advanced non–small cell lung cancer. At the University of California, San Diego, children are being treated successfully for brain tumors with greater comfort and in less than half the time needed with conventional techniques. In another successful case, doctors detected, diagnosed, planned, and treated a brain lesion in one day. Image guidance is being used to treat every type of cancer normally treated with radio- therapy, and many doctors expect that they will be using it on all of their patients. New 3D imaging and real-time treatment planning capabilities for gynecological and prostate treatments contributed to strong growth in our brachytherapy business, which also benefited from improved global sales coverage.
+FAST, FILMLESS X-RAY IMAGING
+Demand for filmless X-ray systems capable of faster, more cost- efficient medical diagnostics and procedures, dental imaging, veterinary care, and industrial inspection led to another year
+of rapid growth in our line of PaxScan® flat-panel digital image detectors. Net orders and shipments were about twice the totals for the previous year. This product line represented about a quarter of the $242 million in annual net orders recorded by
+the X-Ray Products business. It has the potential to become larger than the X-ray tube portion of this busi- ness in less than five years. We have excellent relationships with manu- facturers of X-ray imaging systems, a technological lead, and manufac-
+turing know-how that should make us a leader in a potential $2 billion detector market.
+SAFER PORTS
+Our small Security and Inspection Products business grew during the year, with the help of increased orders for our cargo screening products in U.S. ports. Dual-energy screening tech- nology developed by Varian is enabling rapid and automatic detection of suspicious materials in cargo containers, and we are working with cargo screening systems manufacturers to deploy this capability on a broad scale. While it has been slow in developing, this business is profitable, and we continue to see strong growth potential for this technology in seaports, airports, and at border crossings around the globe.
+A $3 BILLION OPPORTUNITY
+Varian’s product and technology portfolio comprises an oppor- tunity to grow our company into a $3 billion enterprise over the next five years. To achieve this, we are increasing our research and development investment at the rate of our revenue growth and adding production capacity.
+The company is building a new 125,000-square-foot plant in Beijing to manufacture linear accelerators for treating cancer patients in China, and we expect this plant to be in operation in fiscal year 2007. We completed a 72,000-square-foot addi- tion at our Salt Lake City facility for stepping up production of our digital detectors for filmless X-ray imaging; and the dpiX consortium, in which we are a partner, is building a fabrica- tion facility in Colorado Springs for producing the transistor
+Varian’s product and technology portfolio comprises an opportunity to grow our company into a
+$3 billion enterprise over the next five years.
+
+    Varian Medical Systems 2006 Annual Report | 3
+ arrays used in our detectors. We also acquired a 12,200-square- foot building, giving the company some 200,000 square feet of space in Las Vegas for education, training, and service as well as production of our cargo screening products. Including other smaller additions, the company has added 300,000 square feet of space for operations. We also initiated programs to enhance information technology, regulatory, and quality systems in order to support a multibillion-dollar enterprise.
+Retirements prompted the company to make two addi- tions to our management team. Tai-Yun Chen, a 23-year veteran of Varian, was named vice president and controller, and Jessica Denecour joined Varian as vice president and chief informa- tion officer. As a consequence of these and earlier appointments, we have built a management team that can support our growth strategies in the years ahead.
+KEYS TO OUR SUCCESS
+It is our people that make Varian Medical Systems a great company. We all value financial success and helping to solve technological problems, but Varian’s people really are driven by the desire to help other people. That brings out the best in all of us. It is the secret of our success and a constant inspiration to me.
+Given our financial resources, our broad technology and product portfolio, and most importantly, the values and talent of our people, we have tremendous potential to continue to make meaningful improvements in the lives of millions of people around the world. I could not be more optimistic about the future of our company. We thank you for your support
+in fiscal year 2006, and we look forward to sharing another successful year with you in 2007.
+Sincerely yours,
+PHOTO FROM LEFT TO RIGHT
+Timothy E. Guertin
+President and Chief Executive Officer
+Dow R. Wilson
+Corporate Executive Vice President; President, Oncology Systems
+Elisha W. Finney
+Corporate Senior Vice President, Chief Financial Officer
+Franco N. Palomba
+Corporate Vice President, Treasurer
+John W. Kuo
+Corporate Vice President, General Counsel, and Corporate Secretary
+J. A. (Andy) Thorson (also pictured second from right on page 3) Vice President, Business Development
+George A. Zdasiuk
+Corporate Vice President; Director, Ginzton Technology Center; and Chief Technology Officer
+Wendy S. Reitherman
+Vice President, Human Resources
+Robert H. Kluge
+Corporate Vice President; President, X-Ray Products
+Lester Boeh
+Vice President; General Manager, Surgical Sciences and Security & Inspection Products
+Tai-Yun Chen
+Corporate Vice President, Controller
+  Tim Guertin

@@ -1,0 +1,50 @@
+ Marc B. Lautenbach
+President and
+Chief Executive Officer
+ Fellow shareholders:
+I am honored and excited to report to you as the new president and chief executive officer of Pitney Bowes. I came here because I saw a company with enormous promise and unique strengths. We have not performed to our potential in recent years as disruptive technologies have radically altered traditional modes of communication and commerce. Yet the opportunities remain immense for a company that understands this complex new world, makes the right strategic choices and executes
+with discipline. Given our extraordinary legacy, global customer base and untold capacity for innovation, I am convinced that Pitney Bowes can be that company.
+The evidence is all around me. We have a terrific portfolio of best-in-class technologies, from location intelligence, data quality and international e-commerce—capabilities built on years of investment in research and development. We have more than 1.5 million clients in over 100 countries—a large, diverse and valuable client base. We have a high recurring revenue stream, enviable margins and strong market share in the modern mailing industry that Pitney Bowes helped invent nearly a century ago. Most important, we have fantastic employees eager to contribute and full of good ideas. These are the ingredients for a very successful company.
+Pitney Bowes Annual Report 2012 3
+
+Revenue and income were down in 2012 from a year ago, and our stock price declined as
+a result. It is too early in my tenure to make sweeping judgments about the reasons for this performance. But to borrow a phrase from the world of politics, I am confident there is nothing wrong with Pitney Bowes that cannot be cured by what is right with Pitney Bowes. We control our own destiny.
+Boundless opportunity
+We signed major agreements in 2012 that demonstrate how Pitney Bowes is helping our clients and their customers communicate and transact business in new ways.
+Our software business entered into an agreement with Facebook that puts our geocoding technologies in the hands of one-seventh of the world’s population. Facebook users can now let their friends know their location with greater accuracy whenever and wherever they log in. Facebook is also using our technology to add geographic information to billions of records a month, including instant messages, photos, videos and events.
+Our agreement with Facebook puts our geocoding technologies in the hands of one-seventh of the world’s population.
+Combine this technology with our location-based analytical tools and extensive databases, and mobile marketing becomes much more effective. Mobile advertising revenue is projected to be $24 billion by 2016, with over half of those ads in the U.S. powered by location awareness. Pitney Bowes is well positioned to drive and profit from this trend.
+Our e-commerce business signed an agreement to streamline international sales for
+eBay users, creating a significant and largely untapped market opportunity for our services. Our software instantly calculates each international buyer’s end-to-end costs, including shipping charges, import fees, taxes and insurance. This reduces the hidden costs that
+4 Pitney Bowes Annual Report 2012
+
+We are streamlining international sales for eBay users.
+often spoil the customer experience in cross-border online retailing. We also manage the international shipment of goods, tracking them end-to-end and clearing them through customs faster. We are using this expertise to help dozens of companies, from small merchants to major brands, break down the international barriers to online commerce and cross-border shipping.
+We continue to innovate in our traditional mailing operations for the benefit of businesses
+of all sizes. For large mailers, we have transformed the economics of printing and mailing by reengineering key technologies. For example, a bank issuing credit cards for multiple merchants once had to print statements in separate runs, on each merchant’s preprinted form. With our technology, jobs can be consolidated and printed together on the same roll of plain white paper. Each merchant’s four-color graphics are printed during a common workflow that saves time, eliminates the need for preprinted forms and allows statements to be presorted by postal zones—and consequently qualifying for postage discounts. Multiply these efficiencies by hundreds of millions of statements a year, and the bank can save millions of dollars. An added bonus—statements can incorporate marketing messages personalized for each merchant’s customers.
+Smaller businesses also have needs we are uniquely equipped to meet. Last year we expanded our pbSmartTM suite of cloud-based services with the launch of pbSmart Mobile. Business owners can build a mobile website in minutes, without having to master any programming software, and start tracking the results of their mobile campaign immediately. Our pbSmartPostageTM service, which prints shipping labels and postage from any computer connected to the cloud, is also gaining traction.
+Other milestones for the year
+Australia Post selected VollyTM, our secure digital delivery service, to power its own digital mail service. Once launched, the service will enable businesses in Australia to offer their customers a new secure online delivery option for bills, statements and other material. For consumers, it will reduce the clutter of physical mail while making it easy to pay bills from a single, secure online location. For businesses, the service provides a secure digital channel that allows them to promote their own brand at a fraction of the cost of printing and delivering physical mail.
+Pitney Bowes Annual Report 2012 5
+
+We’re working on ways to help marketers balance consumer demand for special offers with their concerns about privacy.
+Our management services group continues to move higher up the value chain with the launch of our print outsourcing business. This has the potential to save clients up to
+30 percent of their annual print spend, and improve quality by bringing exceptional rigor and extensive industry knowledge to a typically fragmented process. Large companies and advertising agencies can spend millions of dollars a year printing everything from stationery to marketing material to financial statements, yet they often do not have a handle on their total costs. Our experts reengineer the entire process, centralizing print expenditures, qualifying vendors, ensuring environmental compliance and fine-tuning design specifications. We then leverage our buying power on behalf of our clients.
+Technologies that set us apart
+We should not overlook the extraordinary technology that powers the postage meter and underlies our long global leadership in data security. Our ability to securely move billions of dollars in postage funds across vast networks has broad applicability at a time when people are increasingly concerned about privacy and security. Pitney Bowes has been responsible for virtually every major advance in the underlying technology since 1920—from today’s Internet postage to a host of emerging applications.
+Our cryptographic technology is built into our e-commerce and pbSmartPostageTM offerings, and our expertise in architecting secure systems was essential in the creation of the
+VollyTM digital delivery service. Our technology also informs our new pbSecureTM evidencing platform for verifying the authenticity of diplomas, employment records and other sensitive documents in business and academia. Our scientists are also working on ways to couple our data security technologies with our location intelligence applications to help marketers find the best way to balance their customers’ desire for personalized offers with their concerns about privacy.
+This is only a sampling of the strides Pitney Bowes made across disparate parts of its business in 2012. Our opportunities are real. Our challenge is to bring greater focus
+and discipline to the task of determining where and how we invest in them. I have been impressed with the technological expertise of our R&D team, who work closely with clients to gain the insights that will drive future innovations. We are already employing agile development practices to accelerate our time to market and reduce the risks inherent in entering new markets. We will do more.
+6 Pitney Bowes Annual Report 2012
+
+Guiding principles
+I believe that great companies are guided by simple principles that are clearly understood and rigorously followed. Our guiding principle is clear: we must develop a client-led culture. We are in business to serve our clients, and to do that effectively, we need to know them intimately and learn to think like them. Driving value for clients leads to driving value for shareholders. We must compete to win, and the fundamental measure of winning is sales. We may have the right ingredients, but they do not have value until clients buy them.
+We have work to do. I am confident we will do it.
+In the short time I have been here, I have spoken with employees across the organization. I am struck by their passionate engagement in our common destiny—and their readiness for the task of turning this venerable company into a great global leader for the coming generation.
+I want to express a special appreciation to my predecessor, Murray D. Martin, who retired in 2013 after more than 25 years of leadership. Murray has always been passionate about Pitney Bowes and dedicated his professional life to our company. For that my colleagues and I are very grateful.
+I look forward to working with my new colleagues to build on our company’s great legacy.
+Marc B. Lautenbach
+President and
+Chief Executive Officer
+ Pitney Bowes Annual Report 2012 7

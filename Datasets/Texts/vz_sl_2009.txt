@@ -1,0 +1,108 @@
+                            Chairman’s Letter to Shareowners
+Dear Shareowner,
+Verizon is now ten years old. In this first decade of the 21st century, we have transformed our historic franchise around the demands of a new industry and a new kind of customer. We have built our company around our belief that the better the network, the better the performance of everything that rides on it, and we have pushed ourselves to release the innovative power of our technology to customers. Our people are animated by their passion for this industry and our conviction that what we do is important to society. We’ve had to sharpen our reflexes and quicken our pace to compete at Internet speed – a challenge we face anew every day – but overall, Verizon’s first ten years have proven our financial strength, capacity for growth and ability to adapt to a rapidly changing environment.
+The past year has put those qualities to the test. Competition has intensified and the economy has stagnated, taking their toll on our growth, profitability and stock price. Clearly, we have more work to do to align our performance with the expectations of our investors and ourselves. Despite these challenges, though, our 2009 results demonstrate our staying power and launch us into 2010 from a position of strength and confidence.
+Verizon’s strong cash flows, solid balance sheet and modest revenue growth carried us through the most severe recession in recent memory. Pro forma adjusted revenues grew 1.5 percent to
+$107.8 billion in 2009, while U.S. Gross Domestic Product fell by 2.4 percent. Operating cash flow was $31.6 billion, up 14.5 percent, and free cash flow was 40.7 percent higher in 2009 than 2008.
+VERIZON COMMUNICATIONS INC. 2009 ANNUAL REPORT
+   Ivan Seidenberg
+Chairman and Chief Executive Officer
+  1
+
+ Wireless Revenue (billions)
+$49.3 $43.9
+$62.1
+In September, our Board of Directors approved a 3.3 percent increase in our dividend, the third such increase in as many years. At a time when private capital investments in the U.S. are at near- historic lows, Verizon invested approximately $17 billion in infrastructure in 2009, which is critical to our maintaining the network superiority that is the essence of our brand. Thanks to these investments, we continued to add customers and grow revenues in broadband, wireless and strategic business services.
+Our 2009 performance shows the effects of the prolonged economic downturn. Adjusted earnings before interest, taxes and depreciation declined by 0.9 percent for 2009 on a pro forma basis, to $35.7 billion, and adjusted earnings per share from continuing operations for the year declined by 5.5 percent, to $2.40 per share. While our strategic areas performed well, overall growth slowed as persistent unemployment and delayed investment on the part of business customers dampened volumes in long-distance and wholesale.
+Still, with our stable revenues, strong balance sheet and good fundamentals, we are weathering the economic storm reasonably well and continuing to press forward with our growth agenda.
+We made progress on several strategic initiatives to realign our assets around broadband and wireless. Early in 2009 we completed our acquisition of Alltel, making us the largest wireless company in the U.S. as measured by the total number of customers and revenues. We reached an agreement to spin off some rural telephone assets to Frontier, a transaction we expect to complete in the first half of 2010. And in keeping with our belief in high-quality networks, we continued to build an advanced wireless and broadband infrastructure and deliver the innovative products, services and applications that are driving our industry and transforming our society.
+Verizon Wireless performed strongly again in 2009. We added 5.9 million customers to end the year with 91.2 million customers, and we earned $62.1 billion in revenues, up 6.1 percent. (These numbers are pro forma adjusted to reflect the Alltel acquisition.) Consumer Reports ranked us #1 in customer satisfaction across all the markets they surveyed, a testament to our continued focus on network excellence and customer service.
+Data revenues grew 31 percent in 2009 on a pro forma basis and now account for almost 30 percent of service revenues, and with the proliferation of smart phones we have tremendous headroom for growth. Looking ahead, we see wireless data traffic more than doubling every year and mobile connections increasingly being embedded into the physical world, built into everything we touch. Verizon Wireless currently operates the nation’s largest and most reliable third- generation wireless data network, and we are moving forward with plans for a nationwide fourth-generation network based on a global standard called LTE, for “Long-Term Evolution.” This
+07 08 09
+Wireless Retail Customers (millions)
+87.5 70.0
+63.7
+2
+07 08 09
+In Their Own Words
+On financial performance:
+“I believe that our results show good operating and financial discipline throughout the business. Our strong focus on managing costs and capital spending allowed us to maximize free cash flow and return cash to shareowners. Our Board’s decision to approve a dividend increase for the third consecutive year demonstrates confidence in the strength of our cash flow and balance sheet, as well as our commitment to reward shareowners while continuing to invest for long-term growth.”
+- John Killian, EVP and CFO – Verizon
+On wireless transformation:
+“Verizon’s fourth-generation (4G) network technology will dramatically enhance wireless data speeds, opening a new world of devices, content and applications that will ride on it. Expect to see mobile video-sharing, conferencing and streaming all in higher definition than is possible today. There will be an explosion of consumer electronics embedded with 4G. Moreover, 4G will have the capacity to enable a whole new wireless grid of machine-to-machine connections. The growth potential is extraordinary.”
+- Lowell McAdam, EVP and President and CEO – Verizon Wireless
+
+                            Wireless
+Data Revenue (billions)
+$16.0
+$10.7 $7.4
+  07 08 09
+new LTE network will be up to 10 times faster and much more cost-efficient than today’s wireless technology. Since acquiring prime spectrum for this build-out, we have selected technology partners and conducted extensive tests of LTE in Boston and Seattle. We will begin to offer commercial service later in 2010 and are in a great position to extend our leadership in the next phase of growth in the wireless industry.
+We are also priming the innovation pump for the coming explosion of smart devices, multimedia applications and machine-to-machine communications. We started our own innovation lab, opened our network to outside developers, and are working with partners such as Qualcomm, Skype and Google to create new devices, applications and services, and we have joined with China Mobile, Softbank Japan and Vodafone to create a Joint Innovation Laboratory to foster application development worldwide. We expanded our portfolio of smart phones and devices, one of which – the Motorola Droid smart phone, based on Google’s Android operating system – topped Time’s list of the best new gadgets of 2009.
+In broadband, the Internet is evolving from a text-based to a visual medium. We expect video will grow from about half of Internet traffic today to as much as 75 percent over the next five years. In anticipation of this trend, Verizon has spent several years redefining our consumer telecom business around broadband and video by deploying an all-fiber network called FiOS that takes high-capacity fiber all the way to customers’ homes – giving us the optimal platform for delivering the high-definition, interactive digital experiences that customers have been waiting for.
+Five years into this project, we now pass 15.4 million homes with this intelligent, ultra- broadband network – including major markets such as New York, Washington, D.C., Philadelphia and Pittsburgh – and we’re well on our way to our target of about 17 million. FiOS revenues grew 56.5 percent to $5.5 billion in 2009, which drove a 1.6 percent growth in consumer revenues – extremely important as the traditional voice business is declining. We ended 2009 with 3.4 million FiOS Internet and 2.9 million FiOS TV customers, and surveys by J.D. Power and PCMag.com consistently rate FiOS as the #1 service in the marketplace.
+To further differentiate our fiber platform, we are also introducing a steady stream of new features such as photo-sharing, Facebook, Twitter and Caller ID on the FiOS TV screen and are working with developers to encourage innovation for the home environment. As this ecosystem of applications evolves, Verizon is well positioned to make the fiber-connected smart home a hub for managing every phase of our customers’ digital lives – from media and entertainment to energy management to home security, healthcare and more.
+Not surprisingly, the economy took a toll on our business revenues in 2009. However, revenues from strategic business services such as Internet Protocol (IP), consulting and managed services
+VERIZON COMMUNICATIONS INC. 2009 ANNUAL REPORT
+  Wireless Retail Service ARPU
+$51.57 $51.88 $51.00
+   07 08 09
+    On network superiority:
+“Our investment in intelligent network technology will support the growth
+of the Internet well into the 21st century. The incredible speed and bandwidth in our FiOS and global IP networks uniquely position Verizon to handle
+the explosion of Internet and video traffic we’ll see in the years ahead. The advanced services and solutions we’re able to offer on these intelligent networks will enhance lives and empower businesses.”
+- Fran Shammo, President – Verizon Telecom & Business
+On operational efficiency:
+“We remain focused on transforming operations and driving process efficiencies to reduce costs, improve service and enable growth. We’re using our scale to standardize network, supply chain and major transactional functions to unify the customer experience across our global operations. Last year we expanded our FiOS and global IP networks in key growth markets; reduced our real
+estate, supply chain and finance operational expenses; and expanded our Environmental Sustainability Project to make our operations even more efficient.”
+- Virginia Ruesterholz, President – Verizon Services Operations
+3
+ 
+                 FiOS Internet Customers (millions)
+3.4 2.5
+1.5
+  07 08 09
+grew by 4.3 percent. We continued to receive high marks for quality and innovation from leading industry analysts such as Forrester, the Yankee Group and Gartner, and had numerous significant customer wins such as the London Stock Exchange, Walmart and JetBlue.
+Looking forward, long-term trends in the enterprise space are positive for companies like Verizon that can help business customers use technology to work smarter and adapt to a virtual world. Global Internet traffic is increasing at an annual rate of more than 40 percent. Demand for network-based computing services is on the rise, and global enterprises are increasingly using collaborative technologies such as videoconferencing and social networking to connect their mobile workforces and make their operations more efficient and environmentally friendly.
+We continue to expand our capacity to address these markets and be the electronic platform of choice for commerce around the globe. Our IP network reaches 2,700 cities in 159 countries. We operate 200 data centers around the world. We have turned up high-speed undersea cables to link the world’s major markets and have deployed a highly secure mesh architecture to provide the reliability and redundancy these networks require. We are upgrading our global backbone networks with the first-ever commercial deployment of 100 gigabit per second speeds – giving us a big head start in handling the explosion of video traffic in the years ahead. We entered the burgeoning cloud computing market with a product called “computing-as-a-service” and enhanced our portfolio of managed services to deliver the complete range of communication, information technology, security and business solutions to business and government customers around the world. We are also putting our decades of network management experience to work by developing our vertical capabilities in high-growth segments like healthcare, smart grids, financial services and security.
+To summarize, our 2009 results demonstrated our operational excellence and financial strength. Our challenge is to make our stock price reflect our belief in Verizon’s value and relevance in an increasingly network-centric world.
+The global economy is experiencing one of the most wrenching periods in memory, and as of this writing we are not sure when employment and growth will return to normal levels. But throughout this difficult period, Verizon has stayed the course, choosing to focus on those things we believe build sustainable, long-term value: maintaining a strong balance sheet and dividend; transforming our networks and product sets around the markets of the future; strengthening our brand and culture; and leveraging a depth of expertise in serving customers that few companies can match.
+While we’re disappointed with the performance of our stock in 2009, the strength of Verizon remains rock solid.
+ FiOS TV Customers (millions)
+2.9 1.9
+0.9
+   07 08 09
+3-Year Total Return
+Verizon
+S&P 500
+  40%
+0%
+-40%
+4.0% -16.0%
+            -80%
+ 4
+12/31/06
+6/30/07 12/31/07
+6/30/08 12/31/08
+6/30/09 12/31/09
+ 
+                                Verizon Wireline Strategic Services Revenue
+(billions)
+$6.3 $5.2
+$6.0
+  07 08 09
+By remaining true to our core strategies and beliefs, we have entered 2010 in a good position to benefit as the economy rebounds. Of course, even as the economy returns to “normal,” the larger forces transforming our industry – technology change, competition, globalization and changing customer behaviors – mean we’ll never return to an old definition of “normal” again. We know we need to change the way we work to reflect these new realities. That’s why we are acting aggressively to reduce our cost structure and improve productivity by reorganizing our wireline business, reducing our force and using our technology and global scale to drive efficiencies throughout our business.
+We remain as confident as ever in the underlying value of what we’ve built, and our investors can be assured that we are taking every action in our power to deliver on that promise and see Verizon’s value reflected in our stock.
+I would like to make special mention of two Verizon leaders who retired in 2009. From our retired chief financial officer, Doreen Toben, we inherit a record of financial discipline, a strong balance sheet and a passion for execution. Chief Operating Officer Denny Strigl, who retired last December with 41 years of service, is truly one of the legendary figures of our industry. He built Verizon Wireless into one of the most amazing growth companies in this or any industry. His work ethic and high standards inspired generations of Verizon leaders and helped create a culture of performance that is his lasting legacy to our company. All shareowners owe both these extraordinary leaders a debt of thanks.
+As always, I am grateful to our Board of Directors for their stewardship and leadership in supporting the investments and strategies required for our long-term success. I also wish to thank our employees for their efforts in a tough year. Once again, they have proven to be a force for good in their communities and express our values in every interaction with customers. Whether it’s digging out from historic snowstorms on the East Coast, springing into action with donations of time and money after the earthquake in Haiti or simply doing the work, day in and day out, of maintaining our customers’ vital human connections, our employees continue to demonstrate the commitment to a higher purpose that characterizes all great companies.
+In fact, if there’s a silver lining to the challenging times we’re living through, it’s that the value of what we do has never been more apparent. In the face of a global recession, economies all over the world are looking for ways to become smarter, more productive and more competitive. The key to a smart economy is smart technology that can transform industries and change society. Our industry is building the smart networks that will be the platform for growth, not just for us but for America and the world – and Verizon is in the very center of this transformation, as we reinvent ourselves around mobility, broadband and global connectivity.
+That’s why I’ve never been more convinced about the future of our company.
+There’s no question in my mind that Verizon is headed in the right direction. The challenge for us in 2010 is to run faster. You can be assured that everyone at Verizon is approaching that challenge with confidence in what we do, pride in our accomplishments and a determination to extend the record of excellence we have built in the first decade of the 21st century into the next.
+Ivan Seidenberg
+Chairman and Chief Executive Officer
+ Capital Expenditures
+(billions)
+$17.5 $17.2 $17.0
+   07 08 09
+VERIZON COMMUNICATIONS INC. 2009 ANNUAL REPORT
+     5

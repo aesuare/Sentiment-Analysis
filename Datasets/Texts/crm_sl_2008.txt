@@ -1,0 +1,42 @@
+
+sales orce.com@
+Success On Demand.'"
+
+
+
+
+Fellow stockholders,
+
+Fiscal 2008 was a remarkable year for salesforce.com, and I'm pleased to be able to share some of our achievements in this year's annual report.
+
+Adoption of our industry-leading software-as-a-service (SaaS) solutions continued to achieve record new levels in fiscal 2008. For the full fiscal year, we reported revenue of
+$748.7 million, an increase of 51 % from fiscal 2007. Fueling this growth was the addition of more than 11,000 net new customers. We're now creating success for roughly 1.1 million subscribers at approximately  41,000 customers of all sizes, in virtually every industry, across the globe. And that success reached record new scale in fiscal 2008 with our largest deployment now exceeding 60,000 subscribers. In all, we now have 7 customers with more than 10,000 subscribers and 86 with more than 1,000 subscribers . It 's further evidence of the changing software landscape we ' ve been describing the past 9 years .
+
+While building capacity to continue our market leadership remained a priority during the year, we also delivered impressive operating results. Fully diluted GAAP EPS rose to
+15 cents per share, and the company generated more than $200 million in operating cash. Our balance sheet now includes approximately $670 million of cash and marketable securities, and more than $480 million in deferred revenue. This positions us well for
+the year ahead.
+
+Our hardware and software infrastructure continued to set the industry standard for reliability and transparency. That infrastructure delivered more than 29 billion transactions during fiscal 2008, more than double the year prior. There 's no better indicator of the value we're creating with our customers than this growing usage . And as always, our real-time performance record is there for everyone to see at trust.salesforce.com.
+
+And our customers and partners are innovating like never before. Our global developer ecosystem now totals more than 60,000 and that community has created more than 8 million database customizations. In addition, the AppExchange community now boasts more than 450 ISV partners that together with salesforce.com have created more than 800 applications.
+
+Powering this incredible innovation is our Force.com platform-as-a-service (PaaS), which we announced at Dreamforce in September. The centerpiece of that announcement was Visualforce, which allows developers to create any user interface on demand. And in
+January of 2008, we announced our Cloud Computing Architecture, featuring development
+as a service-a set of powerful technologies that enable developers around the world to create, collaborate, test, deploy, and run applications completely on demand. Taken together, these announcements dramatically expand the potential of software-as-a-service applications. You can find more information about our platform-as-a-service at www.force.com.
+
+We also added two incredible new applications to the world's most popular portfolio of SaaS applications. Salesforce Content promises to do for content management what our
+award-winning CRM application did for that field. Salesforce Content makes it as easy to find your corporate documents and presentations as it is to find a video on YouTube. Salesforce Ideas has started a revolution in the way companies engage their communities and harness their most innovative ideas. Through Salesforce-powered sites like Dell's Ideastorm and Starbucks' mystarbucksidea.com, customers can contribute suggestions, comment and vote
+on the best ideas.
+
+Our executive management team also got stronger during the year with two powerful new additions. Polly Sumner joins my direct reports as President, Platform, Alliances, and Services. Graham Smith succeeds Steve Cakebread as our Chief Financial Officer, who is taking on the new role of President and Chief Strategy Officer.
+
+I hope you'll learn more about salesforce.com in the following pages. But I encourage all of our stockholders to join us at one of our events to experience the energy and excitement
+of our community firsthand. Whether it's our Dreamforce Global Gathering, a local Success Tour, or our new global developer road show, Tour de Force, you'll love connecting with our customers and partners.
+
+To close, I'd like to thank all of our customers, partners and employees across the globe for making 2008 our most successful year ever. Together, we're transforming an industry and ushering in a new era that can only be described as the End of Software.
+
+
+Aloha,
+ 
+Marc Benioff
+Chairman and Chief Executive Officer

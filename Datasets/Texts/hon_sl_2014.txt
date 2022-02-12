@@ -1,0 +1,70 @@
+Shareowner Letter—2015
+We had another very good performance in another “weakish” year in the global economy. There has been a string of them. We grew sales 4% to $40.5 billion and grew earnings per share 12% to $5.56.* The dividend was raised 15% to $2.07 per share. And importantly, we continued seed planting for new products, services, geographies, technologies, and process improvements. In addition to doing well, we also invested to ensure we have a good future.
+Initial Five Year Plan
+We completed the last year of our initial five-year plan established in March 2010 with flying colors.
+ Sales
+Margin Rate
+  $40.5 $30.0
+13.3%
+$41-45
+17.0%
+16-18%
+         2009 2014* Actual 2014 Target
+2009 2014* Actual 2014 Target
+Despite a tougher environment than expected, we about touched the low end of the sales number (and would have if we hadn’t sold Friction Materials, which was a smart thing to do) and we were well within the margin rate range forecasted five years ago. Not bad given how many proclaimed the original plan “ambitious and aspirational, so what do you really think you will do?”
+That success led us to development of our next five year plan promising double digit earnings growth over the next five years. Our commitment at the March 5, 2014 Investor Day is shown below.
+$39.1
+2013
+2014* 2018 Target
+Sales $40.5
+$46-51
+Segment Margin Rate 18.5-20%
+16.3% 17.0%
+2013 2014* 2018 Target
+       * Sales, V% exclude 4Q14 $184M OEM Incentives; EPS, V% exclude pension mark-to-market adjustment
+
+We also committed to growing our dividend faster than earnings (increasing the payout ratio). Additionally, we said we have a growing cash position we could deploy to get an additional $1.00 of earnings per share in 2018. And, we assumed a continued “weakish” but growing global economy. A pretty darned good commitment overall.
+2015
+As we embark on the first year of this plan, turmoil abounds, as usual it seems. Lower oil prices, a strengthening dollar, and potential exogenous geographical events all give cause for concern. There is not much we can do to plan for the exogenous event. When it comes to oil price, I’d have to say that for the first time in five years I’m more bullish than economic forecasts because of it. For the last four years we’ve been more negative at the outset of the year and that’s been a good call. I don’t know how we got ourselves to the point where we think lower oil prices are a bad thing. Today, there is a huge shift in wealth occurring from oil producing economies to oil consuming economies like the US, Europe, China, India, and Japan where the money will get spent by hundreds of millions of consumers who will see the benefit. And that benefit is as noticeable as a raise or a tax cut. Filling my car used to cost a hundred bucks, now it costs $70. I noticed it. We’ll see if I’m right of course. Either way, we will continue to stay conservative in how we plan the Company because we can’t be sure.
+The strengthening dollar should benefit exports for other regions and reduce inflation risk in the US. While there isn’t a lot we can do in the long term, we did hedge about 80% of our Euro exposure for 2015 in anticipation of that strengthening. We normally don’t hedge translation because I do believe over a 20 year span you’ll be right about 50% of the time. This year it seemed like the high probability outcome was a weakening Euro. We thought it could go to $1.10 so we elected to hedge. At this point it looks like a good call. You never know of course until you actually complete the year. We’ll see.
+Performance Drivers
+To successfully complete our new five year plan we will keep doing more of the same of course because it works. All of our process initiatives and growth initiatives have worked and we will keep doing them... lots of seed planting... and there’s still upside. That focus on making the machinery work better every day (our process) for our employees, customers, and suppliers is fundamental to our Business Model.
+   HON Business Model
+• 5Initiatives/12Behaviors
+• ManagementResourceReview - Rigorous Business Review Process - CEO Interviews Top 200 Roles
+• TrickIsInTheDoing
+- The Machinery Needs To Work Applied
+To
+-GoSlowToGoFast
+- Achieve Two Seemingly Conflicting Things
+• FoundationalTools - Six Sigma, Cycle Time - ERP, CMMI
+• InnovationMindset
+- Breakthrough Ideas Every Year
+• HOSGold:HoneywellOperatingModel • VPDTM:VelocityProductDevelopment • FT: Functional Transformation
+• OEF:OrganizationalEffectiveness
+• HUE:HONUserExperience
+     One Honeywell Culture
+• GreatPositionsInGoodIndustries • AcquisitionsAreIncremental
+- Bolt On Or Consistent Business Model
+• Balance
+- Long / Short Cycle
+- Early / Mid / Late Cycle
+• GlobalizationOpportunity
+    Consistent Business Model That Applies Effectively To Every Honeywell Business ... And Generates Results
+Processes Portfolio
+
+At our Investor Day we introduced three new areas we are developing that will add to that momentum... HOS Gold, Software, and HUE (the Honeywell User Experience).
+HOS Gold is so different from HOS (Honeywell Operating System) I could probably have named it something else. I didn’t because the continuity helps and it does use HOS as a fundamental building block. HOS Gold takes all our best practices from HOS to VPD (Velocity Product Development) to HUE and brings them together to focus on creating a best practice enterprise. We intend to marry big company cost effectiveness (which is real if you do it right... and we are), and technical/functional excellence with small company speed and customer responsiveness.
+We have analytically broken down the company into 74 HOS Gold Enterprises, have vetted the leaders, and completed the X-Matrix for each to develop real breakthrough goals and strategies. As a company gets bigger it becomes too easy to focus on just the mean (the big markets and competitors) and ignore the variation (smaller markets and competitors). We of course don’t want that to happen to us.
+Over the last 13 years we have implemented several different tools for improving processes. We talked about starting something like HOS Gold 13 years ago with the thought that the Honeywell Operating System applied to everything. It did, but I was fearful that because we were in such a state of dysfunction at the beginning that if HOS was applied too broadly it would just die of its own weight because we just weren’t ready for it. To build a base we implemented Six Sigma training, especially Design for Six Sigma, and we started down the long path of ERP implementation.
+We then elected to implement the foundational tools we could build upon later as we evolved in our process maturity and capability. We began with the Honeywell Operating System in factories. Recall it’s really just the Toyota Production System, Honeywellized. It clearly has worked and the culture change required was significant. Velocity Product Development addressed the multifunctional process for developing new products and services. Functional Transformation looked at processes for Finance, Information Technol- ogy, Legal, and Human Resources in effect the Honeywell Operating System for Staff functions.
+We made great progress, so over time other process improvement programs were added. Organization Effectiveness (OEF) to focus on labor costs, Sourcing to look at materials purchasing, Honeywell User Experience, Becoming the Chinese Competitor (BCC) to truly become the local competitor, etc.
+In other words, there was a lot happening as we worked to develop the second driver of our Business Model, making the machinery work better every day for our employees, customers, and suppliers. With so much process work happening, it was getting confusing for employees. We needed a better way to pull it all together and get it all done faster. That led to HOS Gold. We are quite excited about what we think HOS Gold can do to further transform Honeywell.
+
+      The software focus is important because of our 22,000 or so engineers, more than half are already developing software. We develop it at three levels... simulation, product enhancement, and as a business. All these are important. It is for this reason that several years back we embarked on a process to become CMMI (Capability Maturity Model Integration) Level 5 across the company. While those who don’t do it consider it bureaucratic, the fact is it makes you a much better developer of software. We will continue to improve our capability and to develop value adding software business models. Thirty years from now we believe there will be thriving Industrial companies who have software capability and struggling Industrial companies who don’t. We intend to be the former.
+HUE, which puts us in the shoes of the user, the installer, and the maintainer as we develop products and services, seems like basic common sense. It is. But as we all know, in business and the world, common sense is not so common. These tools do a great job in helping us develop products that truly solve customers’ issues as opposed to products we think solve their issues. There is a big difference between those two. The new products developed with HUE tools are fabulously better than the ones that preceded. All of our General Managers have been trained in HUE principles and are employing these tools in all new product development. This is some great stuff.
+Summary
+It is a great time to be a part of Honeywell. What we have accomplished has been very rewarding of course for us, our customers, and our shareowners. What gets us excited though is seeing how much more is possible! We have so much upside, so much more we can do. It’s not like we are having to look for ideas. They are all around us. That’s what makes it exciting to be a part of Honeywell.
+DAVID M. COTE
+Chairman and Chief Executive Officer
+            

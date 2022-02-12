@@ -1,0 +1,70 @@
+ Kenneth D. Cron Interim
+Chief Executive Officer
+Lewis S. Ranieri Chairman of the Board
+Jeff Clarke
+Chief Operating Officer
+Dear Fellow Investor:
+Fiscal 2004 was a year of great significance for Computer Associates (CA). We seized key growth opportunities, despite difficult events that tested us in extraordinary ways. CA followed through on our commitment to help customers run their businesses better, delivered new and expanded software solutions, increased customer satisfaction and improved financial performance.
+As a result, CA is a stronger company than
+we were a year ago, with the team, vision and strategy to move to a new level of performance and success.
+Challenge
+In April 2004, CA’s Audit Committee, chaired by outside Director and former SEC Chief Accountant Walter P. Schuetze, completed its nine-month independent investigation into past revenue recognition practices. As a result, CA restated certain financial data for the fiscal years ended March 31, 2000 and 2001, the full details of which are included in the financial review section of this report.
+The Audit Committee found that, for several years prior to the adoption of CA’s new Business Model in October 2000, CA had a practice of prematurely recognizing revenue on license agreements. This practice involved holding the financial period open after the end of a fiscal quarter in order to recognize revenue on contracts that were not executed by the end of such fiscal quarter. It’s important to note that the “35-day month” practice involved the premature timing of revenue recognition, not the making up of revenues. Thus, the restatement involved the moving of revenue from one quarter to another.
+This 35-day month practice was wrong, and CA’s Board of Directors deeply regrets that this conduct occurred. We have shared with the government evidence of wrongdoing by former CA executives who have since pled guilty to federal crimes. We fully support the government’s efforts to bring all wrongdoers to justice. We are working hard to take all remedial steps necessary to make sure that this conduct does not happen again. The Board is confident that CA’s current financial reporting is sound.
+A New Chapter
+When we stepped into the Chairman and interim Chief Executive Officer (CEO) roles in April, we pledged to work to resolve the government inquiries as quickly as possible, to ensure that CA conducts itself according to the highest standards of financial controls and integrity, and to help the people of CA move forward by empowering them to build on their many achievements.
+We were gratified to find that the high regard we had developed for CA as Board members was well deserved; this is a company with tremendous strength in technology, products and people.
+And we are convinced that we have a leadership team to leverage those strengths.
+In addition to a new Chairman and an interim CEO, CA now has — for the first time in a number of years — a Chief Operating Officer (COO). Jeff Clarke
+ 
+ joined CA in early 2004 as Chief Financial Officer (CFO), following a successful career at Digital, Compaq and HP, to help ensure that the Company would have best-in-class accounting, financial reporting and controls going forward. He assumed responsibilities for day-to-day business operations as COO in April. Until a new CFO is found, Jeff continues to serve in that role as well. We also plan to strengthen our finance department and internal control infrastructure with several new positions, including Chief Compliance Officer.
+In addition, Greg Corgan, a 24-year IBM veteran who joined CA in 2003 as Senior Vice President for North American Sales, was appointed CA’s Executive Vice President for Worldwide Sales.
+Jeff and Greg join a capable and experienced leadership team determined to provide CA
+with the strategic direction we need to continue to set standards of excellence in our software solutions and to enable CA to keep helping customers leverage technology and meet their business challenges.
+Strengthening Our Business
+With industry-leading software solutions developed and distributed by the most talented people in the IT industry, CA was able to continue to grow its business in a challenging IT marketplace.
+Under our unique business model, CA increased fiscal 2004 revenue 8 percent to $3.28 billion and increased new deferred subscription revenue
+22 percent year over year. This brings the total balance of committed future revenue from signed customer contracts to approximately
+$4.3 billion at March 31, 2004.
+We reduced our GAAP loss from continuing operations to $0.06 per share, while reducing our net debt to its lowest level in nearly 10 years. We generated $1.28 billion in cash from continuing operations. Fiscal 2004 was the seventh consecu- tive year CA has generated more than a billion dollars in cash from continuing operations.
+Throughout the year, we invested more than 20 percent of our revenue in research and development, and delivered new software solutions for managing on-demand computing, networked storage, security management and Web services, to name a few. To date, we have more than 280 patents with more than 1,345 patent applications pending worldwide for software solutions designed to help our customers succeed.
+Where We Stand
+CA’s ongoing commitment to excellence in technology and customer service has paid off in many ways.
+According to 2003 reports from various market research firms, CA earned top positions in Security 3A (Administration, Authorization and Authentication) software; software distribution; enterprise system and storage management software; and performance and availability management software.
+The prospects are bright. Industry experts estimate the overall market in which CA competes — system and network management, storage management, security management and life cycle management — could exceed $43 billion by 2007.
+Serving Our Customers
+Building on that success and taking advantage of opportunities depend on our ability to form, sustain and strengthen our relationships with our customers. Thankfully, as part of our culture, we put customers in the center of everything we do.
+It all starts with our FlexSelect LicensingSM model, which allows customers to license our software their way — a welcome level of flexibility for companies that are conservative in their IT expenditures and want to see a quantifiable return on every dollar they invest.
+But FlexSelect is where CA’s customer focus only begins. For instance, in addition to CA’s sales teams, customers are served by CA Technology ServicesTM, which offers customers
+a new level of expertise and support; Customer Advocates, who help ensure that CA hears the customer’s perspective; and — our latest addition — Account Directors. Instead of meeting with multiple CA salespeople, our customers’ senior managers now interact with an Account Director — a single CA representative who will take responsibility for identifying, coordinating and delivering the right CA solutions.
+In fiscal 2005, we will back up our sales teams with CA business specialists, who can offer customers deeper expertise about specific solutions and help them understand the full capabilities of our software.
+Our progress with customers is evident in our most recent annual global customer survey: 77 percent of our customers said they are satisfied with the quality of service they receive from their CA account team, compared with 55 percent in 2000.
+CA 2004 ANNUAL REPORT | PAGE 3
+Artwork: Paul Wearing, London
+
+In addition, 95 percent of our customers rate the CA products they use as “important” or “mission- critical” to their business operations. These numbers suggest that we are well positioned to pursue even more strategic and collaborative partnerships, which our customers tell us are essential to their continued success.
+Building Partnerships
+As we continue to deepen our relationships with customers, we are also looking for ways to expand our customer base. Accordingly, we’ve identified the small and medium enterprise market as a key growth opportunity for CA going forward, and
+we are determined to serve these important customers with programs tailored to their needs.
+We recognize that not all customers want to license software directly from CA, and we want to make it simple for them to purchase and use CA solutions that meet their needs. So last year, we reorganized our channel operations to do just that. We’ve also simplified our CA Partner Program to make it easier for partners to do business with us. During the first six months of our North American Partner Program, 3,000 resellers and solution providers began carrying CA solutions. We will continue to enhance our channel business and our partnerships in ways that benefit our customers.
+The Year Ahead
+In fiscal 2005, we believe the IT sector is likely to continue to build momentum. As the U.S. economy slowly strengthens, businesses have begun to invest again in critical IT systems. We also have seen security spending rise. We believe these trends will continue in the year ahead.
+At the same time, we know today’s IT buyers
+are cautious and exceedingly savvy. They want to see a quantifiable return on every dollar they invest. We designed and delivered our Enterprise Infrastructure Management software with one goal in mind: to lower the total cost of IT ownership. That’s one example. On the following pages, we discuss several technologies we are advancing that take these realities into consideration and that are already making a real difference for
+our customers.
+Envisioning Tomorrow
+To stay close with customers, we need to stay abreast of their business challenges.
+The biggest technology challenge faced by customers going forward is the growing complexity of the IT environment. With every IT vendor introducing new technology stacks, platforms and operating systems, customers are grappling with the difficulty of integrating
+incompatible products and solutions. As a result, virtually every organization is searching for a way to make IT ownership more efficient, responsive and better aligned with its business.
+CA has a solution to this problem: better management software — from the management software experts. CA is ideally positioned to help our customers manage their complex IT infrastructures because our software is com- plete, integrated and open. By complete, we mean operations, storage, security, and life cycle and service management. By integrated, we mean business data, business processes and the user experience. By open, we mean providing the framework to manage heterogeneous IT environments.
+With better management software, customers can realize all the benefits of their current IT resources, while ensuring that they are prepared to meet the business challenges of the future.
+Clearly, that’s a message that resonates in today’s budget-conscious IT marketplace. Last year, CIOs spent more on management software than on applications. The need is real — and CA is here to help.
+But we believe there’s something of real significance happening in the IT industry that will outlast current economic imperatives. The history of computing has moved through three key phases: the mainframe, the distributed environment and Internet computing. Now we’re entering a fourth phase, which is bringing all these environments together in the Age of Management Software. CA is at the forefront of this revolution, because we have the experience, expertise and technology to deliver on the promise of management software. As the IT environment continues to evolve, CA will consolidate its leadership in the management space and will help write a new chapter in the history of our industry.
+This is an exciting time to be part of the IT industry — and an especially promising time
+for CA, our employees, our customers and our shareholders. We are committed to ensuring that CA conducts itself according to the highest standards of financial controls and integrity, and we are moving forward by empowering the men and women of CA to build on their many achieve- ments. Thank you for your continued support.
+Regards,
+Lewis S. Ranieri
+Chairman of the Board
+Kenneth D. Cron
+Interim Chief Executive Officer
+  
