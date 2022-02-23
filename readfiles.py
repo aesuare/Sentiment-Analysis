@@ -1,34 +1,34 @@
 import os
-from WordIndex import word_index
+
+def readfiles():
+    # Folder Path
+    path = "/Users/alfredosuarez/Desktop/Files/Sentiment-Analysis/Datasets/Texts"
+
+    paragraphs = []
+
+    # Change the directory
+    os.chdir(path)
+
+    # Read text File
+    def read_text_file(file_path, lst):
+        with open(file_path, 'r', encoding="iso-8859-1") as f:
+            paragraph = f.read()
+            paragraph_list = paragraph.split()
+            alnum_paragraph = []
+            for word in paragraph_list:
+                is_word_alphanumeric = word.isalpha()
+                if is_word_alphanumeric:
+                    alnum_paragraph.append(word.lower())
+            cleaned_paragraph = " ".join(alnum_paragraph)
+            lst.append(cleaned_paragraph)
 
 
-TEXT_FILES = []
+    # Iterate through all file
+    for file in os.listdir():
+        # Check whether file is in text format or not
+        if file.endswith(".txt"):
+            file_path = f"{path}/{file}"
+            # call read text file function
+            read_text_file(file_path, paragraphs)
 
-
-for entry in os.scandir('.'):
-    if entry.is_file():
-        with open(entry, encoding='iso-8859-1') as curr_file:
-        # with open(entry, encoding ='ISO-8859-1') as curr_file:
-            file_contents = curr_file.read()
-            clean_contents = []
-
-            list_of_words = file_contents.split()
-
-            for word in list_of_words:
-                is_word_alpha = word.isalpha()
-                if is_word_alpha:
-                    clean_contents.append(word.lower())
-
-            paragraph = " ".join(clean_contents)
-            TEXT_FILES.append(paragraph)
-
-
-for paragraph in TEXT_FILES:
-    int_words = []
-    for word in paragraph:
-        int_word = word_index[word]
-        if int_word:
-            int_words.append(int_word)
-        else:
-            int_words.append(1)
-    print(int_words)
+    return paragraphs
