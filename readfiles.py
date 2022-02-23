@@ -12,6 +12,9 @@ def readfiles():
     # Read text File
     def read_text_file(file_path, lst):
         with open(file_path, 'r', encoding="iso-8859-1") as f:
+            raw_file_name = f.name
+            raw_file_name_list = raw_file_name.split("/")
+            curr_file_name = raw_file_name_list[-1]
             paragraph = f.read()
             paragraph_list = paragraph.split()
             alnum_paragraph = []
@@ -20,7 +23,8 @@ def readfiles():
                 if is_word_alphanumeric:
                     alnum_paragraph.append(word.lower())
             cleaned_paragraph = " ".join(alnum_paragraph)
-            lst.append(cleaned_paragraph)
+            return_contents = [curr_file_name, cleaned_paragraph]
+            lst.append(return_contents)
 
 
     # Iterate through all file
@@ -32,3 +36,5 @@ def readfiles():
             read_text_file(file_path, paragraphs)
 
     return paragraphs
+
+print(readfiles())
