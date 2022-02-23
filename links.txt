@@ -18,3 +18,6 @@ https://www.tensorflow.org/guide/keras/masking_and_padding
 
 # Continuous Regression Problems TensorFlow
 https://www.tensorflow.org/tutorials/keras/regression
+
+# TensorFlow NLP Sample Google Colab
+https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%202%20-%20Lesson%202.ipynb#scrollTo=FufaT4vlkiDE
