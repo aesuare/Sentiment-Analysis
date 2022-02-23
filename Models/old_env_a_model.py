@@ -63,9 +63,20 @@ word_index = tokenizer.word_index   # dictionary mapping each word to its intege
 sequences = tokenizer.texts_to_sequences(sentences)
 padded = pad_sequences(sequences, maxlen=300, padding='post')
 
+eighty_percent_mark = int(round(len(padded)*0.8))
 
-training_padded = np.array(padded)
-training_scores = np.array(scores)
+# Divide lists into training testing
+tr_pad = padded[:eighty_percent_mark]
+tr_sco = scores[:eighty_percent_mark]
+te_pad = padded[eighty_percent_mark:]
+te_sco = scores[eighty_percent_mark:]
+
+
+# Convert lists into numpy arrays
+training_padded = np.array(tr_pad)
+training_scores = np.array(tr_sco)
+testing_padded = np.array(te_pad)
+testing_scores = np.array(te_sco)
 
 
 
@@ -77,8 +88,8 @@ model = tf.keras.Sequential([
     tf.keras.layers.Dense(1, activation='sigmoid'),
 ])
 
-model.compile(loss='mean_squared_error', optimizer='adam', metrics=['accuracy'])
-model.fit(training_padded, training_scores, epochs=NUM_EPOCHS, verbose=2)
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+model.fit(training_padded, training_scores, epochs=NUM_EPOCHS, validation_data=(testing_padded, testing_scores))
 
 model.summary()
 
@@ -554,31 +565,15 @@ Robert G. Wilmers
 ]
 
 
-predictions = []
-
-# for sentence in test_sentences:
-#     sequences = tokenizer.texts_to_sequences(sentence)
-#     print(type(sequences))
-#     # padded = pad_sequences(sequences, maxlen=MAX_LENGTH, padding='post', truncating='post')
-#     # for pad in padded:
-#     #     print(pad)
-
-#     # test_padded = np.array(padded)
-#     # print(f"Padded length: {len(padded)}")
-#     #     prediction = model.predict(padded)
-#     #     predictions.append(prediction)
-
-# print(predictions)
-# quit()
 np_test_sentences = np.array(test_sentences)
 test_sequences = tokenizer.texts_to_sequences(np_test_sentences)
 test_padded = pad_sequences(test_sequences, maxlen=MAX_LENGTH, padding='post', truncating='post')
 
 
 
+predictions = model.predict(test_padded).tolist()
 
-for pad in test_padded:
-    new_pad = pad.reshape(300,)
-    prediction = model.predict(new_pad)
-    print(f"Prediction: {prediction}")
-
+for prediction in predictions:
+  prediction_value = prediction[0]
+  int_prediction = int(round(prediction_value*5))
+  print(int_prediction)
