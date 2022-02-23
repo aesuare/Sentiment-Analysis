@@ -3,7 +3,7 @@ There's nothing here yet, but this will be where we execute all the logic built 
 the rest of the repository..
 """
 from WordIndex import word_index
-from Scores.div_a import DIV_A
+from Models.Scores.div_a import DIV_A
 import tensorflow as tf
 
 all_int_words = []
