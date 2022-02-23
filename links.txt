@@ -15,3 +15,6 @@ https://towardsdatascience.com/natural-language-processing-with-tensorflow-e0a70
 
 # Masking and Padding with TensorFlow
 https://www.tensorflow.org/guide/keras/masking_and_padding
+
+# Continuous Regression Problems TensorFlow
+https://www.tensorflow.org/tutorials/keras/regression
