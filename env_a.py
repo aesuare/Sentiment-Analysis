@@ -119,11 +119,20 @@ np_predictions = model.predict(test_padded)
 predictions = np_predictions.tolist()
 
 
-SCORES = {}
+def env_a_predictions(readfiles_result):
+    # Create list of sentences
+    curr_sentences = []
+    for lst in readfiles_result:
+        curr_sentences.append(text:= lst[1])
 
-for name, prediction in zip(sentence_names, predictions):
-    prediction_value = prediction[0]
-    prediction = int(round(prediction_value*5))
-    SCORES[name] = prediction
-
-print(SCORES)
+    curr_np_sentences = np.array(curr_sentences)
+    curr_sequences = tokenizer.texts_to_sequences(curr_np_sentences)
+    curr_padded = pad_sequences(curr_sequences, maxlen=MAX_LENGTH, padding='post', truncating='post')
+    curr_np_predictions = model.predict(curr_padded)
+    model_predictions = curr_np_predictions.tolist()
+    predictions = []
+    for prediction in model_predictions:
+        prediction_value = prediction[0]
+        real_prediction = int(round(prediction_value*5))
+        predictions.append(real_prediction)
+    return predictions
