@@ -36,5 +36,3 @@ def readfiles():
             read_text_file(file_path, paragraphs)
 
     return paragraphs
-
-print(readfiles())
