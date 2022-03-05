@@ -1,13 +1,12 @@
 from WriteToResults import WriteToExcel
+import numpy as np
+import tensorflow as tf
 from readfiles import readfiles
+from env_a import env_a_predictions
 
-env_a_dict = {}
+print("Reading files...")
+lists = readfiles()
+print("Finished reading files...")
 
-for lst in readfiles():
-    print(f"lst: {lst}")
-    file_name = lst[0]
-    file_text = lst[1]
-
-    env_a_dict[file_name] = file_text
-
-WriteToExcel(env_a_dict, 2)
+predictions = env_a_predictions(lists)
+print(predictions)
