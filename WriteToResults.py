@@ -29,6 +29,11 @@ def WriteToExcel(scores_dict, column_number):
             current_row += 1
 
     else:
-        pass
+        # this is a lie - if we've hit this its because we've been given a list object not a dictionary
+        for score in scores_dict:
+            score_cell = sheet_obj.cell(column=column_number, row=current_row)
+            score_cell.value = score 
+            current_row += 1
+
 
     wb_obj.save('/Users/'+getpass.getuser()+'/Desktop/Files/Sentiment-Analysis/Results.xlsx')
