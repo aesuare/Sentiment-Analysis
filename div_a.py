@@ -16,7 +16,7 @@ for index, row in messages_df.iterrows():
     file_text[row['File Name']] = row['Text']
 file_score = {}
 for index, row in scores_df.iterrows():
-    file_score[row['Merged']] = row['env_a']
+    file_score[row['Merged']] = row['div_a']
 
 sentences = []
 scores = []
@@ -119,7 +119,7 @@ np_predictions = model.predict(test_padded)
 predictions = np_predictions.tolist()
 
 
-def env_a_predictions(readfiles_result):
+def div_a_predictions(readfiles_result):
     # Create list of sentences
     curr_sentences = []
     for lst in readfiles_result:
