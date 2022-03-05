@@ -1,28 +1,13 @@
-"""
-There's nothing here yet, but this will be where we execute all the logic built throughout
-the rest of the repository..
-"""
-from WordIndex import word_index
-from Models.Scores.div_a import DIV_A
-import tensorflow as tf
+from WriteToResults import WriteToExcel
+from readfiles import readfiles
 
-all_int_words = []
+env_a_dict = {}
 
-for key in DIV_A:
-    word_list = key.split()
-    int_words = []
-    for word in word_list:
-        try:
-            int_word = word_index[word]
-            if int_word:
-                int_words.append(int_word)
-            else:
-                int_words.append(1)
-        except:
-            pass
-    all_int_words.append(int_words)
+for lst in readfiles():
+    print(f"lst: {lst}")
+    file_name = lst[0]
+    file_text = lst[1]
 
-# Holds equal length vectors for the words of each sentence
-padded_inputs = tf.keras.preprocessing.sequence.pad_sequences(
-    all_int_words, padding='post', maxlen=300
-)
+    env_a_dict[file_name] = file_text
+
+WriteToExcel(env_a_dict, 2)
