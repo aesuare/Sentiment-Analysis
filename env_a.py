@@ -95,18 +95,35 @@ model.fit(training_padded, training_scores, epochs=NUM_EPOCHS, validation_data=(
 model.summary()
 
 
-test_sentences = readfiles()
+# test_sentences = readfiles()
+# np_test_sentences = np.array(test_sentences)
+# test_sequences = tokenizer.texts_to_sequences(np_test_sentences)
+# test_padded = pad_sequences(test_sequences, maxlen=MAX_LENGTH, padding='post', truncating='post')
+
+
+raw_test_sentences = readfiles()
+sentence_names = []
+test_sentences = []
+for sentence in raw_test_sentences:
+    sentence_name = sentence[0]
+    actual_sentence = sentence[1]
+    
+    sentence_names.append(sentence_name)
+    test_sentences.append(actual_sentence)
 
 np_test_sentences = np.array(test_sentences)
 test_sequences = tokenizer.texts_to_sequences(np_test_sentences)
 test_padded = pad_sequences(test_sequences, maxlen=MAX_LENGTH, padding='post', truncating='post')
 
+np_predictions = model.predict(test_padded)
+predictions = np_predictions.tolist()
 
 
-predictions = model.predict(test_padded).tolist()
+SCORES = {}
 
-for prediction in predictions:
-  prediction_value = prediction[0]
-  int_prediction = int(round(prediction_value*5))
-  print(int_prediction)
+for name, prediction in zip(sentence_names, predictions):
+    prediction_value = prediction[0]
+    prediction = int(round(prediction_value*5))
+    SCORES[name] = prediction
 
+print(SCORES)
