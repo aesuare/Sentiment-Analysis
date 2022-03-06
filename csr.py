@@ -133,6 +133,6 @@ def csr_predictions(readfiles_result):
     predictions = []
     for prediction in model_predictions:
         prediction_value = prediction[0]
-        real_prediction = int(round(prediction_value*7))
+        real_prediction = int(round(prediction_value*5))
         predictions.append(real_prediction)
     return predictions
